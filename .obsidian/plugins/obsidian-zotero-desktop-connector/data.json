@@ -1,0 +1,18 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "3. Literature Notes",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "ACM",
+      "format": "formatted-bibliography",
+      "cslStyle": "association-for-computing-machinery"
+    }
+  ],
+  "exportFormats": [],
+  "shouldShowCiteSuggest": false,
+  "openNoteAfterImport": true,
+  "shouldConcat": true
+}

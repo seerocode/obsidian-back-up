@@ -1,0 +1,7 @@
+{
+  "spellcheck": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}

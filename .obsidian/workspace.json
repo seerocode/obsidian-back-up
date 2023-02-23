@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "a04c0411f40eea33",
+    "type": "split",
+    "children": [
+      {
+        "id": "06314f104ec4c3db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b7181bbbce3539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Literature Notes/@davis_algorithmic_2021 -- Algorithmic reparation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "151f705a5b8d094c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e75f7229a72e88b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "be3afdb9d4c2a8f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c223cfc859cfad2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c08125fc3fa55447",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a87c4889da2ad316",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e033c9607aacd0af",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9710ea00f00741ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "91fe481728a338f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cea75905e4f22b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "256551282451462d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9af6ce748bea507",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2da971fc62784c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "a54355064d1607b4",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4dcb2d102bda068",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "b126fa2af18fabf9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "card-board:CardBoard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "151f705a5b8d094c",
+  "lastOpenFiles": [
+    "Home.md",
+    "Important.md",
+    "Templates/Literature Note.md",
+    "3. Literature Notes/@davis_algorithmic_2021 -- Algorithmic reparation.md",
+    "3. Literature Notes/davis_algorithmic_2021.md",
+    "3. Literature Notes/@_how_2021 -- How to Generate Research Ideas That Impact Society.md",
+    "3. Literature Notes/Algorithmic reparation.md",
+    "Algorithmic reparation - Annotations.md",
+    "3. Literature Notes/@young_confronting_2022 -- Confronting Power and Corporate Capture at the FAccT Conference.md",
+    "1. Projects/Ideas Tracker.md"
+  ]
+}

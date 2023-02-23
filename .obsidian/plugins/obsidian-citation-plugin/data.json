@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}} -- {{title}}",
+  "literatureNoteFolder": "3. Literature Notes",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\ntags: {{entry.data.fields.keywords}}\n\n---\n\n### Metadata:\n\nTitle: {{title}}\nAuthor: {{author}}\nURL: {{URL}}\nCite: [{{citekey}}]({{zoteroSelectURI}})\nAttachments: {{pdfAttachments}}\n\n---\n\n### Abstract: \n{{abstract}}\n\n***\n\n### Notes from Zotero:\n{{note}}\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/ro/Documents/zoterolibrary.bib"
+}
