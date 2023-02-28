@@ -1,5 +1,70 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "hl-green": {
+      "type": "hl-green",
+      "color": "25, 148, 95",
+      "icon": {
+        "name": "arrow-circle-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Follow-Up",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "hl-blue-questions": {
+      "type": "hl-blue-questions",
+      "color": "89, 138, 177",
+      "icon": {
+        "name": "question-circle",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Question/Confusing",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "hl-red-critiques": {
+      "type": "hl-red-critiques",
+      "color": "221, 95, 95",
+      "icon": {
+        "name": "exclamation-circle",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Critique/Disagreement",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "hl-purple-important": {
+      "type": "hl-purple-important",
+      "color": "193, 139, 183",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-trophy"
+      },
+      "command": false,
+      "title": "Important Conclusion",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "hl-default": {
+      "type": "hl-default",
+      "color": "183, 152, 42",
+      "icon": {
+        "name": "lightbulb",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": true
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": true,
   "version": "9.2.1",
@@ -7,15 +72,17 @@
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
-  "dropShadow": true,
+  "dropShadow": false,
   "hideEmpty": false,
   "open": {
     "admonitions": true,
     "icons": true,
     "other": true,
-    "advanced": false
+    "advanced": true
   },
-  "icons": [],
+  "icons": [
+    "octicons"
+  ],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,

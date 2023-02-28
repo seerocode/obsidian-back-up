@@ -3,5 +3,7 @@
   "showUnsupportedFiles": true,
   "userIgnoreFilters": [
     "Templates/"
-  ]
+  ],
+  "newFileLocation": "root",
+  "defaultViewMode": "preview"
 }

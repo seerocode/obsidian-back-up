@@ -1,0 +1,85 @@
+{
+  "defaultInitialization": false,
+  "filePreviewOnHover": false,
+  "markSans": false,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "makerMode": true,
+  "inlineStylerColors": true,
+  "editorFlow": true,
+  "internalLinkClickFlow": true,
+  "contextEnabled": true,
+  "saveAllContextToFrontmatter": true,
+  "editorFlowStyle": "seamless",
+  "autoOpenFileContext": false,
+  "activeView": "root",
+  "hideFrontmatter": false,
+  "activeSpace": "",
+  "spacesCompactMode": false,
+  "defaultDateFormat": "MMM dd yyyy",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "collapsedTags": [],
+  "enableFolderNote": true,
+  "folderIndentationLines": true,
+  "revealActiveFile": false,
+  "spacesStickers": true,
+  "spaceRowHeight": 29,
+  "spacesDisablePatch": true,
+  "folderNoteInsideFolder": true,
+  "sidebarTabs": false,
+  "showRibbon": false,
+  "deleteFileOption": "trash",
+  "expandedFolders": {
+    "/": [
+      "1. Projects",
+      "3. Books",
+      "3. Books/Books",
+      "2. Papers",
+      "2. Papers/Books",
+      "2. Readings. Papers",
+      "02 Readings. Papers",
+      "02 Readings",
+      "01 Projects",
+      "02 Readings/Books"
+    ]
+  },
+  "expandedSpaces": [
+    "/",
+    null,
+    "2. Papers",
+    null
+  ],
+  "folderRank": {
+    "node": "root",
+    "children": [],
+    "isFolder": true
+  },
+  "openFolders": [],
+  "fileIcons": [],
+  "spaces": [],
+  "pinnedSpaces": [],
+  "menuTriggerChar": "/",
+  "emojiTriggerChar": ":",
+  "folderContextFile": "context",
+  "tagContextFolder": "Context",
+  "hiddenFiles": [
+    "Context"
+  ],
+  "lineNumbers": false,
+  "hiddenExtensions": [
+    "mdb"
+  ],
+  "vaultSort": [
+    "rank",
+    true
+  ],
+  "newFileLocation": "root",
+  "inlineBacklinks": true,
+  "inlineContext": true,
+  "inlineBacklinksExpanded": true,
+  "inlineContextExpanded": true,
+  "dataviewInlineContext": false,
+  "inlineContextNameLayout": "vertical"
+}

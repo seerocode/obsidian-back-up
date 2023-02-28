@@ -41,5 +41,9 @@
   "text-extractor",
   "obsidian-admonition",
   "readwise-official",
-  "obsidian-git"
+  "obsidian-git",
+  "cmenu-plugin",
+  "obsidian-reading-time",
+  "obsidian-focus-mode",
+  "make-md"
 ]

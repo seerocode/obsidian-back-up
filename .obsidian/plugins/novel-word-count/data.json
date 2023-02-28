@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "countType": "none",
+    "countType2": "modified",
+    "countType3": "none",
+    "abbreviateDescriptions": true,
+    "alignment": "below",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "Templates/Post-Mortem.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 28,
+      "nonWhitespaceCharacterCount": 23,
+      "createdDate": 1676125703434,
+      "modifiedDate": 1676125765585
+    },
+    "Templates/Literature Note.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 81,
+      "nonWhitespaceCharacterCount": 65,
+      "createdDate": 1676126025687,
+      "modifiedDate": 1676615125053
+    },
+    "Home.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676124585650,
+      "modifiedDate": 1676957346894
+    },
+    "1. Projects/Ideas Tracker.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 70,
+      "createdDate": 1676666667206,
+      "modifiedDate": 1676667283914
+    }
+  }
+}

@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "06314f104ec4c3db",
+        "id": "dac05080a29c7049",
         "type": "tabs",
         "children": [
           {
-            "id": "94b7181bbbce3539",
+            "id": "76bc790c1325d9aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "3. Literature Notes/@davis_algorithmic_2021 -- Algorithmic reparation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "151f705a5b8d094c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "contextPath": "02 Readings/Books"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +50,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -87,12 +70,21 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "3bfa395976dc8a0e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285
   },
   "right": {
     "id": "9710ea00f00741ad",
@@ -108,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,27 +184,43 @@
       "publish:Publish changes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "card-board:CardBoard": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "templater-obsidian:Templater": false,
       "zk-prefixer:Create new unique note": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "151f705a5b8d094c",
+  "active": "76bc790c1325d9aa",
   "lastOpenFiles": [
-    "Home.md",
-    "Important.md",
+    "02 Readings/Books/Race After Technology (Highlights).md",
+    "02 Readings/Books",
+    "02 Readings/Papers",
+    "02 Readings",
+    "01 Projects/Ideas Tracker.md",
+    "01 Projects",
+    "02 Readings. Papers/Books",
+    "2. Papers/Untitled.md",
+    "02 Readings. Papers/Papers",
+    "02 Readings. Papers/Books/Race After Technology (Highlights).md",
     "Templates/Literature Note.md",
+    "Context",
+    "Templates/Post-Mortem.md",
+    "Readwise/Books/Race After Technology.md",
+    "Home.md",
+    "3. Books/Books",
+    "3. Books",
     "3. Literature Notes/@davis_algorithmic_2021 -- Algorithmic reparation.md",
+    "Important.md",
+    "Untitled.md",
     "3. Literature Notes/davis_algorithmic_2021.md",
     "3. Literature Notes/@_how_2021 -- How to Generate Research Ideas That Impact Society.md",
     "3. Literature Notes/Algorithmic reparation.md",
     "Algorithmic reparation - Annotations.md",
-    "3. Literature Notes/@young_confronting_2022 -- Confronting Power and Corporate Capture at the FAccT Conference.md",
-    "1. Projects/Ideas Tracker.md"
+    "3. Literature Notes/@young_confronting_2022 -- Confronting Power and Corporate Capture at the FAccT Conference.md"
   ]
 }
