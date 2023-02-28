@@ -13,7 +13,7 @@
             "state": {
               "type": "make-folder-view",
               "state": {
-                "contextPath": "02 Readings/Books"
+                "contextPath": "01 Projects"
               }
             }
           }
@@ -197,11 +197,14 @@
   },
   "active": "76bc790c1325d9aa",
   "lastOpenFiles": [
+    "01 Projects/Ideas Tracker.md",
+    "02 Readings/Papers/Untitled Kanban.md",
+    "02 Readings/Books/Books.md",
+    "02 Readings/Books/context.mdb",
     "02 Readings/Books/Race After Technology (Highlights).md",
     "02 Readings/Books",
     "02 Readings/Papers",
     "02 Readings",
-    "01 Projects/Ideas Tracker.md",
     "01 Projects",
     "02 Readings. Papers/Books",
     "2. Papers/Untitled.md",
