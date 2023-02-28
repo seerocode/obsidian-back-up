@@ -1,18 +1,17 @@
 {
   "token": "xqhdbA7laUZ95tFq0g84SCNpcBV0uWLcXRJKxcqys7zrn4vj7d",
-  "readwiseDir": "02 Readings",
+  "readwiseDir": "02 Readings/Readwise",
   "frequency": "0",
-  "triggerOnLoad": true,
+  "triggerOnLoad": false,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 7539797,
+  "lastSavedStatusID": 7546252,
   "currentSyncStatusID": 0,
-  "refreshBooks": false,
-  "booksToRefresh": [
-    "24564766",
-    "24840156",
-    "24841399"
-  ],
-  "booksIDsMap": {},
+  "refreshBooks": true,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin Highlights.md": "24840156",
+    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md": "24841399"
+  },
   "reimportShowConfirmation": true
 }

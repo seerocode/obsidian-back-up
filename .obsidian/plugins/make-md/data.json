@@ -28,8 +28,8 @@
   "spaceRowHeight": 29,
   "spacesDisablePatch": true,
   "folderNoteInsideFolder": true,
-  "sidebarTabs": false,
-  "showRibbon": false,
+  "sidebarTabs": true,
+  "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
@@ -80,6 +80,6 @@
   "inlineContext": true,
   "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
-  "dataviewInlineContext": false,
+  "dataviewInlineContext": true,
   "inlineContextNameLayout": "vertical"
 }

@@ -1,0 +1,111 @@
+---
+alias: Race After Technology Highlights
+---
+# Race After Technology
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-2.dae1dc4d332b.png)
+
+## Readwise Information
+>Author:: [[Ruha Benjamin;]]
+>Title:: Race After Technology
+>Type:: #Readwise/category/books
+>Last-Highlighted-Date:: [[2023-02-28]]
+>Link:: https://readwise.io/bookreview/24841399
+>Readwise-Source:: #Readwise/source/ibooks
+>Related-To::
+>Tags::
+>Review-for-Repurpose::
+---
+
+## Linked Notes from Around My Vault
+
+```dataview
+LIST
+FROM [[Race After Technology by Ruha Benjamin; Highlights]]
+```
+---
+
+```dataview
+list without id
+L.text
+from "02 Readings/Readwise/Books"
+flatten file.lists as L
+where contains(L.tags, "#hl-purple")
+```
+
+## Highlights
+- Business as usual. #hl
+    - Note: People aren’t even fazed by police racism anymore
+- Like everyone who lives in a heavily policed neighborhood, I grew up with a keen sense of being watched. #hl
+- other people’s safety and freedom are predicated on our containment. #hl
+    - Note: Black people scapegoated as the reason for increased incarceration
+- I already knew he would be profiled as a Black youth and adult, so, like most Black mothers, I had already started mentally sparring those who would try to harm my child, even before he was born. #hl
+    - Note: I also had this same thought process. A name could make you a target.
+- ignoring the voice in our head that says, “No way!” “Impossible!” “Not realistic!” #hl
+    - Note: Be stubborn in pursuit of equity and justice!
+- hope is a discipline.”1 #hl-green 
+    - See also: [[green]] 
+- Amid so much suffering and injustice, we cannot resign ourselves to this reality we have inherited. #hl
+    - Note: Stop being resilient
+- What’s in a name? Your family story, your religion, your nationality, your gender identity, your race and ethnicity? What assumptions do you think people make about you on the basis of your name? What about your nicknames – are they chosen or imposed? From intimate patterns in dating and romance to large-scale employment trends, our names can open and shut doors. #hl
+    - Note: Economics of names
+- the presumed blandness of White American culture is a crucial part of our national narrative. #hl
+- names have power by virtue of their perceived neutrality #hl
+- They trigger stories about what kind of person is behind the name – their personality and potential, where they come from but also where they should go. #hl-purple 
+    - See also: [[purple]] 
+    - Note: Names automatically create an idea of who this person may be. The conclusion to the “Everyday Coding” section of names.
+- spurious correlations, reinforced by institutional inequities, and polluted by confirmation bias.”9 #hl
+- boys lined up for police pat-downs #hl
+    - Note: Author’s personal connection to racism by police
+- Now, in the age of big data, many of us continue to be monitored and measured, but without the audible rumble of helicopters to which we can point. #hl-purple 
+    - See also: [[purple]] 
+- names are racially coded #hl-purple 
+    - See also: [[purple]] 
+- Depending on one’s name, one is more likely to be detained by state actors in the name of “public safety.” #hl
+- Together, we will work to decode the powerful assumptions and values embedded in the material and digital architecture of our world #hl-purple 
+    - See also: [[purple]] 
+    - Note: What the author aim’s to accomplish with the reader
+- more just and equitable approach to tech #hl-purple 
+    - See also: [[purple]] 
+- reimagine what is possible #hl-purple 
+    - See also: [[purple]] 
+    - Note: Author urges audience to re-imagine structures to make equity and justice possible
+- names reflect much longer histories of conflict and assimilation and signal fierce political struggles #hl-purple 
+    - See also: [[purple]] 
+- a symptom of the chronic anti-Blackness that pervades even attempts to “celebrate difference.” #hl
+- Not only does this this reek of classism, but it also harbors a willful disregard for the fact that everyone’s names were at one point made up!3 #hl-purple 
+    - See also: [[purple]] 
+    - Note: The hypocrisy of pointing out uniquely spelled names as uneducated or below someone when everyone’s name was made up.
+- Invisibility, with regard to Whiteness, offers immunity. To be unmarked by race allows you to reap the benefits but escape responsibility for your role in an unjust system. #hl-purple 
+    - See also: [[purple]] 
+    - Note: Woooooh!!! To be invisible is to be free and unaccountable.
+- A “normal” name is just one of many tools that reinforce racial invisibility. #hl
+- some people, by virtue of their social position, are given more license to experiment with unique names. #hl-purple 
+    - See also: [[purple]] 
+    - Note: Like celebrities naming their kids Apple or North.
+- In a classic study of how names impact people’s experience on the job market, researchers show that, all other things being equal, job seekers with White-sounding first names received 50 percent more callbacks from employers than job seekers with Black-sounding names.5 #hl
+    - Note: Racism in names backed up by data. Setting up the history of racial coding of names.
+- Yet, rather than challenging or overcoming the cycles of inequity, technical fixes too often reinforce and even deepen the status quo. #hl-purple 
+    - See also: [[purple]] 
+- They found that the algorithm associated White-sounding names with “pleasant” words and Black-sounding names with “unpleasant” ones.7 #hl-blue 
+    - See also: [[blue]] 
+    - Note: Was the algorithm assumed to be better at mitigating bias than humans? Was this the fix? Seems like they were ignorant to the historical data issue. Need to look into this further as this doesn’t really back up their point that well as it is written.
+- the New Jim Code”: the employment of new technologies that reflect and reproduce existing inequities but that are promoted and perceived as more objective or progressive than the discriminatory systems of a previous era.8 #hl-purple 
+    - See also: [[purple]] 
+    - Note: Benjamin’s introduction of this term — may be repeated throughout the book
+- Racial codes are born from the goal of, and facilitate, social control. #hl
+- once something or someone is coded, this can be hard to change. #hl-purple 
+    - See also: [[purple]] 
+    - Note: Essentially, once a target, always a target.
+- Codes, in short, operate within powerful systems of meaning that render some things visible, others invisible, and create a vast array of distortions and dangers. #hl-purple 
+    - See also: [[purple]] 
+- Race after Technology aims to cut through industry hype to offer a field guide into the world of biased bots, altruistic algorithms, and their many coded cousins. #hl-purple 
+    - See also: [[purple]] 
+    - Note: Aims of the book
+- the road to inequity is paved with technical fixes. #hl-purple 
+    - See also: [[purple]] 
+    - Note: Benjamin seems to be alluding to tech not always being the right answer or the answer at all.
+### Preface
+### IntroductionThe New Jim Code
+#### Everyday Coding
+#### Move Slower …

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dac05080a29c7049",
+        "id": "208a4372b7e9873b",
         "type": "tabs",
         "children": [
           {
-            "id": "76bc790c1325d9aa",
+            "id": "8ade82cc6050d468",
             "type": "leaf",
             "state": {
               "type": "make-folder-view",
               "state": {
-                "contextPath": "01 Projects"
+                "contextPath": "02 Readings/Readwise/Books"
               }
             }
           }
@@ -50,7 +50,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 304
   },
   "right": {
     "id": "9710ea00f00741ad",
@@ -195,9 +195,21 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "76bc790c1325d9aa",
+  "active": "8ade82cc6050d468",
   "lastOpenFiles": [
+    "2023-02-28.md",
+    "202302281138.md",
+    "purple.md",
+    "Untitled 1.canvas",
+    "202302281137.md",
+    "Home.md",
+    "Untitled.canvas",
+    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
+    "02 Readings/Readwise/Readwise Syncs.md",
+    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin Highlights.md",
+    "02 Readings/Readwise/Books",
     "01 Projects/Ideas Tracker.md",
+    "02 Readings/Readwise",
     "02 Readings/Papers/Untitled Kanban.md",
     "02 Readings/Books/Books.md",
     "02 Readings/Books/context.mdb",
@@ -214,9 +226,6 @@
     "Context",
     "Templates/Post-Mortem.md",
     "Readwise/Books/Race After Technology.md",
-    "Home.md",
-    "3. Books/Books",
-    "3. Books",
     "3. Literature Notes/@davis_algorithmic_2021 -- Algorithmic reparation.md",
     "Important.md",
     "Untitled.md",

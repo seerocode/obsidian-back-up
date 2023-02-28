@@ -1,0 +1,46 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "hl-purple",
+              "displayTitle": "Important"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "02 Readings/Readwise"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Highlights",
+          "collapsedColumns": []
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": false
+    }
+  }
+}

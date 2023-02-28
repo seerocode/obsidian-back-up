@@ -1,5 +1,11 @@
 {
-  "calendarSources": [],
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#938dbf",
+      "url": "https://calendar.google.com/calendar/ical/rone%40seas.upenn.edu/private-d7a267092b7075f09c620f56d13f54d8/basic.ics"
+    }
+  ],
   "defaultCalendar": 0,
   "recursiveLocal": false,
   "firstDay": 1,
