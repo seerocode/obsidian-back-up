@@ -11,9 +11,12 @@
             "id": "8ade82cc6050d468",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "02 Readings/Readwise/Books"
+                "file": "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -100,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md"
+              }
             }
           },
           {
@@ -197,6 +204,8 @@
   },
   "active": "8ade82cc6050d468",
   "lastOpenFiles": [
+    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin Highlights.md",
+    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
     "2023-02-28.md",
     "202302281138.md",
     "purple.md",
@@ -204,9 +213,7 @@
     "202302281137.md",
     "Home.md",
     "Untitled.canvas",
-    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
     "02 Readings/Readwise/Readwise Syncs.md",
-    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin Highlights.md",
     "02 Readings/Readwise/Books",
     "01 Projects/Ideas Tracker.md",
     "02 Readings/Readwise",

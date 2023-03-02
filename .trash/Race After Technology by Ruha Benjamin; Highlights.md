@@ -3,11 +3,13 @@ alias: Race After Technology Highlights
 ---
 # Race After Technology
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-2.dae1dc4d332b.png)>## Readwise Information
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-2.dae1dc4d332b.png)
+
+## Readwise Information
 >Author:: [[Ruha Benjamin;]]
 >Title:: Race After Technology
 >Type:: #Readwise/category/books
->Last-Highlighted-Date:: [[2023-03-02]]
+>Last-Highlighted-Date:: [[2023-02-28]]
 >Link:: https://readwise.io/bookreview/24841399
 >Readwise-Source:: #Readwise/source/ibooks
 >Related-To::
@@ -22,6 +24,14 @@ LIST
 FROM [[Race After Technology by Ruha Benjamin; Highlights]]
 ```
 ---
+
+```dataview
+list without id
+L.text
+from "02 Readings/Readwise/Books"
+flatten file.lists as L
+where contains(L.tags, "#hl-purple")
+```
 
 ## Highlights
 - Business as usual. #hl
@@ -95,49 +105,7 @@ FROM [[Race After Technology by Ruha Benjamin; Highlights]]
 - the road to inequity is paved with technical fixes. #hl-purple 
     - See also: [[purple]] 
     - Note: Benjamin seems to be alluding to tech not always being the right answer or the answer at all.
-- argue that tech fixes often hide, speed up, and even deepen discrimination, while appearing to be neutral or benevolent when compared to the racism of a previous era #hl-purple 
-    - See also: [[purple]] 
-    - Note: What the author’s argument is
-- discriminatory designs – some that explicitly work to amplify hierarchies, many that ignore and thus replicate social divisions, and a number that aim to fix racial bias but end up doing the opposite. #hl-purple 
-    - See also: [[purple]] 
-    - Note: The three compositions of the new Jim Code
-- Racial knowledge that had been dominated by anecdotal, hereditarian, and pseudo-biological theories of race would gradually be transformed by new social scientific theories of race and society and new tools of analysis, namely racial statistics and social surveys. Out of the new methods and data sources, black criminality would emerge, alongside disease and intelligence, as a fundamental measure of black inferiority.13 #hl-green 
-    - See also: [[green]] 
-- a shift from explicit racialization to a colorblind ideology #hl
-- “Criminal,” in this era, is code for Black, but also for poor, immigrant, second-class, disposable, unwanted, detritus. #hl
-- These tech advances are sold as morally superior because they purport to rise above human bias, even though they could not exist without data produced through histories of exclusion and discrimination #hl-purple 
-    - See also: [[purple]] 
-    - Note: The bias is in the data!
-- technology “sees” racial difference, and this range of vision can involve seemingly positive affirmations or celebrations of presumed cultural differences #hl
-- the humans who create the algorithms are hidden from view #hl
+### Preface
+### IntroductionThe New Jim Code
+#### Everyday Coding
 #### Move Slower …
-- yet we are expected to pay no attention to the man behind the screen.20 #hl-green 
-    - See also: [[green]] 
-- “[t]he datasets and models used in these systems are not objective representations of reality. They are the culmination of particular tools, people, and power structures that foreground one way of seeing or judging over another.”21 #hl-green 
-    - See also: [[green]] 
-- digital caste system #hl
-- Racism thus becomes doubled – magnified and buried under layers of digital denial #hl
-- For this reason, we should consider how private industry choices are in fact public policy decisions. #hl-purple 
-    - See also: [[purple]] 
-    - Note: Industry choices are political!!
-- So “political values” here is less about party affiliation or what people believe in the abstract and more to do with how the decisions of tech entrepreneurs impact questions of power, ethics, equity, and sociality. #hl-purple 
-    - See also: [[purple]] 
-- If someone is marked “risky” in one arena, that stigma follows him around much more efficiently, streamlining marginalization #hl
-- (55 percent, up from 45 percent) wants more regulation of the tech industry, saying that it does more to hurt democracy and free speech than help.29 #hl-green 
-    - See also: [[green]] 
-- in my view, that many tech insiders choose a more judicious approach to tech when it comes to raising their own kids.35 #hl
-- Those afforded the luxury of opting out are concerned with tech addiction #hl
-- Now I’m worried that too many people are listening.”39 #hl-green 
-    - See also: [[green]] 
-- For the rest of us, nanny contracts and Waldorf tuition are not an option, which is why the notion of a personal right to refuse privately is not a tenable solution.40 #hl-green 
-    - See also: [[green]] 
-- In fact these students have a lot to teach us about refusing tech fixes for complex social problems that come packaged in catchphrases like “personalized learning.” #hl-purple 
-    - See also: [[purple]] 
-    - Note: Refusal to accept techno-solutions to complex problems.
-- Coded inequity, in short, can be met with collective defiance, with resisting the allure of (depersonalized) personalization and asserting, in this case, the sociality of learning. #hl-purple 
-    - See also: [[purple]] 
-    - Note: We can push back on the tech that harms us.
-- Move slower and empower people. #hl-purple 
-    - See also: [[purple]] 
-    - Note: Yess!!!! #ideas
-#### Tailoring: Targeting
