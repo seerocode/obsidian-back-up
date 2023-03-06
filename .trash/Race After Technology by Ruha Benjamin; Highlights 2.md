@@ -1,15 +1,13 @@
 ---
-alias: Race After Technology [Highlights]
+alias: Race After Technology Highlights
 ---
 # Race After Technology
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-2.dae1dc4d332b.png)
- 
->## Readwise Information
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-2.dae1dc4d332b.png)>## Readwise Information
 >Author:: [[Ruha Benjamin;]]
 >Title:: Race After Technology
 >Type:: #Readwise/category/books
->Last-Highlighted-Date:: [[2023-03-06]]
+>Last-Highlighted-Date:: [[2023-03-02]]
 >Link:: https://readwise.io/bookreview/24841399
 >Readwise-Source:: #Readwise/source/ibooks
 >Related-To::
@@ -143,6 +141,11 @@ FROM [[Race After Technology by Ruha Benjamin; Highlights]]
     - See also: [[purple]] 
     - Note: Yess!!!! #ideas
 #### Tailoring: Targeting
+## New highlights added [[2023-03-06]] at 1:04 AM
+- the road to inequity is paved with technical fixes. #hl-purple 
+    - See also: [[purple]] 
+    - Note: Benjamin seems to be alluding to tech not always being the right answer or the answer at all.
+#### Move Slower …
 - In this way, this book challenges us to question not only the technologies we are sold, but also the ones we manufacture ourselves. #hl-purple 
     - See also: [[purple]] 
 - White studies programs? White student unions? No longer content with the power of invisibility, a vocal subset of the population wants to be recognized and celebrated as White – #hl
