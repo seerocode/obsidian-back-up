@@ -227,3 +227,31 @@ FROM [[Race After Technology by Ruha Benjamin; Highlights]]
 - the visibility of successful non-White individuals in almost every social arena can obscure the reality of the systemic bias that still affects many people #hl
     - Note: Just because we appear to be more prosperous, doesn’t mean we are!
 #### The Anti-Black Box
+## New highlights added [[2023-03-06]] at 1:30 AM
+- the road to inequity is paved with technical fixes. #hl-purple 
+    - See also: [[purple]] 
+    - Note: Benjamin seems to be alluding to tech not always being the right answer or the answer at all.
+#### Move Slower …
+- so long as algorithms become more tailored, the public will be given the illusion of progress.45 #hl-purple 
+    - See also: [[purple]] 
+    - Note: Tailoring of algorithms gives the illusion of progress
+- Race after Technology integrates the tools of science and technology studies (STS) and critical race studies to examine coded inequity and our contemporary racial landscape. #hl-purple 
+    - See also: [[purple]] 
+    - Note: What the book does
+- race critical code studies #hl
+- “Black box” is a metaphor commonly used in STS to describe how the social production of science and technology is hidden from view #hl-green 
+    - See also: [[green]] 
+- The Black Box Society, legal scholar Frank Pasquale (2014) #hl-green 
+    - See also: [[green]] 
+- inheres #hl
+- In practice, however, people living in urban centers would not qualify #hl-purple 
+    - See also: [[purple]] 
+    - Note: If Black people not in rural areas live close to wealthy areas, it would pull down the unemployment rate even though by race, the unemployment rate might be higher.
+- Public policy, then, like popular discourse, is filled with racial coding. Rural :: White and urban :: Black; so, without ever making race explicit, state lawmakers are able to carve out an exception for their White constituents. #hl-purple 
+    - See also: [[purple]] 
+    - Note: How coded inequity hides in public policy
+- race-conscious #hl
+    - Note: Be race-conscious, not race blind!
+- reinforce racist norms and structures without explicitly invoking race #hl
+    - Note: The use of proxies for coded inequity
+#### Race as Technology
