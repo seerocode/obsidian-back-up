@@ -5,20 +5,24 @@
       "path": "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md"
     },
     {
-      "basename": "Readwise Syncs",
-      "path": "02 Readings/Readwise/Readwise Syncs.md"
-    },
-    {
       "basename": "Ideas Tracker",
       "path": "01 Projects/Ideas Tracker.md"
+    },
+    {
+      "basename": "Daily Notes",
+      "path": "Templates/Daily Notes.md"
+    },
+    {
+      "basename": "Post-Mortem",
+      "path": "Templates/Post-Mortem.md"
     },
     {
       "basename": "Literature Note",
       "path": "Templates/Literature Note.md"
     },
     {
-      "basename": "Post-Mortem",
-      "path": "Templates/Post-Mortem.md"
+      "basename": "Readwise Syncs",
+      "path": "02 Readings/Readwise/Readwise Syncs.md"
     }
   ],
   "omittedPaths": [],

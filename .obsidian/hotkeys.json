@@ -7,5 +7,13 @@
       ],
       "key": "C"
     }
+  ],
+  "readwise-official:readwise-official-sync": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }

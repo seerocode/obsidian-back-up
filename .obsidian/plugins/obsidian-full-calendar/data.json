@@ -7,11 +7,11 @@
     }
   ],
   "defaultCalendar": 0,
-  "recursiveLocal": false,
+  "recursiveLocal": true,
   "firstDay": 1,
   "initialView": {
     "desktop": "timeGridWeek",
-    "mobile": "timeGrid3Days"
+    "mobile": "timeGridDay"
   },
   "timeFormat24h": false
 }

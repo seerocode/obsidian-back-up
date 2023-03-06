@@ -109,7 +109,7 @@ FROM [[Race After Technology by Ruha Benjamin; Highlights]]
 - “Criminal,” in this era, is code for Black, but also for poor, immigrant, second-class, disposable, unwanted, detritus. #hl
 - These tech advances are sold as morally superior because they purport to rise above human bias, even though they could not exist without data produced through histories of exclusion and discrimination #hl-purple 
     - See also: [[purple]] 
-    - Note: The bias is in the data!
+    - <mark style="background: #D6C4EBA6;">Note</mark>: The bias is in the data!
 - technology “sees” racial difference, and this range of vision can involve seemingly positive affirmations or celebrations of presumed cultural differences #hl
 - the humans who create the algorithms are hidden from view #hl
 #### Move Slower …

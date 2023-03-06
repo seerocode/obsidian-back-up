@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 274
   },
   "right": {
     "id": "9710ea00f00741ad",
@@ -199,12 +199,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "periodic-notes:Open this year": false,
+      "periodic-notes:Open this quarter": false,
+      "periodic-notes:Open this month": false,
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "97c6730cd105ddc6",
   "lastOpenFiles": [
+    "Ruha Benjamin;.md",
     "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
+    "01 Projects/Ideas Tracker.md",
+    "Templates/Daily Notes.md",
+    "Templates/Post-Mortem.md",
+    "Templates/Literature Note.md",
+    "03 Notes/2024",
+    "03 Notes/2023",
+    "03 Notes",
+    "00 Index",
     "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin Highlights.md",
     "2023-02-28.md",
     "202302281138.md",
@@ -215,7 +230,6 @@
     "Untitled.canvas",
     "02 Readings/Readwise/Readwise Syncs.md",
     "02 Readings/Readwise/Books",
-    "01 Projects/Ideas Tracker.md",
     "02 Readings/Readwise",
     "02 Readings/Papers/Untitled Kanban.md",
     "02 Readings/Books/Books.md",
@@ -224,14 +238,8 @@
     "02 Readings/Books",
     "02 Readings/Papers",
     "02 Readings",
-    "01 Projects",
-    "02 Readings. Papers/Books",
     "2. Papers/Untitled.md",
-    "02 Readings. Papers/Papers",
     "02 Readings. Papers/Books/Race After Technology (Highlights).md",
-    "Templates/Literature Note.md",
-    "Context",
-    "Templates/Post-Mortem.md",
     "Readwise/Books/Race After Technology.md",
     "3. Literature Notes/@davis_algorithmic_2021 -- Algorithmic reparation.md",
     "Important.md",
@@ -239,7 +247,6 @@
     "3. Literature Notes/davis_algorithmic_2021.md",
     "3. Literature Notes/@_how_2021 -- How to Generate Research Ideas That Impact Society.md",
     "3. Literature Notes/Algorithmic reparation.md",
-    "Algorithmic reparation - Annotations.md",
-    "3. Literature Notes/@young_confronting_2022 -- Confronting Power and Corporate Capture at the FAccT Conference.md"
+    "Algorithmic reparation - Annotations.md"
   ]
 }

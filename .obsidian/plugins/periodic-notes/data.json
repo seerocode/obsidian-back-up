@@ -3,30 +3,33 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
+    "format": "[[PAGE]] dddd -- Y-MMMM-Do",
     "template": "",
-    "folder": ""
+    "folder": "03 Notes",
+    "enabled": true
   },
   "weekly": {
-    "format": "",
+    "format": "[[SECTION]] gggg -- Wo [Week]",
     "template": "",
-    "folder": ""
+    "folder": "03 Notes",
+    "enabled": true
   },
   "monthly": {
-    "format": "",
+    "format": "[[CHAPTER]] YYYY-MMMM",
     "template": "",
-    "folder": ""
+    "folder": "03 Notes",
+    "enabled": true
   },
   "quarterly": {
-    "format": "",
+    "format": "[[PART]] YYYY-[Q]Q",
     "template": "",
-    "folder": "",
-    "enabled": false
+    "folder": "03 Notes",
+    "enabled": true
   },
   "yearly": {
-    "format": "",
+    "format": "[[SERIES]] YYYY",
     "template": "",
-    "folder": "",
-    "enabled": false
+    "folder": "03 Notes",
+    "enabled": true
   }
 }
