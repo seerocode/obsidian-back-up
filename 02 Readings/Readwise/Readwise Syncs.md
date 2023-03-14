@@ -19,3 +19,5 @@
 ## 2023-03-06 1:30 AM — Synced 13 highlights from 1 document.
 - [[2023-03-06]]: 13 highlights from [[Race After Technology by Ruha Benjamin; Highlights]]
 
+## 2023-03-14 10:58 AM — Synced 0 highlights from 0 documents.
+
