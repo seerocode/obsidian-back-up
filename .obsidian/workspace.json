@@ -203,8 +203,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "97c6730cd105ddc6",
+  "active": "c223cfc859cfad2b",
   "lastOpenFiles": [
+    "publish.css",
+    "theme.css",
     "Ruha Benjamin;.md",
     "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
     "01 Projects/Ideas Tracker.md",
@@ -232,7 +234,6 @@
     "02 Readings/Books/Race After Technology (Highlights).md",
     "02 Readings/Books",
     "02 Readings/Papers",
-    "02 Readings",
     "2. Papers/Untitled.md",
     "02 Readings. Papers/Books/Race After Technology (Highlights).md",
     "Readwise/Books/Race After Technology.md",
@@ -241,7 +242,6 @@
     "Untitled.md",
     "3. Literature Notes/davis_algorithmic_2021.md",
     "3. Literature Notes/@_how_2021 -- How to Generate Research Ideas That Impact Society.md",
-    "3. Literature Notes/Algorithmic reparation.md",
-    "Algorithmic reparation - Annotations.md"
+    "3. Literature Notes/Algorithmic reparation.md"
   ]
 }
