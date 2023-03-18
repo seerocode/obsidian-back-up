@@ -4,5 +4,9 @@
   "cssTheme": "Mado Miniflow",
   "monospaceFontFamily": "Andale Mono",
   "baseFontSize": 14,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "callout-styling",
+    "custom-admonitions.f8e377"
+  ]
 }

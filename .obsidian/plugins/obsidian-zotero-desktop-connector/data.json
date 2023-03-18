@@ -14,5 +14,6 @@
   "exportFormats": [],
   "shouldShowCiteSuggest": false,
   "openNoteAfterImport": true,
-  "shouldConcat": true
+  "shouldConcat": true,
+  "exeVersion": "1.0.15"
 }
