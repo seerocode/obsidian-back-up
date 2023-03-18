@@ -6,7 +6,7 @@
   "baseFontSize": 14,
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "callout-styling",
-    "custom-admonitions.f8e377"
+    "custom-admonitions.f8e377",
+    "ZoteroHighlights"
   ]
 }

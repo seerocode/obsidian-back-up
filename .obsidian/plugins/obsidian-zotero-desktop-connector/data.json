@@ -11,7 +11,16 @@
       "cslStyle": "association-for-computing-machinery"
     }
   ],
-  "exportFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "02 Readings/Papers/{{citekey}}_{{title}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Templates/Literature Note.md",
+      "cslStyle": "association-for-computing-machinery"
+    }
+  ],
   "shouldShowCiteSuggest": false,
   "openNoteAfterImport": true,
   "shouldConcat": true,
