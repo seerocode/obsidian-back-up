@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "208a4372b7e9873b",
+        "id": "1432e9b7f35de1b9",
         "type": "tabs",
         "children": [
           {
-            "id": "97c6730cd105ddc6",
+            "id": "8b46b08e53b412af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
+                "file": "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d7318b9ddaaff4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "v2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
+                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
+                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md"
+                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md"
               }
             }
           },
@@ -205,13 +219,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "97c6730cd105ddc6",
+  "active": "3bfa395976dc8a0e",
   "lastOpenFiles": [
-    "Templates/Literature Note.md",
+    "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
+    "Templates/.md",
+    "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
     "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md",
+    "Templates/Literature Note.md",
+    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
     "davis2021algorithmic_Algorithmic reparation.md",
     "ZoteroHighlights.css",
-    "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
     "02 Readings/Papers/birhane2022values_The Values Encoded in Machine Learning Research.md",
     "02 Readings/Papers/young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.md",
     "callout-styling.css",
@@ -223,7 +240,6 @@
     "zoterolibrary/files/4147",
     "zoterolibrary/files/3759/journalists-you-should-be-looking-for-undocumented-apis-heres-how-to-start.html",
     "zoterolibrary/files/3759",
-    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
     "Ruha Benjamin;.md",
     "01 Projects/Ideas Tracker.md",
     "Templates/Daily Notes.md",
@@ -242,8 +258,6 @@
     "02 Readings/Books/Race After Technology (Highlights).md",
     "2. Papers/Untitled.md",
     "02 Readings. Papers/Books/Race After Technology (Highlights).md",
-    "Readwise/Books/Race After Technology.md",
-    "3. Literature Notes/@davis_algorithmic_2021 -- Algorithmic reparation.md",
-    "Important.md"
+    "Readwise/Books/Race After Technology.md"
   ]
 }

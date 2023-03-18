@@ -13,6 +13,13 @@
   ],
   "exportFormats": [
     {
+      "name": "Import #2",
+      "outputPathTemplate": "02 Readings/Papers/{{citekey}}_{{title}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "association-for-computing-machinery"
+    },
+    {
       "name": "Import #1",
       "outputPathTemplate": "02 Readings/Papers/{{citekey}}_{{title}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",

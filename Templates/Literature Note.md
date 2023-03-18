@@ -1,13 +1,30 @@
 ---
-year: {{date | format ("YYYY")}}
+year: {%- if date -%} ({{date | format("YYYY")}}) {%- endif -%}
 tags: research
 authors: {{authors}}
-
-Abstract:  {{abstractNote}}
 ---
 
-### {{title}}
-{{pdfZoteroLink}}
+### {{title}} {{caseTitle}}
+
+``` ad-info
+title: Metadata
+- **CiteKey**: [@{{citekey}}]
+- **Author**: {{authors}}
+- **Year**: {{date}} 
+```
+
+```ad-quote
+title: Abstract
+{{abstractNote}}
+```
+
+```ad-abstract
+title: Files and Links
+- **Uri**: {{URL}}
+- **Local Library**: [Zotero]({{pdfZoteroLink}})
+```
+
+
 
 ### Notes
 {% for annotation in annotations -%}{%- if annotation.annotatedText -%}{% if 'Red' in annotation.colorCategory %} 
