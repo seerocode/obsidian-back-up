@@ -11,9 +11,12 @@
             "id": "97c6730cd105ddc6",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "02 Readings/Papers"
+                "file": "02 Readings/Papers/young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -100,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Readings/Papers/young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Readings/Papers/young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 Readings/Papers/young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.md"
+              }
             }
           },
           {
@@ -200,6 +207,9 @@
   },
   "active": "97c6730cd105ddc6",
   "lastOpenFiles": [
+    "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md",
+    "02 Readings/Papers/young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.md",
+    "zoterolibrary.json",
     "zoterolibrary/zoterolibrary.json",
     "zoterolibrary/files/3863/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb.html",
     "zoterolibrary/files/3863",
@@ -209,8 +219,6 @@
     "zoterolibrary/files/3759",
     "zoterolibrary/files/3726/Yee et al. - 2021 - Image Cropping on Twitter Fairness Metrics, their.pdf",
     "zoterolibrary/files/3726",
-    "zoterolibrary/files/3830/Woodruff_et_al_2018_A_Qualitative_Exploration_of_Perceptions_of_Algorithmic_Fairness.pdf",
-    "zoterolibrary/files/3830",
     "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
     "Ruha Benjamin;.md",
     "01 Projects/Ideas Tracker.md",
@@ -236,7 +244,6 @@
     "Important.md",
     "Untitled.md",
     "3. Literature Notes/davis_algorithmic_2021.md",
-    "3. Literature Notes/@_how_2021 -- How to Generate Research Ideas That Impact Society.md",
-    "3. Literature Notes/Algorithmic reparation.md"
+    "3. Literature Notes/@_how_2021 -- How to Generate Research Ideas That Impact Society.md"
   ]
 }
