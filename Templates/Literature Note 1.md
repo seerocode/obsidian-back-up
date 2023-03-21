@@ -1,5 +1,5 @@
 ---
-year: {%- if date -%} ({{date | format("YYYY")}}) {%- endif -%}
+year: {{date | format("YYYY")}}
 tags: research
 title: {{shortTitle}}
 authors: {{authors}}

@@ -17,7 +17,8 @@
       "outputPathTemplate": "02 Readings/Papers/{{citekey}}_{{title}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "cslStyle": "association-for-computing-machinery"
+      "cslStyle": "association-for-computing-machinery",
+      "templatePath": "Templates/Literature Note 1.md"
     },
     {
       "name": "Import #1",

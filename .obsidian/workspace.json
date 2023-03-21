@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5329a551de6ead95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Literature Note 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c4135af3a48e85dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Literature Note 1.md",
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Literature Note 1.md",
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Literature Note 1.md"
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md"
               }
             }
           },
@@ -218,13 +205,18 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5329a551de6ead95",
+  "active": "c4135af3a48e85dc",
   "lastOpenFiles": [
     "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
+    "@shen2021everyday.md",
+    "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
     "Templates/Literature Note 1.md",
+    "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
+    "shen2021everyday/image-11-x50-y444.jpg",
+    "shen2021everyday/image-11-x269-y270.jpg",
+    "shen2021everyday",
     "Templates/Literature Note.md",
     "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md",
-    "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
     "Templates/.md",
     "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
     "davis2021algorithmic_Algorithmic reparation.md",
@@ -239,7 +231,6 @@
     "zoterolibrary/files/4147/soc4.html",
     "zoterolibrary/files/4147",
     "zoterolibrary/files/3759/journalists-you-should-be-looking-for-undocumented-apis-heres-how-to-start.html",
-    "zoterolibrary/files/3759",
     "Ruha Benjamin;.md",
     "01 Projects/Ideas Tracker.md",
     "Templates/Daily Notes.md",
@@ -255,8 +246,6 @@
     "02 Readings/Readwise/Readwise Syncs.md",
     "02 Readings/Papers/Untitled Kanban.md",
     "02 Readings/Books/Books.md",
-    "02 Readings/Books/Race After Technology (Highlights).md",
-    "2. Papers/Untitled.md",
-    "02 Readings. Papers/Books/Race After Technology (Highlights).md"
+    "02 Readings/Books/Race After Technology (Highlights).md"
   ]
 }
