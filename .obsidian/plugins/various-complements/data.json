@@ -47,54 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Reference": {
-      "Reference": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676595269271
-        }
-      }
-    },
-    "Summary": {
-      "Summary": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676595463013
-        }
-      }
-    },
-    "conversations": {
-      "conversations": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676595565944
-        }
-      }
-    },
-    "ideas": {
-      "ideas": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676595590013
-        }
-      }
-    },
-    "communities": {
-      "communities": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676595636427
-        }
-      }
-    },
-    "Description": {
-      "Description": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676667259418
-        }
-      }
-    },
     "Title": {
       "Title": {
         "currentFile": {
@@ -124,6 +76,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679120695857
+        }
+      }
+    },
+    "Notes": {
+      "Notes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679422158845
         }
       }
     }

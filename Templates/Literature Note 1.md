@@ -39,4 +39,8 @@ title: Tags and Collections
 - **Collections**: {{collectionsParent}}
 ```
 
-### Notes
+### Notes 
+
+```
+{% include "[[link to markdown file]]" %}
+```
