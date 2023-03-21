@@ -40,4 +40,4 @@ title: Tags and Collections
 ### Notes
 
 
-%% Import Date: 2023-03-21T14:00:13.362-04:00 %%
+![[shen2021everyday_Everyday Algorithm Auditing]]

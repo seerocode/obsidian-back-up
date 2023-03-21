@@ -4,7 +4,8 @@
   "userIgnoreFilters": [
     "Templates/"
   ],
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "defaultViewMode": "preview",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "./"
 }
