@@ -11,8 +11,13 @@
             "id": "c4135af3a48e85dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Literature Note 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Literature Note 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Literature Note 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Literature Note 1.md"
+              }
             }
           },
           {
@@ -196,11 +205,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3bfa395976dc8a0e",
+  "active": "c4135af3a48e85dc",
   "lastOpenFiles": [
+    "Templates/Literature Note 1.md",
+    "Templates/Literature Note 1.md",
     "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
     "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
-    "Templates/Literature Note 1.md",
     "shen2021everyday/image-11-x50-y444.jpg",
     "shen2021everyday/image-11-x269-y270.jpg",
     "shen2021everyday",
