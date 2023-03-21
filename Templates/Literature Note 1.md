@@ -1,11 +1,7 @@
 ---
-year:
-  "{ date | format(\"YYYY\") }": null
-tags: ""
-title:
-  "{ shortTitle }": null
-authors:
-  "{ authors }": null
+year: {{date|format("YYYY")}}
+title: {{title}}
+authors: {{authors}}
 tag: literaturenote, zotero
 ---
 
