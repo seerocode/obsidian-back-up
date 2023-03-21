@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "nothingislost/obsidian-query-control",
     "stefanopagliari/bibnotes"
   ],
   "pluginSubListFrozenVersion": [],
