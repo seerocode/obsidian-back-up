@@ -8,10 +8,12 @@ authors: {{authors}}
 
 ``` ad-info
 title: Metadata
+- **Title**: {{title}}
 - **CiteKey**: [@{{citekey}}]
 - **Author**: {{authors}}
 - **Year**: {{date}} 
-- Type: {{itemType}} 
+- **Type**: {{itemType}} 
+- **DOI**: {{DOI}}
 ```
 
 ```ad-quote
@@ -21,11 +23,20 @@ title: Abstract
 
 ```ad-abstract
 title: Files and Links
-- **Uri**: {{URL}}
-- **Local Library**: [Zotero]({{pdfZoteroLink}})
+- **Ref**: [[@{{citationKey}}]]
+- **DOI**: {{DOI}}
+- **Url**: {{url}}
+- **Uri**: {{uri}}
+- **File**: {{file}}
+- **Local Library**: [Zotero]({{localLibraryLink}})
+- **PDF**: [Zotero]({{pdfZoteroLink}})
 ```
 
-
+```ad-note
+title: Tags and Collections
+- **Keywords**: {{keywordsAll}}
+- **Collections**: To Read
+```
 
 ### Notes
 {% for annotation in annotations -%}{%- if annotation.annotatedText -%}{% if 'Red' in annotation.colorCategory %} 
