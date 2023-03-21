@@ -1,10 +1,5 @@
 
-```dataview  
-table
-
-title as Title,     
-Year as Year,  
-itemType as Item,   
-Citekey as Citekey,   
-FROM "[[Papers]]"
+```query
+embed
+file:("[[shen2021everyday_Everyday Algorithm Auditing]] ")
 ```
