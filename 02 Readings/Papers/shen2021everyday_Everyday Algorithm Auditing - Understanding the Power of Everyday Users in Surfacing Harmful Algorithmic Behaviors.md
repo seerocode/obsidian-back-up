@@ -39,4 +39,12 @@ title: Tags and Collections
 
 ### Notes
 
-
+```
+{% for a in annotations %}
+{{a.annotatedText}}
+{{a.color}}
+{{a.colorCategory}}
+{{a.page}}
+...ect...
+{% endfor %}
+```
