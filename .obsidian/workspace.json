@@ -11,13 +11,8 @@
             "id": "c4135af3a48e85dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Projects/Ideas Tracker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/Ideas Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Projects/Ideas Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 Projects/Ideas Tracker.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,13 +196,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c4135af3a48e85dc",
+  "active": "3bfa395976dc8a0e",
   "lastOpenFiles": [
-    "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
     "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
-    "@shen2021everyday.md",
-    "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
+    "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
     "Templates/Literature Note 1.md",
+    "shen2021everyday/image-11-x50-y444.jpg",
+    "shen2021everyday/image-11-x269-y270.jpg",
+    "shen2021everyday",
+    "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
+    "01 Projects/Ideas Tracker.md",
+    "@shen2021everyday.md",
     "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
     "02 Readings/Papers/shen2021everyday/image-11-x50-y444.jpg",
     "02 Readings/Papers/shen2021everyday/image-11-x269-y270.jpg",
@@ -231,9 +226,7 @@
     "zoterolibrary/files/3863",
     "zoterolibrary/files/4147/soc4.html",
     "zoterolibrary/files/4147",
-    "zoterolibrary/files/3759/journalists-you-should-be-looking-for-undocumented-apis-heres-how-to-start.html",
     "Ruha Benjamin;.md",
-    "01 Projects/Ideas Tracker.md",
     "Templates/Daily Notes.md",
     "Templates/Post-Mortem.md",
     "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin Highlights.md",
@@ -245,7 +238,6 @@
     "Home.md",
     "Untitled.canvas",
     "02 Readings/Readwise/Readwise Syncs.md",
-    "02 Readings/Papers/Untitled Kanban.md",
-    "02 Readings/Books/Books.md"
+    "02 Readings/Papers/Untitled Kanban.md"
   ]
 }
