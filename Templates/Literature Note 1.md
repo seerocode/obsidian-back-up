@@ -36,7 +36,7 @@ title: Files and Links
 ```ad-note
 title: Tags and Collections
 - **Keywords**: {{keywordsAll}}
-- **Collections**: To Read
+- **Collections**: {{collectionsParent}}
 ```
 
 ### Notes
