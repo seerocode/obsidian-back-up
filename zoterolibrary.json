@@ -104,7 +104,12 @@
       "parent": "",
       "name": "Algorithmic Justice",
       "collections": [],
-      "items": []
+      "items": [
+        4480,
+        4483,
+        4486,
+        4491
+      ]
     },
     "N7I3KUI3": {
       "key": "N7I3KUI3",
@@ -2865,6 +2870,51 @@
       "libraryID": 1,
       "select": "zotero://select/library/items/JJEPEWGM",
       "publicationTitle": "2022 ACM Conference on Fairness, Accountability, and Transparency"
+    },
+    {
+      "key": "WR2UDC2I",
+      "version": 5149,
+      "itemType": "webpage",
+      "title": "Machine Bias \u2014 ProPublica",
+      "date": "2016",
+      "url": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
+      "accessDate": "2023-03-21T18:42:06Z",
+      "creators": [
+        {
+          "firstName": "Julia",
+          "lastName": "Angwin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jeff",
+          "lastName": "Larson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-21T18:42:06Z",
+      "dateModified": "2023-03-21T18:44:06Z",
+      "uri": "http://zotero.org/users/10910988/items/WR2UDC2I",
+      "itemID": 4491,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Machine Bias \u2014 ProPublica",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-21T18:42:12Z",
+          "dateModified": "2023-03-21T18:42:12Z",
+          "uri": "http://zotero.org/users/10910988/items/7G47485E",
+          "path": "/Users/ro/Zotero/storage/7G47485E/machine-bias-risk-assessments-in-criminal-sentencing.html",
+          "select": "zotero://select/library/items/7G47485E"
+        }
+      ],
+      "notes": [],
+      "citationKey": "angwin2016machine",
+      "itemKey": "WR2UDC2I",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WR2UDC2I"
     },
     {
       "key": "CMFZRMRV",
@@ -11073,6 +11123,73 @@
       "publicationTitle": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems"
     },
     {
+      "key": "AJNSYZMJ",
+      "version": 5133,
+      "itemType": "conferencePaper",
+      "title": "Engaging Gentrification as a Social Justice Issue in HCI",
+      "abstractNote": "Gentrification-the spatial expression of economic inequality-is fundamentally a matter of social justice. Yet, even as work outside of HCI has begun to discuss how computing can enable or challenge gentrification, HCI's growing social justice agenda has not engaged with this issue. This omission creates an opportunity for HCI to develop a research and design agenda at the intersection of computing, social justice, and gentrification. We begin this work by outlining existing scholarship describing how the consumption side dynamics of gentrification are mediated by contemporary socio-technical systems. Subsequently, we build on the social justice framework introduced by Dombrowski, Harmon, and Fox to discuss how HCI may resist or counter such forces. We offer six modes of research that HCI scholars can pursue to engage gentrification.",
+      "date": "May 2, 2019",
+      "libraryCatalog": "ACM Digital Library",
+      "url": "https://dl.acm.org/doi/10.1145/3290605.3300510",
+      "accessDate": "2023-03-21",
+      "place": "New York, NY, USA",
+      "publisher": "Association for Computing Machinery",
+      "ISBN": "978-1-4503-5970-2",
+      "pages": "1\u201316",
+      "series": "CHI '19",
+      "DOI": "10.1145/3290605.3300510",
+      "creators": [
+        {
+          "firstName": "Eric",
+          "lastName": "Corbett",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yanni",
+          "lastName": "Loukissas",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "design",
+          "type": 1
+        },
+        {
+          "tag": "gentrification",
+          "type": 1
+        },
+        {
+          "tag": "social justice",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-21T18:41:18Z",
+      "dateModified": "2023-03-21T18:41:23Z",
+      "uri": "http://zotero.org/users/10910988/items/AJNSYZMJ",
+      "itemID": 4480,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "corbett2019engaginga_Engaging Gentrification as a Social Justice Issue in HCI.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/corbett2019engaginga_Engaging Gentrification as a Social Justice Issue in HCI.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-21T18:41:25Z",
+          "dateModified": "2023-03-21T18:41:25Z",
+          "uri": "http://zotero.org/users/10910988/items/YY96ESY6",
+          "select": "zotero://select/library/items/YY96ESY6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "corbett2019engaginga",
+      "itemKey": "AJNSYZMJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/AJNSYZMJ",
+      "publicationTitle": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems"
+    },
+    {
       "key": "YYWXEVIM",
       "version": 18,
       "itemType": "bookSection",
@@ -12280,6 +12397,107 @@
       "itemKey": "FAAS4TEB",
       "libraryID": 1,
       "select": "zotero://select/library/items/FAAS4TEB"
+    },
+    {
+      "key": "96KIU86B",
+      "version": 5135,
+      "itemType": "journalArticle",
+      "title": "AI and Blackness: Towards moving beyond bias and representation",
+      "abstractNote": "In this paper, we argue that AI ethics must move beyond the concepts of race-based representation and bias, and towards those that probe the deeper relations that impact how these systems are designed, developed, and deployed. Many recent discussions on ethical considerations of bias in AI systems have centered on racial bias. We contend that antiblackness in AI requires more of an examination of the ontological space that provides a foundation for the design, development, and deployment of AI systems. We examine what this contention means from the perspective of the sociocultural context in which AI systems are designed, developed, and deployed and focus on intersections with anti-Black racism (antiblackness). To bring these multiple perspectives together and show an example of antiblackness in the face of attempts at de-biasing, we discuss results from auditing an existing open-source semantic network (ConceptNet). We use this discussion to further contextualize antiblackness in design, development, and deployment of AI systems and suggest questions one may ask when attempting to combat antiblackness in AI systems.",
+      "date": "3/2022",
+      "shortTitle": "AI and Blackness",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2111.03687",
+      "accessDate": "2023-03-21T18:41:43Z",
+      "extra": "arXiv:2111.03687 [cs]",
+      "volume": "3",
+      "pages": "31-40",
+      "publicationTitle": "IEEE Transactions on Technology and Society",
+      "DOI": "10.1109/TTS.2021.3125998",
+      "issue": "1",
+      "journalAbbreviation": "IEEE Trans. Technol. Soc.",
+      "ISSN": "2637-6415",
+      "creators": [
+        {
+          "firstName": "Christopher L.",
+          "lastName": "Dancy",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "P. Khalil",
+          "lastName": "Saucier",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Computers and Society",
+          "type": 1
+        },
+        {
+          "tag": "I.2.0",
+          "type": 1
+        },
+        {
+          "tag": "J.4.0",
+          "type": 1
+        },
+        {
+          "tag": "K.4.0",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-21T18:41:43Z",
+      "dateModified": "2023-03-21T18:41:43Z",
+      "uri": "http://zotero.org/users/10910988/items/96KIU86B",
+      "itemID": 4486,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "arXiv.org Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-21T18:41:56Z",
+          "dateModified": "2023-03-21T18:41:56Z",
+          "uri": "http://zotero.org/users/10910988/items/EN6JGBSH",
+          "path": "/Users/ro/Zotero/storage/EN6JGBSH/2111.html",
+          "select": "zotero://select/library/items/EN6JGBSH"
+        },
+        {
+          "itemType": "attachment",
+          "title": "dancy2022aia_AI and Blackness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/dancy2022aia_AI and Blackness.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-21T18:41:49Z",
+          "dateModified": "2023-03-21T18:41:49Z",
+          "uri": "http://zotero.org/users/10910988/items/JI2IBHW7",
+          "select": "zotero://select/library/items/JI2IBHW7"
+        }
+      ],
+      "notes": [
+        {
+          "key": "2ZT3RIJ4",
+          "version": 5135,
+          "itemType": "note",
+          "parentItem": "96KIU86B",
+          "note": "Comment: 10 pages, 3 figures, 2 tables",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-21T18:41:43Z",
+          "dateModified": "2023-03-21T18:41:43Z",
+          "uri": "http://zotero.org/users/10910988/items/2ZT3RIJ4"
+        }
+      ],
+      "citationKey": "dancy2022aia",
+      "itemKey": "96KIU86B",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/96KIU86B"
     },
     {
       "key": "PX8R57RU",
@@ -35066,6 +35284,86 @@
       "itemKey": "7C2TV27W",
       "libraryID": 1,
       "select": "zotero://select/library/items/7C2TV27W"
+    },
+    {
+      "key": "CGF76Y9G",
+      "version": 5133,
+      "itemType": "preprint",
+      "title": "Racial Segregation and the Data-Driven Society: How Our Failure to Reckon with Root Causes Perpetuates Separate and Unequal Realities",
+      "abstractNote": "This Essay asserts that in the United States racial segregation has and continues to play a central evolutionary role in the inequalities we see reproduced and amplified by data-driven technologies and applications. Racial segregation distorts and constrains how data-driven technologies are developed and implemented, how problems of algorithmic bias are conceptualized, and what interventions or solutions are deemed appropriate and pursued. After detailing the foundational aspects of how racial segregation has evolved over time and its less obvious social, political and epistemic implications for White Americans, the demographic group that dominates the technology sector, this Essay explores how racial segregation affects algorithmic design, analysis and outcomes. It concludes with analysis of how prevailing approaches to evaluating and mitigating algorithmic bias are insufficient and why a transformative justice framework is necessary to adequately examine and redress algorithmic bias as well as improve the development of data-driven technologies and applications. This Essay illustrates how critical analysis of racial segregation can deepen our understanding of algorithmic bias, improve evaluations of data-driven technologies for social and racial equity concerns, and broaden our imaginations about what meaningful redress of technology-mediated harms and injustices should include.",
+      "date": "2021-05-20",
+      "language": "en",
+      "shortTitle": "Racial Segregation and the Data-Driven Society",
+      "libraryCatalog": "Social Science Research Network",
+      "url": "https://papers.ssrn.com/abstract=3850317",
+      "accessDate": "2023-03-21T18:41:33Z",
+      "place": "Rochester, NY",
+      "creators": [
+        {
+          "firstName": "Rashida",
+          "lastName": "Richardson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "algorithmic bias",
+          "type": 1
+        },
+        {
+          "tag": "big data",
+          "type": 1
+        },
+        {
+          "tag": "child welfare",
+          "type": 1
+        },
+        {
+          "tag": "criminal justice",
+          "type": 1
+        },
+        {
+          "tag": "education",
+          "type": 1
+        },
+        {
+          "tag": "racial segregation",
+          "type": 1
+        },
+        {
+          "tag": "technology development",
+          "type": 1
+        },
+        {
+          "tag": "technology policy",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-21T18:41:33Z",
+      "dateModified": "2023-03-21T18:41:33Z",
+      "uri": "http://zotero.org/users/10910988/items/CGF76Y9G",
+      "itemID": 4483,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "richardson2021racial_Racial Segregation and the Data-Driven Society.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/richardson2021racial_Racial Segregation and the Data-Driven Society.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-21T18:41:37Z",
+          "dateModified": "2023-03-21T18:41:37Z",
+          "uri": "http://zotero.org/users/10910988/items/QZKBLZ59",
+          "select": "zotero://select/library/items/QZKBLZ59"
+        }
+      ],
+      "notes": [],
+      "citationKey": "richardson2021racial",
+      "itemKey": "CGF76Y9G",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/CGF76Y9G",
+      "type": "SSRN Scholarly Paper",
+      "number": "3850317"
     },
     {
       "key": "Z4XBJARH",
