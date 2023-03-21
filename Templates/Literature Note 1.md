@@ -42,5 +42,5 @@ title: Tags and Collections
 ### Notes 
 
 ```
-!
+!C:\Users\Obsidian\Documents <-> file:///C://Users//Obsidian//Documents
 ```
