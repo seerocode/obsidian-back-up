@@ -11,6 +11,7 @@ title: Metadata
 - **CiteKey**: [@{{citekey}}]
 - **Author**: {{authors}}
 - **Year**: {{date}} 
+- Type: {{itemType}} 
 ```
 
 ```ad-quote

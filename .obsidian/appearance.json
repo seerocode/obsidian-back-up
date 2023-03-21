@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "cssTheme": "Mado Miniflow",
   "monospaceFontFamily": "Andale Mono",
-  "baseFontSize": 14,
+  "baseFontSize": 13,
   "nativeMenus": false,
   "enabledCssSnippets": [
     "custom-admonitions.f8e377",
