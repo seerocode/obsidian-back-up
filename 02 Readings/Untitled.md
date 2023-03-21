@@ -9,4 +9,6 @@ hideResults: true | false
 renderMarkdown: true | false
 sort: alphabetical | alphabeticalReverse | byModifiedTime | byModifiedTimeReverse | byCreatedTime | byCreatedTimeReverse
 ```
-
+```query
+file:(shen)  (important)
+```
