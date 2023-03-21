@@ -1,8 +1,3 @@
-# Everyday Algorithm Auditing: Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors
-
-## Hong Shen
-
-### Proc. ACM Hum.-Comput. Interact. 2021.5:1-29
 
 #### Interesting
 
