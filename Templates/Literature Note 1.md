@@ -42,5 +42,5 @@ title: Tags and Collections
 ### Notes 
 
 ```
-{% include "[[link to markdown file]]" %}
+!
 ```
