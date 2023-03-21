@@ -1,8 +1,12 @@
 ---
-year: {{date | format("YYYY")}}
-tags: research
-title: {{ shortTitle }}
-authors: {{ authors }}
+year:
+  "{ date | format(\"YYYY\") }": null
+tags: ""
+title:
+  "{ shortTitle }": null
+authors:
+  "{ authors }": null
+tag: literaturenote, zotero
 ---
 
 ### {{title}} {{caseTitle}}
@@ -44,5 +48,5 @@ title: Tags and Collections
 - **Collections**: {{collectionsParent}}
 ```
 
-### Notes 
+### <mark style='background:#4b6584'>Notes</mark> 
 
