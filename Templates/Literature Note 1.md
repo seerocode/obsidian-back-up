@@ -8,7 +8,7 @@ authors: {{authors}}
 
 ``` ad-info
 title: Metadata
-- **CiteKey**: [{{citekey}}]
+- **CiteKey**: [@{{citekey}}]
 - **Author**: {{authors}}
 - **Year**: {{date}} 
 ```

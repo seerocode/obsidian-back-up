@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
+                "file": "Templates/Literature Note 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
+                "file": "Templates/Literature Note 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md"
+                "file": "Templates/Literature Note 1.md"
               }
             }
           },
@@ -219,13 +218,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c4135af3a48e85dc",
+  "active": "5329a551de6ead95",
   "lastOpenFiles": [
+    "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
     "Templates/Literature Note 1.md",
     "Templates/Literature Note.md",
     "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md",
     "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
-    "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
     "Templates/.md",
     "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
     "davis2021algorithmic_Algorithmic reparation.md",
