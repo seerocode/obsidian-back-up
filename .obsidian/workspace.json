@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
+                "file": "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
+                "file": "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md"
+                "file": "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md"
               }
             }
           },
@@ -214,9 +214,9 @@
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
       "workspaces:Manage workspace layouts": false,
+      "obsidian42-brat:BRAT": false,
       "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian42-brat:BRAT": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "3bfa395976dc8a0e",

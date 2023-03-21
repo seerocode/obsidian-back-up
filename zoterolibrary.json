@@ -730,7 +730,12 @@
         4223,
         4232,
         4235,
-        4239
+        4239,
+        4292,
+        4293,
+        4296,
+        4297,
+        4298
       ]
     }
   },
@@ -3952,6 +3957,84 @@
       "itemKey": "WXD7NQRR",
       "libraryID": 1,
       "select": "zotero://select/library/items/WXD7NQRR"
+    },
+    {
+      "key": "D3ZUAXPF",
+      "version": 5084,
+      "itemType": "attachment",
+      "title": "EVV_PolicyBrief_11162021.pdf",
+      "url": "https://datasociety.net/wp-content/uploads/2021/11/EVV_PolicyBrief_11162021.pdf",
+      "accessDate": "2023-03-20T17:18:15Z",
+      "linkMode": "imported_url",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "EVV_PolicyBrief_11162021.pdf",
+      "tags": [],
+      "collections": [
+        "SLRLKXIN"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-20T17:18:15Z",
+      "dateModified": "2023-03-20T17:18:15Z",
+      "uri": "http://zotero.org/users/10910988/items/D3ZUAXPF",
+      "itemID": 4296,
+      "localPath": "/Users/ro/Zotero/storage/D3ZUAXPF/EVV_PolicyBrief_11162021.pdf",
+      "defaultPath": "files/4296/EVV_PolicyBrief_11162021.pdf",
+      "itemKey": "D3ZUAXPF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/D3ZUAXPF"
+    },
+    {
+      "key": "Z5GBEEU7",
+      "version": 5086,
+      "itemType": "attachment",
+      "title": "Assembling-Accountability.pdf",
+      "url": "https://datasociety.net/wp-content/uploads/2021/06/Assembling-Accountability.pdf",
+      "accessDate": "2023-03-20T17:18:29Z",
+      "linkMode": "imported_url",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Assembling-Accountability.pdf",
+      "tags": [],
+      "collections": [
+        "SLRLKXIN"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-20T17:18:29Z",
+      "dateModified": "2023-03-20T17:18:29Z",
+      "uri": "http://zotero.org/users/10910988/items/Z5GBEEU7",
+      "itemID": 4297,
+      "localPath": "/Users/ro/Zotero/storage/Z5GBEEU7/Assembling-Accountability.pdf",
+      "defaultPath": "files/4297/Assembling-Accountability.pdf",
+      "itemKey": "Z5GBEEU7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Z5GBEEU7"
+    },
+    {
+      "key": "Y4C8EM2A",
+      "version": 5088,
+      "itemType": "attachment",
+      "title": "Assembling-Accountability-Policy-Brief_pdf.pdf",
+      "url": "https://datasociety.net/wp-content/uploads/2021/06/Assembling-Accountability-Policy-Brief_pdf.pdf",
+      "accessDate": "2023-03-20T17:18:42Z",
+      "linkMode": "imported_url",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Assembling-Accountability-Policy-Brief_pdf.pdf",
+      "tags": [],
+      "collections": [
+        "SLRLKXIN"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-20T17:18:42Z",
+      "dateModified": "2023-03-20T17:18:42Z",
+      "uri": "http://zotero.org/users/10910988/items/Y4C8EM2A",
+      "itemID": 4298,
+      "localPath": "/Users/ro/Zotero/storage/Y4C8EM2A/Assembling-Accountability-Policy-Brief_pdf.pdf",
+      "defaultPath": "files/4298/Assembling-Accountability-Policy-Brief_pdf.pdf",
+      "itemKey": "Y4C8EM2A",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Y4C8EM2A"
     },
     {
       "key": "77JWXMGU",
@@ -7954,12 +8037,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "browne_dark_2015 -- Dark Matters.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/browne_dark_2015 -- Dark Matters.pdf",
+          "title": "browne2015dark_Dark Matters.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/browne2015dark_Dark Matters.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T08:59:47Z",
-          "dateModified": "2023-03-17T21:59:22Z",
+          "dateModified": "2023-03-20T17:36:19Z",
           "uri": "http://zotero.org/users/10910988/items/4VUJ3W7A",
           "select": "zotero://select/library/items/4VUJ3W7A"
         },
@@ -8044,12 +8127,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "brusseau_using_2022 -- Using Edge Cases to Disentangle Fairness and Solidarity in AI Ethics.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/brusseau_using_2022 -- Using Edge Cases to Disentangle Fairness and Solidarity in AI Ethics.pdf",
+          "title": "brusseau2022using_Using Edge Cases to Disentangle Fairness and Solidarity in AI Ethics.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/brusseau2022using_Using Edge Cases to Disentangle Fairness and Solidarity in AI Ethics.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:50Z",
-          "dateModified": "2023-03-17T21:57:36Z",
+          "dateModified": "2023-03-20T17:27:36Z",
           "uri": "http://zotero.org/users/10910988/items/GG522U7L",
           "select": "zotero://select/library/items/GG522U7L"
         },
@@ -8144,14 +8227,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Bryant_Lempert_2010_Thinking_inside_the_box.pdf",
+          "title": "bryant2010thinking_Thinking inside the box.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/bryant2010thinking_Thinking inside the box.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-14T17:51:41Z",
-          "dateModified": "2023-03-14T17:51:42Z",
-          "uri": "http://zotero.org/users/10910988/items/PKANUDEH",
-          "path": "/Users/ro/Zotero/storage/PKANUDEH/Bryant_Lempert_2010_Thinking_inside_the_box.pdf",
-          "select": "zotero://select/library/items/PKANUDEH"
+          "dateAdded": "2023-03-20T17:31:03Z",
+          "dateModified": "2023-03-20T17:31:04Z",
+          "uri": "http://zotero.org/users/10910988/items/78V22A6I",
+          "select": "zotero://select/library/items/78V22A6I"
         }
       ],
       "notes": [],
@@ -8624,12 +8707,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Burrell and Fourcade - 2021 - The Society of Algorithms.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Burrell and Fourcade - 2021 - The Society of Algorithms.pdf",
+          "title": "burrell2021society_The Society of Algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/burrell2021society_The Society of Algorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:24Z",
-          "dateModified": "2023-02-15T09:05:24Z",
+          "dateModified": "2023-03-20T17:36:19Z",
           "uri": "http://zotero.org/users/10910988/items/ITMKUTJL",
           "select": "zotero://select/library/items/ITMKUTJL"
         }
@@ -8965,12 +9048,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Cave and Dihal - 2020 - The Whiteness of Ai.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Cave and Dihal - 2020 - The Whiteness of Ai.pdf",
+          "title": "cave2020whiteness_The Whiteness of Ai.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/cave2020whiteness_The Whiteness of Ai.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:49Z",
-          "dateModified": "2023-02-15T09:01:50Z",
+          "dateModified": "2023-03-20T17:34:53Z",
           "uri": "http://zotero.org/users/10910988/items/ZKVG53QF",
           "select": "zotero://select/library/items/ZKVG53QF"
         },
@@ -9027,12 +9110,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Cave and Dihal - 2021 - Race and Ai The Diversity Dilemma.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Cave and Dihal - 2021 - Race and Ai The Diversity Dilemma.pdf",
+          "title": "cave2021race_Race and Ai.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/cave2021race_Race and Ai.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:38Z",
-          "dateModified": "2023-02-15T09:01:39Z",
+          "dateModified": "2023-03-20T17:34:48Z",
           "uri": "http://zotero.org/users/10910988/items/8Z6FN7IR",
           "select": "zotero://select/library/items/8Z6FN7IR"
         }
@@ -9470,23 +9553,8 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Cheng et al_2022_How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Cheng et al_2022_How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions.pdf",
-          "tags": [
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
-          "relations": [],
-          "dateAdded": "2023-02-16T18:09:39Z",
-          "dateModified": "2023-03-17T22:04:33Z",
-          "uri": "http://zotero.org/users/10910988/items/H8CPMZFC",
-          "select": "zotero://select/library/items/H8CPMZFC"
-        },
-        {
-          "itemType": "attachment",
-          "title": "Cheng et al. - 2022 - How Child Welfare Workers Reduce Racial Disparitie.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Cheng et al. - 2022 - How Child Welfare Workers Reduce Racial Disparitie.pdf",
+          "title": "cheng2022how_How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/cheng2022how_How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions2.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
@@ -9494,9 +9562,24 @@
           ],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:55Z",
-          "dateModified": "2023-03-17T22:04:29Z",
+          "dateModified": "2023-03-20T17:33:22Z",
           "uri": "http://zotero.org/users/10910988/items/T2IIJCJI",
           "select": "zotero://select/library/items/T2IIJCJI"
+        },
+        {
+          "itemType": "attachment",
+          "title": "cheng2022how_How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/cheng2022how_How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions.pdf",
+          "tags": [
+            {
+              "tag": "#multiple_attachments_of_same_type"
+            }
+          ],
+          "relations": [],
+          "dateAdded": "2023-02-16T18:09:39Z",
+          "dateModified": "2023-03-20T17:33:21Z",
+          "uri": "http://zotero.org/users/10910988/items/H8CPMZFC",
+          "select": "zotero://select/library/items/H8CPMZFC"
         },
         {
           "key": "A4IJPHVF",
@@ -9588,14 +9671,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Chipato_Chandler_2022_Another_decolonial_approach_is_possible.pdf",
+          "title": "chipato2022another_Another decolonial approach is possible.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/chipato2022another_Another decolonial approach is possible.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-13T16:49:17Z",
-          "dateModified": "2023-03-13T16:49:24Z",
-          "uri": "http://zotero.org/users/10910988/items/HB6JNXQ4",
-          "path": "/Users/ro/Zotero/storage/HB6JNXQ4/Chipato_Chandler_2022_Another_decolonial_approach_is_possible.pdf",
-          "select": "zotero://select/library/items/HB6JNXQ4"
+          "dateAdded": "2023-03-20T17:31:42Z",
+          "dateModified": "2023-03-20T17:31:43Z",
+          "uri": "http://zotero.org/users/10910988/items/L5LZKGX8",
+          "select": "zotero://select/library/items/L5LZKGX8"
         }
       ],
       "notes": [],
@@ -9826,12 +9909,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Cho et al. - 2013 - Toward a Field of Intersectionality Studies Theor.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Cho et al. - 2013 - Toward a Field of Intersectionality Studies Theor.pdf",
+          "title": "cho2013field_Toward a Field of Intersectionality Studies.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/cho2013field_Toward a Field of Intersectionality Studies.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T06:33:44Z",
-          "dateModified": "2023-02-15T06:33:44Z",
+          "dateModified": "2023-03-20T17:35:36Z",
           "uri": "http://zotero.org/users/10910988/items/L3KYJMXU",
           "select": "zotero://select/library/items/L3KYJMXU"
         }
@@ -9977,8 +10060,8 @@
         },
         {
           "itemType": "attachment",
-          "title": "chohlas-wood_learning_2023a -- Learning to Be Fair.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/chohlas-wood_learning_2023a -- Learning to Be Fair.pdf",
+          "title": "chohlas-wood2023learning_Learning to Be Fair.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/chohlas-wood2023learning_Learning to Be Fair.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
@@ -9986,14 +10069,14 @@
           ],
           "relations": [],
           "dateAdded": "2023-02-12T06:35:39Z",
-          "dateModified": "2023-03-17T22:04:27Z",
+          "dateModified": "2023-03-20T17:29:20Z",
           "uri": "http://zotero.org/users/10910988/items/WMX6ELS9",
           "select": "zotero://select/library/items/WMX6ELS9"
         },
         {
           "itemType": "attachment",
-          "title": "chohlas-wood_learning_2023a -- Learning to Be Fair.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/chohlas-wood_learning_2023a -- Learning to Be Fair2.pdf",
+          "title": "chohlas-wood2023learning_Learning to Be Fair.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/chohlas-wood2023learning_Learning to Be Fair2.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
@@ -10001,7 +10084,7 @@
           ],
           "relations": [],
           "dateAdded": "2023-02-15T09:08:04Z",
-          "dateModified": "2023-03-17T22:04:30Z",
+          "dateModified": "2023-03-20T17:29:21Z",
           "uri": "http://zotero.org/users/10910988/items/K72CZ9CX",
           "select": "zotero://select/library/items/K72CZ9CX"
         },
@@ -10085,8 +10168,8 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Chouldechova_et_al_2018_A_case_study_of_algorithm-assisted_decision_making_in_child_maltreatment.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Chouldechova_et_al_2018_A_case_study_of_algorithm-assisted_decision_making_in_child_maltreatment.pdf",
+          "title": "chouldechova2018case_A case study of algorithm-assisted decision making in child maltreatment.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/chouldechova2018case_A case study of algorithm-assisted decision making in child maltreatment.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
@@ -10094,7 +10177,7 @@
           ],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:27Z",
-          "dateModified": "2023-03-17T22:04:35Z",
+          "dateModified": "2023-03-20T17:30:35Z",
           "uri": "http://zotero.org/users/10910988/items/MXUV88EB",
           "select": "zotero://select/library/items/MXUV88EB"
         }
@@ -10146,12 +10229,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Chubb et al. - 2022 - Speeding Up to Keep Up Exploring the Use of Ai in.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Chubb et al. - 2022 - Speeding Up to Keep Up Exploring the Use of Ai in.pdf",
+          "title": "chubb2022speeding_Speeding Up to Keep Up.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/chubb2022speeding_Speeding Up to Keep Up.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T07:14:50Z",
-          "dateModified": "2023-02-15T07:14:50Z",
+          "dateModified": "2023-03-20T17:34:52Z",
           "uri": "http://zotero.org/users/10910988/items/S72XMMAK",
           "select": "zotero://select/library/items/S72XMMAK"
         },
@@ -10733,12 +10816,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Collins and Guo - 2021 - Reflections on Class and Social Inequality Sociol.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Collins and Guo - 2021 - Reflections on Class and Social Inequality Sociol.pdf",
+          "title": "collins2021reflections_Reflections on Class and Social Inequality.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/collins2021reflections_Reflections on Class and Social Inequality.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:21Z",
-          "dateModified": "2023-02-15T09:05:22Z",
+          "dateModified": "2023-03-20T17:36:18Z",
           "uri": "http://zotero.org/users/10910988/items/IHY4CUU4",
           "select": "zotero://select/library/items/IHY4CUU4"
         }
@@ -10792,12 +10875,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Cook and Hegtvedt - 1983 - Distributive Justice, Equity, and Equality.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Cook and Hegtvedt - 1983 - Distributive Justice, Equity, and Equality.pdf",
+          "title": "cook1983distributive_Distributive Justice, Equity, and Equality.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/cook1983distributive_Distributive Justice, Equity, and Equality.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:13Z",
-          "dateModified": "2023-02-15T09:05:14Z",
+          "dateModified": "2023-03-20T17:35:37Z",
           "uri": "http://zotero.org/users/10910988/items/IFI4KL4V",
           "select": "zotero://select/library/items/IFI4KL4V"
         }
@@ -10881,12 +10964,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Corbett-Davies_et_al_2017_Algorithmic_Decision_Making_and_the_Cost_of_Fairness.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Corbett-Davies_et_al_2017_Algorithmic_Decision_Making_and_the_Cost_of_Fairness.pdf",
+          "title": "corbett-davies2017algorithmic_Algorithmic Decision Making and the Cost of Fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/corbett-davies2017algorithmic_Algorithmic Decision Making and the Cost of Fairness.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:23Z",
-          "dateModified": "2023-03-17T18:27:25Z",
+          "dateModified": "2023-03-20T17:30:35Z",
           "uri": "http://zotero.org/users/10910988/items/PHECJRHG",
           "select": "zotero://select/library/items/PHECJRHG"
         }
@@ -11298,12 +11381,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Costanza-Chock - 2020 - Design Justice Community-Led Practices to Build t.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Costanza-Chock - 2020 - Design Justice Community-Led Practices to Build t.pdf",
+          "title": "costanza-chock2020design_Design Justice.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/costanza-chock2020design_Design Justice.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:18Z",
-          "dateModified": "2023-02-15T09:05:18Z",
+          "dateModified": "2023-03-20T17:35:37Z",
           "uri": "http://zotero.org/users/10910988/items/IYZPGZV7",
           "select": "zotero://select/library/items/IYZPGZV7"
         },
@@ -11740,12 +11823,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Crenshaw - 1991 - Mapping the Margins Intersectionality, Identity P.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Crenshaw - 1991 - Mapping the Margins Intersectionality, Identity P.pdf",
+          "title": "crenshaw1991mapping_Mapping the Margins.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/crenshaw1991mapping_Mapping the Margins.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:11Z",
-          "dateModified": "2023-02-15T09:05:12Z",
+          "dateModified": "2023-03-20T17:35:36Z",
           "uri": "http://zotero.org/users/10910988/items/B4P3B48E",
           "select": "zotero://select/library/items/B4P3B48E"
         }
@@ -11967,12 +12050,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "D\u2019Amodio_2020_Toward_a_Human-Centered_Economy_and_Politics.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/D\u2019Amodio_2020_Toward_a_Human-Centered_Economy_and_Politics.pdf",
+          "title": "damodio2020humancentered_Toward a Human-Centered Economy and Politics.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/damodio2020humancentered_Toward a Human-Centered Economy and Politics.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:19Z",
-          "dateModified": "2023-03-17T18:27:20Z",
+          "dateModified": "2023-03-20T17:30:34Z",
           "uri": "http://zotero.org/users/10910988/items/QA3JXPA3",
           "select": "zotero://select/library/items/QA3JXPA3"
         }
@@ -12151,12 +12234,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "dancy_ai_2022 -- AI and Blackness.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/dancy_ai_2022 -- AI and Blackness.pdf",
+          "title": "dancy2022ai_AI and Blackness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/dancy2022ai_AI and Blackness.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:15Z",
-          "dateModified": "2023-03-17T21:58:37Z",
+          "dateModified": "2023-03-20T17:27:32Z",
           "uri": "http://zotero.org/users/10910988/items/N2MCY6JR",
           "select": "zotero://select/library/items/N2MCY6JR"
         },
@@ -12323,14 +12406,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Daskalova et al. - 2016 - SleepCoacher A Personalized Automated Self-Experi.pdf",
+          "title": "daskalova2016sleepcoacher_SleepCoacher.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/daskalova2016sleepcoacher_SleepCoacher.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-21T18:02:26Z",
-          "dateModified": "2023-02-21T18:02:30Z",
-          "uri": "http://zotero.org/users/10910988/items/8GPQYIJL",
-          "path": "/Users/ro/Zotero/storage/8GPQYIJL/Daskalova et al. - 2016 - SleepCoacher A Personalized Automated Self-Experi.pdf",
-          "select": "zotero://select/library/items/8GPQYIJL"
+          "dateAdded": "2023-03-20T17:32:12Z",
+          "dateModified": "2023-03-20T17:32:12Z",
+          "uri": "http://zotero.org/users/10910988/items/8DSQIC57",
+          "select": "zotero://select/library/items/8DSQIC57"
         },
         {
           "key": "BCL4UIX9",
@@ -12396,12 +12479,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Davidovic et al. - 2021 - The Algorithm Audit Scoring the Algorithms That S.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Davidovic et al. - 2021 - The Algorithm Audit Scoring the Algorithms That S.pdf",
+          "title": "davidovic2021algorithm_The Algorithm Audit.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/davidovic2021algorithm_The Algorithm Audit.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T07:14:37Z",
-          "dateModified": "2023-02-15T07:14:37Z",
+          "dateModified": "2023-03-20T17:34:53Z",
           "uri": "http://zotero.org/users/10910988/items/RGSB378J",
           "select": "zotero://select/library/items/RGSB378J"
         },
@@ -12500,12 +12583,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Davis - 2008 - Intersectionality as buzzword A sociology of scie.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Davis - 2008 - Intersectionality as buzzword A sociology of scie.pdf",
+          "title": "davis2008intersectionality_Intersectionality as buzzword.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/davis2008intersectionality_Intersectionality as buzzword.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:02Z",
-          "dateModified": "2023-02-15T09:05:02Z",
+          "dateModified": "2023-03-20T17:35:34Z",
           "uri": "http://zotero.org/users/10910988/items/NIRKSMLY",
           "select": "zotero://select/library/items/NIRKSMLY"
         }
@@ -12836,12 +12919,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "dean_countergovernance_2018 -- Counter-Governance.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/dean_countergovernance_2018 -- Counter-Governance.pdf",
+          "title": "dean2018countergovernance_Counter-Governance.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/dean2018countergovernance_Counter-Governance.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:14Z",
-          "dateModified": "2023-03-17T22:07:47Z",
+          "dateModified": "2023-03-20T17:30:14Z",
           "uri": "http://zotero.org/users/10910988/items/I77T8ZT8",
           "select": "zotero://select/library/items/I77T8ZT8"
         }
@@ -13095,12 +13178,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Deutsch_1975_Equity, Equality, and Need.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Deutsch_1975_Equity, Equality, and Need.pdf",
+          "title": "deutsch1975equity_Equity, Equality, and Need.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/deutsch1975equity_Equity, Equality, and Need.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:25:48Z",
-          "dateModified": "2023-02-15T09:25:48Z",
+          "dateModified": "2023-03-20T17:34:19Z",
           "uri": "http://zotero.org/users/10910988/items/UAIYWU6U",
           "select": "zotero://select/library/items/UAIYWU6U"
         },
@@ -13473,8 +13556,8 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "DeVos et al_2022_Toward User-Driven Algorithm Auditing.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/DeVos et al_2022_Toward User-Driven Algorithm Auditing.pdf",
+          "title": "devos2022userdriven_Toward User-Driven Algorithm Auditing.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/devos2022userdriven_Toward User-Driven Algorithm Auditing.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
@@ -13482,24 +13565,24 @@
           ],
           "relations": [],
           "dateAdded": "2023-02-21T17:19:27Z",
-          "dateModified": "2023-03-17T22:04:33Z",
+          "dateModified": "2023-03-20T17:32:10Z",
           "uri": "http://zotero.org/users/10910988/items/C6VPI3LX",
           "select": "zotero://select/library/items/C6VPI3LX"
         },
         {
           "itemType": "attachment",
-          "title": "Full Text PDF",
+          "title": "devos2022userdriven_Toward User-Driven Algorithm Auditing.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/devos2022userdriven_Toward User-Driven Algorithm Auditing2.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
             }
           ],
           "relations": [],
-          "dateAdded": "2023-03-02T07:05:40Z",
-          "dateModified": "2023-03-17T22:04:34Z",
-          "uri": "http://zotero.org/users/10910988/items/JABKIP96",
-          "path": "/Users/ro/Zotero/storage/JABKIP96/DeVos et al. - 2022 - Toward User-Driven Algorithm Auditing Investigati.pdf",
-          "select": "zotero://select/library/items/JABKIP96"
+          "dateAdded": "2023-03-20T17:32:10Z",
+          "dateModified": "2023-03-20T17:32:12Z",
+          "uri": "http://zotero.org/users/10910988/items/KJ6QRVPW",
+          "select": "zotero://select/library/items/KJ6QRVPW"
         }
       ],
       "notes": [],
@@ -14144,12 +14227,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "dolata_sociotechnical_2022 -- A sociotechnical view of algorithmic fairness.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/dolata_sociotechnical_2022 -- A sociotechnical view of algorithmic fairness.pdf",
+          "title": "dolata2022sociotechnical_A sociotechnical view of algorithmic fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/dolata2022sociotechnical_A sociotechnical view of algorithmic fairness.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:59:19Z",
-          "dateModified": "2023-03-17T22:01:54Z",
+          "dateModified": "2023-03-20T17:32:56Z",
           "uri": "http://zotero.org/users/10910988/items/NEKJ3ZS7",
           "select": "zotero://select/library/items/NEKJ3ZS7"
         },
@@ -14436,8 +14519,8 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "duguay_queer_2020a -- Queer women\u2019s experiences of patchwork platform governance on Tinder,.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/duguay_queer_2020a -- Queer women\u2019s experiences of patchwork platform governance on Tinder,.pdf",
+          "title": "duguay2020queer_Queer women\u2019s experiences of patchwork platform governance on Tinder,.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/duguay2020queer_Queer women\u2019s experiences of patchwork platform governance on Tinder,.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
@@ -14445,14 +14528,14 @@
           ],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:51Z",
-          "dateModified": "2023-03-17T22:04:32Z",
+          "dateModified": "2023-03-20T17:33:23Z",
           "uri": "http://zotero.org/users/10910988/items/CVZHNCPT",
           "select": "zotero://select/library/items/CVZHNCPT"
         },
         {
           "itemType": "attachment",
-          "title": "duguay_queer_2020a -- Queer women\u2019s experiences of patchwork platform governance on Tinder,.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/duguay_queer_2020a -- Queer women\u2019s experiences of patchwork platform governance on Tinder,2.pdf",
+          "title": "duguay2020queer_Queer women\u2019s experiences of patchwork platform governance on Tinder,.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/duguay2020queer_Queer women\u2019s experiences of patchwork platform governance on Tinder,2.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
@@ -14460,7 +14543,7 @@
           ],
           "relations": [],
           "dateAdded": "2023-03-17T21:57:34Z",
-          "dateModified": "2023-03-17T22:04:36Z",
+          "dateModified": "2023-03-20T17:33:24Z",
           "uri": "http://zotero.org/users/10910988/items/ZDTRW26T",
           "select": "zotero://select/library/items/ZDTRW26T"
         },
@@ -14565,12 +14648,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Ehsan_et_al_2022_The_Algorithmic_Imprint.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Ehsan_et_al_2022_The_Algorithmic_Imprint.pdf",
+          "title": "ehsan2022algorithmic_The Algorithmic Imprint.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/ehsan2022algorithmic_The Algorithmic Imprint.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:17Z",
-          "dateModified": "2023-03-17T18:27:19Z",
+          "dateModified": "2023-03-20T17:30:14Z",
           "uri": "http://zotero.org/users/10910988/items/CRVGD59Q",
           "select": "zotero://select/library/items/CRVGD59Q"
         }
@@ -14810,12 +14893,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "elkin-koren_contesting_2020 -- Contesting algorithms.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/elkin-koren_contesting_2020 -- Contesting algorithms.pdf",
+          "title": "elkin-koren2020contesting_Contesting algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/elkin-koren2020contesting_Contesting algorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:27Z",
-          "dateModified": "2023-03-17T21:58:33Z",
+          "dateModified": "2023-03-20T17:27:34Z",
           "uri": "http://zotero.org/users/10910988/items/6YDURWRM",
           "select": "zotero://select/library/items/6YDURWRM"
         },
@@ -14889,14 +14972,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Elliot et al. - 2020 - The Hidden Curriculum in Doctoral Education.pdf",
+          "title": "elliot2020hidden_The Hidden Curriculum in Doctoral Education.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/elliot2020hidden_The Hidden Curriculum in Doctoral Education.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-07T04:41:57Z",
-          "dateModified": "2023-03-07T04:42:01Z",
-          "uri": "http://zotero.org/users/10910988/items/F5YBKY24",
-          "path": "/Users/ro/Zotero/storage/F5YBKY24/Elliot et al. - 2020 - The Hidden Curriculum in Doctoral Education.pdf",
-          "select": "zotero://select/library/items/F5YBKY24"
+          "dateAdded": "2023-03-20T17:32:49Z",
+          "dateModified": "2023-03-20T17:32:50Z",
+          "uri": "http://zotero.org/users/10910988/items/X8WRTWVQ",
+          "select": "zotero://select/library/items/X8WRTWVQ"
         }
       ],
       "notes": [],
@@ -15276,14 +15359,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Fang et al. - Food Fairness An Arti\ufb01cial Intelligence Perspecti.pdf",
+          "title": "fangfood_Food Fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/fangfood_Food Fairness.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-16T18:17:04Z",
-          "dateModified": "2023-02-16T18:17:06Z",
-          "uri": "http://zotero.org/users/10910988/items/RVYVWUH7",
-          "path": "/Users/ro/Zotero/storage/RVYVWUH7/Fang et al. - Food Fairness An Arti\ufb01cial Intelligence Perspecti.pdf",
-          "select": "zotero://select/library/items/RVYVWUH7"
+          "dateAdded": "2023-03-20T17:34:09Z",
+          "dateModified": "2023-03-20T17:34:10Z",
+          "uri": "http://zotero.org/users/10910988/items/6SHVWPD4",
+          "select": "zotero://select/library/items/6SHVWPD4"
         }
       ],
       "notes": [],
@@ -15409,12 +15492,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "faucher_social_2018 -- Social Capital Online.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/faucher_social_2018 -- Social Capital Online.pdf",
+          "title": "faucher2018social_Social Capital Online.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/faucher2018social_Social Capital Online.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:30Z",
-          "dateModified": "2023-03-17T21:58:32Z",
+          "dateModified": "2023-03-20T17:27:34Z",
           "uri": "http://zotero.org/users/10910988/items/MYMETG3X",
           "select": "zotero://select/library/items/MYMETG3X"
         },
@@ -16327,12 +16410,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "2020_Utilitarianism_versus_Justice_as_Fairness.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/2020_Utilitarianism_versus_Justice_as_Fairness.pdf",
+          "title": "forrest2020utilitarianism_Utilitarianism versus Justice as Fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/forrest2020utilitarianism_Utilitarianism versus Justice as Fairness.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:16:33Z",
-          "dateModified": "2023-03-17T21:16:33Z",
+          "dateModified": "2023-03-20T17:28:58Z",
           "uri": "http://zotero.org/users/10910988/items/AGP58IL6",
           "select": "zotero://select/library/items/AGP58IL6"
         }
@@ -16772,12 +16855,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Gebler et al. - 2022 - Defining the \u201cPositive Impact\u201d of socio-technical .pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Gebler et al. - 2022 - Defining the \u201cPositive Impact\u201d of socio-technical .pdf",
+          "title": "gebler2022defining_Defining the \u201cPositive Impact\u201d of socio-technical systems for absolute.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/gebler2022defining_Defining the \u201cPositive Impact\u201d of socio-technical systems for absolute.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:36Z",
-          "dateModified": "2023-02-15T09:01:36Z",
+          "dateModified": "2023-03-20T17:34:47Z",
           "uri": "http://zotero.org/users/10910988/items/TCLUF672",
           "select": "zotero://select/library/items/TCLUF672"
         }
@@ -16818,12 +16901,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Gentzel - 2021 - Biased Face Recognition Technology Used by Governm.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Gentzel - 2021 - Biased Face Recognition Technology Used by Governm.pdf",
+          "title": "gentzel2021biased_Biased Face Recognition Technology Used by Government.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/gentzel2021biased_Biased Face Recognition Technology Used by Government.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:37Z",
-          "dateModified": "2023-02-15T09:01:38Z",
+          "dateModified": "2023-03-20T17:34:48Z",
           "uri": "http://zotero.org/users/10910988/items/SBRXICFK",
           "select": "zotero://select/library/items/SBRXICFK"
         }
@@ -16874,14 +16957,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Ghoshal_2018_Testing_for_Discrimination.pdf",
+          "title": "ghoshal2018testing_Testing for Discrimination.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/ghoshal2018testing_Testing for Discrimination.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-14T16:11:54Z",
-          "dateModified": "2023-03-14T16:11:55Z",
-          "uri": "http://zotero.org/users/10910988/items/8W44RMDH",
-          "path": "/Users/ro/Zotero/storage/8W44RMDH/Ghoshal_2018_Testing_for_Discrimination.pdf",
-          "select": "zotero://select/library/items/8W44RMDH"
+          "dateAdded": "2023-03-20T17:31:05Z",
+          "dateModified": "2023-03-20T17:31:05Z",
+          "uri": "http://zotero.org/users/10910988/items/CGHMECTU",
+          "select": "zotero://select/library/items/CGHMECTU"
         }
       ],
       "notes": [],
@@ -17050,12 +17133,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Gillespie - 2018 - Custodians of the Internet Platforms, Content Mod.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Gillespie - 2018 - Custodians of the Internet Platforms, Content Mod.pdf",
+          "title": "gillespie2018custodians_Custodians of the Internet.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/gillespie2018custodians_Custodians of the Internet.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:54Z",
-          "dateModified": "2023-02-15T09:01:56Z",
+          "dateModified": "2023-03-20T17:35:32Z",
           "uri": "http://zotero.org/users/10910988/items/QAV585QW",
           "select": "zotero://select/library/items/QAV585QW"
         },
@@ -17222,12 +17305,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Gilman - 2020 - Poverty Lawgorithms A Poverty Lawyer\u2019s Guide to F.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Gilman - 2020 - Poverty Lawgorithms A Poverty Lawyer\u2019s Guide to F.pdf",
+          "title": "gilman2020poverty_Poverty Lawgorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/gilman2020poverty_Poverty Lawgorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:06:13Z",
-          "dateModified": "2023-02-15T09:06:14Z",
+          "dateModified": "2023-03-20T17:34:20Z",
           "uri": "http://zotero.org/users/10910988/items/U45SX4NW",
           "select": "zotero://select/library/items/U45SX4NW"
         }
@@ -17640,12 +17723,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "gordon_jury_2022 -- Jury Learning.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/gordon_jury_2022 -- Jury Learning.pdf",
+          "title": "gordon2022jury_Jury Learning.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/gordon2022jury_Jury Learning.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-21T16:28:24Z",
-          "dateModified": "2023-03-17T21:56:39Z",
+          "dateModified": "2023-03-20T17:33:22Z",
           "uri": "http://zotero.org/users/10910988/items/YXLX2HGI",
           "select": "zotero://select/library/items/YXLX2HGI"
         },
@@ -17790,14 +17873,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Graff_Birkenstein_2021_They_say_-_I_say.pdf",
+          "title": "graff2021they_They say - I say.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/graff2021they_They say - I say.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-28T00:48:15Z",
-          "dateModified": "2023-02-28T00:48:16Z",
-          "uri": "http://zotero.org/users/10910988/items/HKWMW5XQ",
-          "path": "/Users/ro/Zotero/storage/HKWMW5XQ/Graff_Birkenstein_2021_They_say_-_I_say.pdf",
-          "select": "zotero://select/library/items/HKWMW5XQ"
+          "dateAdded": "2023-03-20T17:33:24Z",
+          "dateModified": "2023-03-20T17:33:26Z",
+          "uri": "http://zotero.org/users/10910988/items/HML3YVJS",
+          "select": "zotero://select/library/items/HML3YVJS"
         }
       ],
       "notes": [
@@ -17967,12 +18050,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "gran_be_2021 -- To be or not to be algorithm aware.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/gran_be_2021 -- To be or not to be algorithm aware.pdf",
+          "title": "gran2021be_To be or not to be algorithm aware.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/gran2021be_To be or not to be algorithm aware.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:24Z",
-          "dateModified": "2023-03-17T21:58:33Z",
+          "dateModified": "2023-03-20T17:27:34Z",
           "uri": "http://zotero.org/users/10910988/items/8MFY2JS3",
           "select": "zotero://select/library/items/8MFY2JS3"
         },
@@ -18603,12 +18686,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "green_escaping_2022 -- Escaping the Impossibility of Fairness.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/green_escaping_2022 -- Escaping the Impossibility of Fairness.pdf",
+          "title": "green2022escaping_Escaping the Impossibility of Fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/green2022escaping_Escaping the Impossibility of Fairness.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:09:13Z",
-          "dateModified": "2023-03-17T22:03:47Z",
+          "dateModified": "2023-03-20T17:35:35Z",
           "uri": "http://zotero.org/users/10910988/items/D28N6ILI",
           "select": "zotero://select/library/items/D28N6ILI"
         },
@@ -18699,12 +18782,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Green_2022_The_flaws_of_policies_requiring_human_oversight_of_government_algorithms.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Green_2022_The_flaws_of_policies_requiring_human_oversight_of_government_algorithms.pdf",
+          "title": "green2022flaws_The flaws of policies requiring human oversight of government algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/green2022flaws_The flaws of policies requiring human oversight of government algorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:25Z",
-          "dateModified": "2023-03-17T18:27:26Z",
+          "dateModified": "2023-03-20T17:30:35Z",
           "uri": "http://zotero.org/users/10910988/items/GFPRZK76",
           "select": "zotero://select/library/items/GFPRZK76"
         }
@@ -18761,12 +18844,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "greene_better_2019 -- Better, Nicer, Clearer, Fairer.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/greene_better_2019 -- Better, Nicer, Clearer, Fairer.pdf",
+          "title": "greene2019better_Better, Nicer, Clearer, Fairer.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/greene2019better_Better, Nicer, Clearer, Fairer.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:20Z",
-          "dateModified": "2023-03-17T21:58:35Z",
+          "dateModified": "2023-03-20T17:27:33Z",
           "uri": "http://zotero.org/users/10910988/items/53HI73ZY",
           "select": "zotero://select/library/items/53HI73ZY"
         },
@@ -19184,14 +19267,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Gur_Ali_2022_Targeting_resources_efficiently_and_justifiably_by_combining_causal_machine.pdf",
+          "title": "gurali2022targeting_Targeting resources efficiently and justifiably by combining causal machine.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/gurali2022targeting_Targeting resources efficiently and justifiably by combining causal machine.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-13T16:35:58Z",
-          "dateModified": "2023-03-13T16:36:05Z",
-          "uri": "http://zotero.org/users/10910988/items/KGEBZ47B",
-          "path": "/Users/ro/Zotero/storage/KGEBZ47B/Gur_Ali_2022_Targeting_resources_efficiently_and_justifiably_by_combining_causal_machine.pdf",
-          "select": "zotero://select/library/items/KGEBZ47B"
+          "dateAdded": "2023-03-20T17:31:44Z",
+          "dateModified": "2023-03-20T17:31:45Z",
+          "uri": "http://zotero.org/users/10910988/items/EC5QS4V2",
+          "select": "zotero://select/library/items/EC5QS4V2"
         },
         {
           "key": "9UEZ8BRZ",
@@ -19425,12 +19508,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Hagendorff - 2020 - The Ethics of Ai Ethics An Evaluation of Guidelin.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Hagendorff - 2020 - The Ethics of Ai Ethics An Evaluation of Guidelin.pdf",
+          "title": "hagendorff2020ethics_The Ethics of Ai Ethics.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hagendorff2020ethics_The Ethics of Ai Ethics.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:46Z",
-          "dateModified": "2023-02-15T09:01:47Z",
+          "dateModified": "2023-03-20T17:34:51Z",
           "uri": "http://zotero.org/users/10910988/items/USRTXIPY",
           "select": "zotero://select/library/items/USRTXIPY"
         }
@@ -19982,12 +20065,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "Hanna et al. - 2020 - Towards a Critical Race Methodology in Algorithmic.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Hanna et al. - 2020 - Towards a Critical Race Methodology in Algorithmic.pdf",
+          "title": "hanna2020critical_Towards a Critical Race Methodology in Algorithmic Fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hanna2020critical_Towards a Critical Race Methodology in Algorithmic Fairness.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T06:54:31Z",
-          "dateModified": "2023-02-15T09:01:58Z",
+          "dateModified": "2023-03-20T17:35:33Z",
           "uri": "http://zotero.org/users/10910988/items/LKKD7VVZ",
           "select": "zotero://select/library/items/LKKD7VVZ"
         }
@@ -20165,12 +20248,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "hart_constellations_2018 -- Constellations.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hart_constellations_2018 -- Constellations.pdf",
+          "title": "hart2018constellations_Constellations.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hart2018constellations_Constellations.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T22:08:04Z",
-          "dateModified": "2023-03-17T22:08:04Z",
+          "dateModified": "2023-03-20T17:31:44Z",
           "uri": "http://zotero.org/users/10910988/items/7XS3FVY5",
           "select": "zotero://select/library/items/7XS3FVY5"
         }
@@ -20218,14 +20301,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Hausmann-Muela_2011_The_community_counts.pdf",
+          "title": "hausmann-muela2011community_The community counts.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hausmann-muela2011community_The community counts.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-14T18:01:53Z",
-          "dateModified": "2023-03-14T18:01:54Z",
-          "uri": "http://zotero.org/users/10910988/items/WMZWZYN2",
-          "path": "/Users/ro/Zotero/storage/WMZWZYN2/Hausmann-Muela_2011_The_community_counts.pdf",
-          "select": "zotero://select/library/items/WMZWZYN2"
+          "dateAdded": "2023-03-20T17:30:56Z",
+          "dateModified": "2023-03-20T17:30:57Z",
+          "uri": "http://zotero.org/users/10910988/items/RXAJS9WX",
+          "select": "zotero://select/library/items/RXAJS9WX"
         },
         {
           "itemType": "attachment",
@@ -20289,12 +20372,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Heemsbergen et al. - 2022 - Introduction to algorithmic antagonisms Resistanc.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Heemsbergen et al. - 2022 - Introduction to algorithmic antagonisms Resistanc.pdf",
+          "title": "heemsbergen2022introduction_Introduction to algorithmic antagonisms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/heemsbergen2022introduction_Introduction to algorithmic antagonisms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T06:17:53Z",
-          "dateModified": "2023-02-15T06:17:53Z",
+          "dateModified": "2023-03-20T17:36:18Z",
           "uri": "http://zotero.org/users/10910988/items/3WC7QUWD",
           "select": "zotero://select/library/items/3WC7QUWD"
         }
@@ -20341,12 +20424,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Shelby and Henne - 2022 - Situating questions of data, power, and racial for.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Shelby and Henne - 2022 - Situating questions of data, power, and racial for.pdf",
+          "title": "henne2022situating_Situating Questions of Data, Power, and Racial Formation.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/henne2022situating_Situating Questions of Data, Power, and Racial Formation.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:50Z",
-          "dateModified": "2023-03-01T18:41:49Z",
+          "dateModified": "2023-03-20T17:33:23Z",
           "uri": "http://zotero.org/users/10910988/items/7JNW934I",
           "select": "zotero://select/library/items/7JNW934I"
         }
@@ -20387,12 +20470,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Hermann - 2023 - Artificial Intelligence in Fiction Between Narrat.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Hermann - 2023 - Artificial Intelligence in Fiction Between Narrat.pdf",
+          "title": "hermann2023artificial_Artificial Intelligence in Fiction.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hermann2023artificial_Artificial Intelligence in Fiction.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:44Z",
-          "dateModified": "2023-02-15T09:01:45Z",
+          "dateModified": "2023-03-20T17:34:50Z",
           "uri": "http://zotero.org/users/10910988/items/EPEVP3IM",
           "select": "zotero://select/library/items/EPEVP3IM"
         }
@@ -20596,12 +20679,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Hettinger_et_al_2015_Modelling_and_simulation_of_complex_sociotechnical_systems.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Hettinger_et_al_2015_Modelling_and_simulation_of_complex_sociotechnical_systems.pdf",
+          "title": "hettinger2015modelling_Modelling and simulation of complex sociotechnical systems.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hettinger2015modelling_Modelling and simulation of complex sociotechnical systems.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:11Z",
-          "dateModified": "2023-03-17T18:27:12Z",
+          "dateModified": "2023-03-20T17:30:13Z",
           "uri": "http://zotero.org/users/10910988/items/DDGHK4P2",
           "select": "zotero://select/library/items/DDGHK4P2"
         }
@@ -21474,14 +21557,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Hu_2018_Justice_Beyond_Utility_in_Artificial_Intelligence.pdf",
+          "title": "hu2018justice_Justice Beyond Utility in Artificial Intelligence.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hu2018justice_Justice Beyond Utility in Artificial Intelligence.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-13T17:34:45Z",
-          "dateModified": "2023-03-13T17:34:46Z",
-          "uri": "http://zotero.org/users/10910988/items/Y6STQCX8",
-          "path": "/Users/ro/Zotero/storage/Y6STQCX8/Hu_2018_Justice_Beyond_Utility_in_Artificial_Intelligence.pdf",
-          "select": "zotero://select/library/items/Y6STQCX8"
+          "dateAdded": "2023-03-20T17:31:14Z",
+          "dateModified": "2023-03-20T17:31:15Z",
+          "uri": "http://zotero.org/users/10910988/items/YNKD2AUC",
+          "select": "zotero://select/library/items/YNKD2AUC"
         }
       ],
       "notes": [],
@@ -21545,12 +21628,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Hu_Chen_2018_A_Short-term_Intervention_for_Long-term_Fairness_in_the_Labor_Market.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Hu_Chen_2018_A_Short-term_Intervention_for_Long-term_Fairness_in_the_Labor_Market.pdf",
+          "title": "hu2018shortterm_A Short-term Intervention for Long-term Fairness in the Labor Market.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hu2018shortterm_A Short-term Intervention for Long-term Fairness in the Labor Market.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:16:32Z",
-          "dateModified": "2023-03-17T21:16:52Z",
+          "dateModified": "2023-03-20T17:29:51Z",
           "uri": "http://zotero.org/users/10910988/items/Y8LT2CVH",
           "select": "zotero://select/library/items/Y8LT2CVH"
         }
@@ -21625,12 +21708,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "Hu_et_al_2019_The_Disparate_Effects_of_Strategic_Manipulation.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Hu_et_al_2019_The_Disparate_Effects_of_Strategic_Manipulation.pdf",
+          "title": "hu2019disparate_The Disparate Effects of Strategic Manipulation.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hu2019disparate_The Disparate Effects of Strategic Manipulation.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:16:31Z",
-          "dateModified": "2023-03-17T21:16:50Z",
+          "dateModified": "2023-03-20T17:29:51Z",
           "uri": "http://zotero.org/users/10910988/items/NJGC2Q4Q",
           "select": "zotero://select/library/items/NJGC2Q4Q"
         }
@@ -21692,14 +21775,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Hu_Chen_2020_Fair_classification_and_social_welfare.pdf",
+          "title": "hu2020fair_Fair classification and social welfare.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hu2020fair_Fair classification and social welfare.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-13T17:56:17Z",
-          "dateModified": "2023-03-13T17:56:19Z",
-          "uri": "http://zotero.org/users/10910988/items/6TI5LBSV",
-          "path": "/Users/ro/Zotero/storage/6TI5LBSV/Hu_Chen_2020_Fair_classification_and_social_welfare.pdf",
-          "select": "zotero://select/library/items/6TI5LBSV"
+          "dateAdded": "2023-03-20T17:31:07Z",
+          "dateModified": "2023-03-20T17:31:07Z",
+          "uri": "http://zotero.org/users/10910988/items/W89LRK3A",
+          "select": "zotero://select/library/items/W89LRK3A"
         }
       ],
       "notes": [],
@@ -21782,12 +21865,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Hu_2021_Tech_Ethics.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Hu_2021_Tech_Ethics.pdf",
+          "title": "hu2021tech_Tech Ethics.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hu2021tech_Tech Ethics.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:13:56Z",
-          "dateModified": "2023-03-17T21:33:45Z",
+          "dateModified": "2023-03-20T17:29:46Z",
           "uri": "http://zotero.org/users/10910988/items/TIM5E28U",
           "select": "zotero://select/library/items/TIM5E28U"
         }
@@ -21847,14 +21930,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Hu_Link_to_external_site_2022_Causation_in_the_Social_World.pdf",
+          "title": "hu2022causation_Causation in the Social World.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hu2022causation_Causation in the Social World.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-13T17:46:22Z",
-          "dateModified": "2023-03-13T17:46:23Z",
-          "uri": "http://zotero.org/users/10910988/items/XB6VQDRP",
-          "path": "/Users/ro/Zotero/storage/XB6VQDRP/Hu_Link_to_external_site_2022_Causation_in_the_Social_World.pdf",
-          "select": "zotero://select/library/items/XB6VQDRP"
+          "dateAdded": "2023-03-20T17:31:09Z",
+          "dateModified": "2023-03-20T17:31:09Z",
+          "uri": "http://zotero.org/users/10910988/items/RMA3WYHL",
+          "select": "zotero://select/library/items/RMA3WYHL"
         }
       ],
       "notes": [],
@@ -21914,14 +21997,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Hu_Link_to_external_site_2022_Dynamics_of_Algorithmic_Fairness.pdf",
+          "title": "hu2022dynamics_Dynamics of Algorithmic Fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/hu2022dynamics_Dynamics of Algorithmic Fairness.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-13T17:43:38Z",
-          "dateModified": "2023-03-13T17:43:39Z",
-          "uri": "http://zotero.org/users/10910988/items/5HML3HHQ",
-          "path": "/Users/ro/Zotero/storage/5HML3HHQ/Hu_Link_to_external_site_2022_Dynamics_of_Algorithmic_Fairness.pdf",
-          "select": "zotero://select/library/items/5HML3HHQ"
+          "dateAdded": "2023-03-20T17:31:11Z",
+          "dateModified": "2023-03-20T17:31:11Z",
+          "uri": "http://zotero.org/users/10910988/items/TJL99XAX",
+          "select": "zotero://select/library/items/TJL99XAX"
         }
       ],
       "notes": [],
@@ -22976,12 +23059,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "just_governance_2017 -- Governance by algorithms.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/just_governance_2017 -- Governance by algorithms.pdf",
+          "title": "just2017governance_Governance by algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/just2017governance_Governance by algorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:30:49Z",
-          "dateModified": "2023-03-17T22:02:28Z",
+          "dateModified": "2023-03-20T17:34:18Z",
           "uri": "http://zotero.org/users/10910988/items/QP2VFVLL",
           "select": "zotero://select/library/items/QP2VFVLL"
         },
@@ -23075,12 +23158,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Kafali et al. - 2019 - DESEN Specification of Sociotechnical Systems via.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Kafali et al. - 2019 - DESEN Specification of Sociotechnical Systems via.pdf",
+          "title": "kafali2019desen_DESEN.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/kafali2019desen_DESEN.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:04:56Z",
-          "dateModified": "2023-02-15T09:04:56Z",
+          "dateModified": "2023-03-20T17:34:21Z",
           "uri": "http://zotero.org/users/10910988/items/GNGG7RQ4",
           "select": "zotero://select/library/items/GNGG7RQ4"
         }
@@ -23144,12 +23227,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Kalluri - 2020 - Don\u2019t ask if artificial intelligence is good or fa.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Kalluri - 2020 - Don\u2019t ask if artificial intelligence is good or fa.pdf",
+          "title": "kalluri2020don_Don\u2019t ask if artificial intelligence is good or fair, ask how it shifts power.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/kalluri2020don_Don\u2019t ask if artificial intelligence is good or fair, ask how it shifts power.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:53Z",
-          "dateModified": "2023-02-15T09:01:53Z",
+          "dateModified": "2023-03-20T17:34:54Z",
           "uri": "http://zotero.org/users/10910988/items/UWZNPFG6",
           "select": "zotero://select/library/items/UWZNPFG6"
         },
@@ -23473,12 +23556,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "kasirzadeh_algorithmic_2022 -- Algorithmic Fairness and Structural Injustice.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/kasirzadeh_algorithmic_2022 -- Algorithmic Fairness and Structural Injustice.pdf",
+          "title": "kasirzadeh2022algorithmic_Algorithmic Fairness and Structural Injustice.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/kasirzadeh2022algorithmic_Algorithmic Fairness and Structural Injustice.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-18T00:41:13Z",
-          "dateModified": "2023-03-18T00:41:15Z",
+          "dateModified": "2023-03-20T17:31:42Z",
           "uri": "http://zotero.org/users/10910988/items/5EZ9YINH",
           "select": "zotero://select/library/items/5EZ9YINH"
         }
@@ -23740,14 +23823,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Katzenbach_2021_\u201cAI_will_fix_this\u201d_\u2013_The_Technical,_Discursive,_and_Political_Turn_to_AI_in.pdf",
+          "title": "katzenbach2021ai_\u201cAI will fix this\u201d \u2013 The Technical, Discursive, and Political Turn to AI in.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/katzenbach2021ai_\u201cAI will fix this\u201d \u2013 The Technical, Discursive, and Political Turn to AI in.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-22T08:45:00Z",
-          "dateModified": "2023-02-22T08:45:00Z",
-          "uri": "http://zotero.org/users/10910988/items/PQFCASYW",
-          "path": "/Users/ro/Zotero/storage/PQFCASYW/Katzenbach_2021_\u201cAI_will_fix_this\u201d_\u2013_The_Technical,_Discursive,_and_Political_Turn_to_AI_in.pdf",
-          "select": "zotero://select/library/items/PQFCASYW"
+          "dateAdded": "2023-03-20T17:33:30Z",
+          "dateModified": "2023-03-20T17:33:31Z",
+          "uri": "http://zotero.org/users/10910988/items/2TMTUPWS",
+          "select": "zotero://select/library/items/2TMTUPWS"
         }
       ],
       "notes": [],
@@ -23855,12 +23938,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Kawakami et al_2022_Improving Human-AI Partnerships in Child Welfare.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Kawakami et al_2022_Improving Human-AI Partnerships in Child Welfare.pdf",
+          "title": "kawakami2022improving_Improving Human-AI Partnerships in Child Welfare.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/kawakami2022improving_Improving Human-AI Partnerships in Child Welfare.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-16T18:09:40Z",
-          "dateModified": "2023-02-16T18:09:42Z",
+          "dateModified": "2023-03-20T17:34:17Z",
           "uri": "http://zotero.org/users/10910988/items/EPLEDECR",
           "select": "zotero://select/library/items/EPLEDECR"
         }
@@ -23871,6 +23954,83 @@
       "libraryID": 1,
       "select": "zotero://select/library/items/8WR7U3TJ",
       "publicationTitle": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems"
+    },
+    {
+      "key": "J3ZXIDQG",
+      "version": 5082,
+      "itemType": "journalArticle",
+      "title": "Algorithmic Justice in Child Protection: Statistical Fairness, Social Justice and the Implications for Practice",
+      "abstractNote": "Algorithmic tools are increasingly used in child protection decision-making. Fairness considerations of algorithmic tools usually focus on statistical fairness, but there are broader justice implications relating to the data used to construct source databases, and how algorithms are incorporated into complex sociotechnical decision-making contexts. This article explores how data that inform child protection algorithms are produced and relates this production to both traditional notions of statistical fairness and broader justice concepts. Predictive tools have a number of challenging problems in the child protection context, as the data that predictive tools draw on do not represent child abuse incidence across the population and child abuse itself is difficult to define, making key decisions that become data variable and subjective. Algorithms using these data have distorted feedback loops and can contain inequalities and biases. The challenge to justice concepts is that individual and group rights to non-discrimination become threatened as the algorithm itself becomes skewed, leading to inaccurate risk predictions drawing on spurious correlations. The right to be treated as an individual is threatened when statistical risk is based on a group categorisation, and the rights of families to understand and participate in the decisions made about them is difficult when they have not consented to data linkage, and the function of the algorithm is obscured by its complexity. The use of uninterpretable algorithmic tools may create \u2018moral crumple zones\u2019, where practitioners are held responsible for decisions even when they are partially determined by an algorithm. Many of these criticisms can also be levelled at human decision makers in the child protection system, but the reification of these processes within algorithms render their articulation even more difficult, and can diminish other important relational and ethical aims of social work practice.",
+      "date": "2019/10",
+      "language": "en",
+      "shortTitle": "Algorithmic Justice in Child Protection",
+      "libraryCatalog": "www.mdpi.com",
+      "url": "https://www.mdpi.com/2076-0760/8/10/281",
+      "accessDate": "2023-03-20T17:15:15Z",
+      "rights": "http://creativecommons.org/licenses/by/3.0/",
+      "extra": "Number: 10\nPublisher: Multidisciplinary Digital Publishing Institute",
+      "volume": "8",
+      "pages": "281",
+      "publicationTitle": "Social Sciences",
+      "DOI": "10.3390/socsci8100281",
+      "issue": "10",
+      "ISSN": "2076-0760",
+      "creators": [
+        {
+          "firstName": "Emily",
+          "lastName": "Keddell",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "algorithms",
+          "type": 1
+        },
+        {
+          "tag": "child protection",
+          "type": 1
+        },
+        {
+          "tag": "decision making",
+          "type": 1
+        },
+        {
+          "tag": "predictive analytics",
+          "type": 1
+        },
+        {
+          "tag": "rights",
+          "type": 1
+        },
+        {
+          "tag": "social justice",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-20T17:15:15Z",
+      "dateModified": "2023-03-20T17:15:15Z",
+      "uri": "http://zotero.org/users/10910988/items/J3ZXIDQG",
+      "itemID": 4293,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "keddell2019algorithmic_Algorithmic Justice in Child Protection.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/keddell2019algorithmic_Algorithmic Justice in Child Protection.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-20T17:15:19Z",
+          "dateModified": "2023-03-20T17:15:20Z",
+          "uri": "http://zotero.org/users/10910988/items/925V3D3H",
+          "select": "zotero://select/library/items/925V3D3H"
+        }
+      ],
+      "notes": [],
+      "citationKey": "keddell2019algorithmic",
+      "itemKey": "J3ZXIDQG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/J3ZXIDQG"
     },
     {
       "key": "FWQY4DLJ",
@@ -24141,12 +24301,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Keuchenius and M\u00fcgge - 2021 - Intersectionality on the go The diffusion of Blac.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Keuchenius and M\u00fcgge - 2021 - Intersectionality on the go The diffusion of Blac.pdf",
+          "title": "keuchenius2021intersectionality_Intersectionality on the go.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/keuchenius2021intersectionality_Intersectionality on the go.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:09Z",
-          "dateModified": "2023-02-15T09:05:09Z",
+          "dateModified": "2023-03-20T17:35:36Z",
           "uri": "http://zotero.org/users/10910988/items/CTWNNVJ7",
           "select": "zotero://select/library/items/CTWNNVJ7"
         },
@@ -24714,12 +24874,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Kim_Side_by_Side_with_People.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Kim_Side_by_Side_with_People.pdf",
+          "title": "kimside_Side by Side with People.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/kimside_Side by Side with People.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:12Z",
-          "dateModified": "2023-03-17T18:27:12Z",
+          "dateModified": "2023-03-20T17:30:13Z",
           "uri": "http://zotero.org/users/10910988/items/3R3NNITL",
           "select": "zotero://select/library/items/3R3NNITL"
         }
@@ -25092,12 +25252,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "kitchin_thinking_2017 -- Thinking critically about and researching algorithms.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/kitchin_thinking_2017 -- Thinking critically about and researching algorithms.pdf",
+          "title": "kitchin2017thinking_Thinking critically about and researching algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/kitchin2017thinking_Thinking critically about and researching algorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:10:26Z",
-          "dateModified": "2023-03-17T22:03:30Z",
+          "dateModified": "2023-03-20T17:35:34Z",
           "uri": "http://zotero.org/users/10910988/items/EY4QJLFA",
           "select": "zotero://select/library/items/EY4QJLFA"
         },
@@ -25226,12 +25386,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Kleinberg_et_al_2017_Inherent_Trade-Offs_in_the_Fair_Determination_of_Risk_Scores.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Kleinberg_et_al_2017_Inherent_Trade-Offs_in_the_Fair_Determination_of_Risk_Scores.pdf",
+          "title": "kleinberg2017inherent_Inherent Trade-Offs in the Fair Determination of Risk Scores.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/kleinberg2017inherent_Inherent Trade-Offs in the Fair Determination of Risk Scores.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:22Z",
-          "dateModified": "2023-03-17T18:27:23Z",
+          "dateModified": "2023-03-20T17:30:15Z",
           "uri": "http://zotero.org/users/10910988/items/77GM4GGK",
           "select": "zotero://select/library/items/77GM4GGK"
         },
@@ -25421,12 +25581,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Klumbyt\u0117_et_al_2022_Critical_Tools_for_Machine_Learning.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Klumbyt\u0117_et_al_2022_Critical_Tools_for_Machine_Learning.pdf",
+          "title": "klumbyte2022critical_Critical Tools for Machine Learning.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/klumbyte2022critical_Critical Tools for Machine Learning.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:41:00Z",
-          "dateModified": "2023-03-17T21:41:02Z",
+          "dateModified": "2023-03-20T17:33:39Z",
           "uri": "http://zotero.org/users/10910988/items/KSNYMMTH",
           "select": "zotero://select/library/items/KSNYMMTH"
         }
@@ -26130,12 +26290,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "lam_enduser_2022 -- End-User Audits.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/lam_enduser_2022 -- End-User Audits.pdf",
+          "title": "lam2022enduser_End-User Audits.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/lam2022enduser_End-User Audits.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-21T17:28:54Z",
-          "dateModified": "2023-03-17T21:56:39Z",
+          "dateModified": "2023-03-20T17:32:09Z",
           "uri": "http://zotero.org/users/10910988/items/ZN62FWYK",
           "select": "zotero://select/library/items/ZN62FWYK"
         },
@@ -26296,12 +26456,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Larson et al_2021_Barriers to Accessing Healthy Food and Food Assistance During the COVID-19.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Larson et al_2021_Barriers to Accessing Healthy Food and Food Assistance During the COVID-19.pdf",
+          "title": "larson2021barriers_Barriers to Accessing Healthy Food and Food Assistance During the COVID-19.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/larson2021barriers_Barriers to Accessing Healthy Food and Food Assistance During the COVID-19.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-16T18:18:56Z",
-          "dateModified": "2023-02-16T18:18:57Z",
+          "dateModified": "2023-03-20T17:34:09Z",
           "uri": "http://zotero.org/users/10910988/items/JQ4RRDJG",
           "select": "zotero://select/library/items/JQ4RRDJG"
         }
@@ -26654,12 +26814,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Lee et al_2017_A Human-Centered Approach to Algorithmic Services.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Lee et al_2017_A Human-Centered Approach to Algorithmic Services.pdf",
+          "title": "lee2017humancentered_A Human-Centered Approach to Algorithmic Services.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/lee2017humancentered_A Human-Centered Approach to Algorithmic Services.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-16T18:16:35Z",
-          "dateModified": "2023-02-16T18:16:35Z",
+          "dateModified": "2023-03-20T17:34:12Z",
           "uri": "http://zotero.org/users/10910988/items/DNLYS8SL",
           "select": "zotero://select/library/items/DNLYS8SL"
         }
@@ -26886,12 +27046,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Lee et al_2019_WeBuildAI.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Lee et al_2019_WeBuildAI2.pdf",
+          "title": "lee2019webuildai_WeBuildAI.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/lee2019webuildai_WeBuildAI.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-21T17:01:07Z",
-          "dateModified": "2023-02-21T17:01:08Z",
+          "dateModified": "2023-03-20T17:33:40Z",
           "uri": "http://zotero.org/users/10910988/items/8AZUPBJG",
           "select": "zotero://select/library/items/8AZUPBJG"
         }
@@ -27137,14 +27297,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Lenhart_2022_When_to_Collect_Sensitive_Category_Data.pdf",
+          "title": "lenhart2022when_When to Collect Sensitive Category Data.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/lenhart2022when_When to Collect Sensitive Category Data.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-15T15:20:18Z",
-          "dateModified": "2023-03-15T15:20:20Z",
-          "uri": "http://zotero.org/users/10910988/items/Y6GWSM75",
-          "path": "/Users/ro/Zotero/storage/Y6GWSM75/Lenhart_2022_When_to_Collect_Sensitive_Category_Data.pdf",
-          "select": "zotero://select/library/items/Y6GWSM75"
+          "dateAdded": "2023-03-20T17:36:20Z",
+          "dateModified": "2023-03-20T17:36:20Z",
+          "uri": "http://zotero.org/users/10910988/items/K93QACCP",
+          "select": "zotero://select/library/items/K93QACCP"
         },
         {
           "key": "FQIPT9ID",
@@ -27637,14 +27797,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Leung_et_al_2018_Man_Versus_Machine.pdf",
+          "title": "leung2018man_Man Versus Machine.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/leung2018man_Man Versus Machine.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-22T03:15:43Z",
-          "dateModified": "2023-02-22T03:15:45Z",
-          "uri": "http://zotero.org/users/10910988/items/JTBMDEFB",
-          "path": "/Users/ro/Zotero/storage/JTBMDEFB/Leung_et_al_2018_Man_Versus_Machine.pdf",
-          "select": "zotero://select/library/items/JTBMDEFB"
+          "dateAdded": "2023-03-20T17:33:39Z",
+          "dateModified": "2023-03-20T17:33:39Z",
+          "uri": "http://zotero.org/users/10910988/items/EHMC6FZA",
+          "select": "zotero://select/library/items/EHMC6FZA"
         }
       ],
       "notes": [],
@@ -28229,12 +28389,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Loi_et_al_2021_Transparency_as_design_publicity.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Loi_et_al_2021_Transparency_as_design_publicity.pdf",
+          "title": "loi2021transparency_Transparency as design publicity.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/loi2021transparency_Transparency as design publicity.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:24:10Z",
-          "dateModified": "2023-03-17T21:24:10Z",
+          "dateModified": "2023-03-20T17:29:51Z",
           "uri": "http://zotero.org/users/10910988/items/FFHK8WXC",
           "select": "zotero://select/library/items/FFHK8WXC"
         }
@@ -28446,12 +28606,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Lustig_et_al_2022_Designing_for_the_Bittersweet.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Lustig_et_al_2022_Designing_for_the_Bittersweet.pdf",
+          "title": "lustig2022designing_Designing for the Bittersweet.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/lustig2022designing_Designing for the Bittersweet.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:46:53Z",
-          "dateModified": "2023-03-17T18:46:53Z",
+          "dateModified": "2023-03-20T17:29:52Z",
           "uri": "http://zotero.org/users/10910988/items/373R6H2I",
           "select": "zotero://select/library/items/373R6H2I"
         }
@@ -28528,23 +28688,8 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Lyons_et_al_2021_Conceptualising_Contestability.pdf",
-          "tags": [
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
-          "relations": [],
-          "dateAdded": "2023-03-12T15:38:32Z",
-          "dateModified": "2023-03-17T22:04:34Z",
-          "uri": "http://zotero.org/users/10910988/items/3Q99FYBE",
-          "path": "/Users/ro/Zotero/storage/3Q99FYBE/Lyons_et_al_2021_Conceptualising_Contestability.pdf",
-          "select": "zotero://select/library/items/3Q99FYBE"
-        },
-        {
-          "itemType": "attachment",
-          "title": "Lyons_et_al_2021_Conceptualising_Contestability.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Lyons_et_al_2021_Conceptualising_Contestability.pdf",
+          "title": "lyons2021conceptualising_Conceptualising Contestability.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/lyons2021conceptualising_Conceptualising Contestability2.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
@@ -28552,9 +28697,24 @@
           ],
           "relations": [],
           "dateAdded": "2023-03-17T21:29:42Z",
-          "dateModified": "2023-03-17T22:04:36Z",
+          "dateModified": "2023-03-20T17:29:50Z",
           "uri": "http://zotero.org/users/10910988/items/ISQCS97C",
           "select": "zotero://select/library/items/ISQCS97C"
+        },
+        {
+          "itemType": "attachment",
+          "title": "lyons2021conceptualising_Conceptualising Contestability.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/lyons2021conceptualising_Conceptualising Contestability.pdf",
+          "tags": [
+            {
+              "tag": "#multiple_attachments_of_same_type"
+            }
+          ],
+          "relations": [],
+          "dateAdded": "2023-03-20T17:29:47Z",
+          "dateModified": "2023-03-20T17:29:49Z",
+          "uri": "http://zotero.org/users/10910988/items/VQF3JNMP",
+          "select": "zotero://select/library/items/VQF3JNMP"
         }
       ],
       "notes": [],
@@ -28672,14 +28832,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "MacKinnon_et_al_2021_Examining_TikTok\u2019s_Potential_for_Community-Engaged_Digital_Knowledge.pdf",
+          "title": "mackinnon2021examining_Examining TikTok\u2019s Potential for Community-Engaged Digital Knowledge.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/mackinnon2021examining_Examining TikTok\u2019s Potential for Community-Engaged Digital Knowledge.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-14T19:52:43Z",
-          "dateModified": "2023-03-14T19:52:46Z",
-          "uri": "http://zotero.org/users/10910988/items/LU9EXF43",
-          "path": "/Users/ro/Zotero/storage/LU9EXF43/MacKinnon_et_al_2021_Examining_TikTok\u2019s_Potential_for_Community-Engaged_Digital_Knowledge.pdf",
-          "select": "zotero://select/library/items/LU9EXF43"
+          "dateAdded": "2023-03-20T17:30:38Z",
+          "dateModified": "2023-03-20T17:30:39Z",
+          "uri": "http://zotero.org/users/10910988/items/FF4FAG8J",
+          "select": "zotero://select/library/items/FF4FAG8J"
         },
         {
           "key": "SNBB6LJK",
@@ -28781,12 +28941,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Madaio_et_al_2020_Co-Designing_Checklists_to_Understand_Organizational_Challenges_and.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Madaio_et_al_2020_Co-Designing_Checklists_to_Understand_Organizational_Challenges_and.pdf",
+          "title": "madaio2020codesigning_Co-Designing Checklists to Understand Organizational Challenges and.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/madaio2020codesigning_Co-Designing Checklists to Understand Organizational Challenges and.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:42:23Z",
-          "dateModified": "2023-03-17T18:42:23Z",
+          "dateModified": "2023-03-20T17:29:52Z",
           "uri": "http://zotero.org/users/10910988/items/WI4K3HX4",
           "select": "zotero://select/library/items/WI4K3HX4"
         }
@@ -29101,12 +29261,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Malmqvist_et_al_2019_Conducting_the_Pilot_Study.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Malmqvist_et_al_2019_Conducting_the_Pilot_Study.pdf",
+          "title": "malmqvist2019conducting_Conducting the Pilot Study.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/malmqvist2019conducting_Conducting the Pilot Study.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:42:37Z",
-          "dateModified": "2023-03-17T21:42:37Z",
+          "dateModified": "2023-03-20T17:32:55Z",
           "uri": "http://zotero.org/users/10910988/items/NI99S39M",
           "select": "zotero://select/library/items/NI99S39M"
         }
@@ -29158,12 +29318,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Mann and Matzner - 2019 - Challenging algorithmic profiling The limits of d.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Mann and Matzner - 2019 - Challenging algorithmic profiling The limits of d.pdf",
+          "title": "mann2019challenging_Challenging algorithmic profiling.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/mann2019challenging_Challenging algorithmic profiling.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:56Z",
-          "dateModified": "2023-02-15T09:01:56Z",
+          "dateModified": "2023-03-20T17:35:33Z",
           "uri": "http://zotero.org/users/10910988/items/HFBKNEPP",
           "select": "zotero://select/library/items/HFBKNEPP"
         }
@@ -29377,12 +29537,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Martin_2019_Designing Ethical Algorithms.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Martin_2019_Designing Ethical Algorithms.pdf",
+          "title": "martin2019designing_Designing Ethical Algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/martin2019designing_Designing Ethical Algorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-16T18:16:47Z",
-          "dateModified": "2023-02-16T18:16:47Z",
+          "dateModified": "2023-03-20T17:34:11Z",
           "uri": "http://zotero.org/users/10910988/items/2TVX6BHF",
           "select": "zotero://select/library/items/2TVX6BHF"
         }
@@ -29418,14 +29578,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Mas\u00eds - Making AI Philosophical Again On Philip E. Agre\u2019s.pdf",
+          "title": "masismaking_Making AI Philosophical Again.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/masismaking_Making AI Philosophical Again.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-23T00:46:49Z",
-          "dateModified": "2023-02-23T00:46:54Z",
-          "uri": "http://zotero.org/users/10910988/items/W258ECAL",
-          "path": "/Users/ro/Zotero/storage/W258ECAL/Mas\u00eds - Making AI Philosophical Again On Philip E. Agre\u2019s.pdf",
-          "select": "zotero://select/library/items/W258ECAL"
+          "dateAdded": "2023-03-20T17:33:27Z",
+          "dateModified": "2023-03-20T17:33:27Z",
+          "uri": "http://zotero.org/users/10910988/items/GW244WTV",
+          "select": "zotero://select/library/items/GW244WTV"
         }
       ],
       "notes": [],
@@ -29508,14 +29668,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Matias_Mou_2018_CivilServant.pdf",
+          "title": "matias2018civilservant_CivilServant.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/matias2018civilservant_CivilServant.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-14T17:52:25Z",
-          "dateModified": "2023-03-14T17:52:26Z",
-          "uri": "http://zotero.org/users/10910988/items/C9D3IH8R",
-          "path": "/Users/ro/Zotero/storage/C9D3IH8R/Matias_Mou_2018_CivilServant.pdf",
-          "select": "zotero://select/library/items/C9D3IH8R"
+          "dateAdded": "2023-03-20T17:31:01Z",
+          "dateModified": "2023-03-20T17:31:03Z",
+          "uri": "http://zotero.org/users/10910988/items/2283QY43",
+          "select": "zotero://select/library/items/2283QY43"
         }
       ],
       "notes": [],
@@ -29588,12 +29748,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Matias et al_2022_Testing Concerns about Technology's Behavioral Impacts with N-of-one Trials.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Matias et al_2022_Testing Concerns about Technology's Behavioral Impacts with N-of-one Trials.pdf",
+          "title": "matias2022testing_Testing Concerns about Technology's Behavioral Impacts with N-of-one Trials.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/matias2022testing_Testing Concerns about Technology's Behavioral Impacts with N-of-one Trials.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-21T17:18:45Z",
-          "dateModified": "2023-02-21T17:18:45Z",
+          "dateModified": "2023-03-20T17:32:10Z",
           "uri": "http://zotero.org/users/10910988/items/7H77YX48",
           "select": "zotero://select/library/items/7H77YX48"
         }
@@ -29638,12 +29798,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Maton - 1988 - Socio-Technical Systems Conceptual and Implementa.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Maton - 1988 - Socio-Technical Systems Conceptual and Implementa.pdf",
+          "title": "maton1988sociotechnical_Socio-Technical Systems.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/maton1988sociotechnical_Socio-Technical Systems.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:34Z",
-          "dateModified": "2023-02-15T09:01:35Z",
+          "dateModified": "2023-03-20T17:34:21Z",
           "uri": "http://zotero.org/users/10910988/items/EIA39FXQ",
           "select": "zotero://select/library/items/EIA39FXQ"
         }
@@ -29688,12 +29848,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "McCall_2005_The Complexity of Intersectionality.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/McCall_2005_The Complexity of Intersectionality.pdf",
+          "title": "mccall2005complexity_The Complexity of Intersectionality.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/mccall2005complexity_The Complexity of Intersectionality.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:33:19Z",
-          "dateModified": "2023-02-15T09:33:19Z",
+          "dateModified": "2023-03-20T17:35:34Z",
           "uri": "http://zotero.org/users/10910988/items/2VAD4YYE",
           "select": "zotero://select/library/items/2VAD4YYE"
         }
@@ -29728,12 +29888,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "McCauley_Assessing_Vulnerability,_Prioritizing_Risk.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/McCauley_Assessing_Vulnerability,_Prioritizing_Risk.pdf",
+          "title": "mccauleyassessing_Assessing Vulnerability, Prioritizing Risk.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/mccauleyassessing_Assessing Vulnerability, Prioritizing Risk.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T19:57:48Z",
-          "dateModified": "2023-03-17T19:57:48Z",
+          "dateModified": "2023-03-20T17:32:28Z",
           "uri": "http://zotero.org/users/10910988/items/LUAL7R7D",
           "select": "zotero://select/library/items/LUAL7R7D"
         }
@@ -30511,12 +30671,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Mittelstadt et al. - 2016 - The Ethics of Algorithms Mapping the Debate.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Mittelstadt et al. - 2016 - The Ethics of Algorithms Mapping the Debate.pdf",
+          "title": "mittelstadt2016ethics_The Ethics of Algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/mittelstadt2016ethics_The Ethics of Algorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:38Z",
-          "dateModified": "2023-02-15T09:05:38Z",
+          "dateModified": "2023-03-20T17:34:20Z",
           "uri": "http://zotero.org/users/10910988/items/A5QDEWUH",
           "select": "zotero://select/library/items/A5QDEWUH"
         }
@@ -30762,12 +30922,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "mohamed_decolonial_2020 -- Decolonial AI.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/mohamed_decolonial_2020 -- Decolonial AI.pdf",
+          "title": "mohamed2020decolonial_Decolonial AI.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/mohamed2020decolonial_Decolonial AI.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:56Z",
-          "dateModified": "2023-03-17T21:57:32Z",
+          "dateModified": "2023-03-20T17:27:06Z",
           "uri": "http://zotero.org/users/10910988/items/ZP3WVKTN",
           "select": "zotero://select/library/items/ZP3WVKTN"
         },
@@ -30879,12 +31039,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Mokander_Axente_2023_Ethics-based auditing of automated decision-making systems.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Mokander_Axente_2023_Ethics-based auditing of automated decision-making systems.pdf",
+          "title": "mokander2023ethicsbased_Ethics-based auditing of automated decision-making systems.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/mokander2023ethicsbased_Ethics-based auditing of automated decision-making systems.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-17T17:40:15Z",
-          "dateModified": "2023-02-17T17:40:15Z",
+          "dateModified": "2023-03-20T17:33:41Z",
           "uri": "http://zotero.org/users/10910988/items/56SPWPFL",
           "select": "zotero://select/library/items/56SPWPFL"
         }
@@ -31107,12 +31267,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Montoya - 2021 - Intersectionality and social movements Intersecti.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Montoya - 2021 - Intersectionality and social movements Intersecti.pdf",
+          "title": "montoya2021intersectionality_Intersectionality and social movements.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/montoya2021intersectionality_Intersectionality and social movements.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:05Z",
-          "dateModified": "2023-02-15T09:05:06Z",
+          "dateModified": "2023-03-20T17:35:35Z",
           "uri": "http://zotero.org/users/10910988/items/7Y5NAQTN",
           "select": "zotero://select/library/items/7Y5NAQTN"
         }
@@ -31787,14 +31947,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "PubMed Central Full Text PDF",
+          "title": "nick2018online_The Online Social Support Scale.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/nick2018online_The Online Social Support Scale.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-05T03:13:22Z",
-          "dateModified": "2023-03-05T03:13:22Z",
-          "uri": "http://zotero.org/users/10910988/items/Z667VY5C",
-          "path": "/Users/ro/Zotero/storage/Z667VY5C/Nick et al. - 2018 - The Online Social Support Scale Measure Developme.pdf",
-          "select": "zotero://select/library/items/Z667VY5C"
+          "dateAdded": "2023-03-20T17:32:52Z",
+          "dateModified": "2023-03-20T17:32:54Z",
+          "uri": "http://zotero.org/users/10910988/items/NU2M8BQ3",
+          "select": "zotero://select/library/items/NU2M8BQ3"
         },
         {
           "key": "6XNIF56M",
@@ -32266,14 +32426,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "OECD and CAF Development Bank of Latin America - 2022 - The Strategic and Responsible Use of Artificial In.pdf",
+          "title": "oecd2022strategic_The Strategic and Responsible Use of Artificial Intelligence in the Public.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/oecd2022strategic_The Strategic and Responsible Use of Artificial Intelligence in the Public.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-22T05:06:57Z",
-          "dateModified": "2023-02-22T05:07:00Z",
-          "uri": "http://zotero.org/users/10910988/items/U8YNNXW8",
-          "path": "/Users/ro/Zotero/storage/U8YNNXW8/OECD and CAF Development Bank of Latin America - 2022 - The Strategic and Responsible Use of Artificial In.pdf",
-          "select": "zotero://select/library/items/U8YNNXW8"
+          "dateAdded": "2023-03-20T17:33:32Z",
+          "dateModified": "2023-03-20T17:33:34Z",
+          "uri": "http://zotero.org/users/10910988/items/FH5FB5CB",
+          "select": "zotero://select/library/items/FH5FB5CB"
         }
       ],
       "notes": [],
@@ -33102,12 +33262,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Paternotte and Verloo - 2021 - De-democratization and the Politics of Knowledge .pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Paternotte and Verloo - 2021 - De-democratization and the Politics of Knowledge .pdf",
+          "title": "paternotte2021dedemocratization_De-democratization and the Politics of Knowledge.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/paternotte2021dedemocratization_De-democratization and the Politics of Knowledge.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:23Z",
-          "dateModified": "2023-02-15T09:05:23Z",
+          "dateModified": "2023-03-20T17:36:18Z",
           "uri": "http://zotero.org/users/10910988/items/5V64REHP",
           "select": "zotero://select/library/items/5V64REHP"
         }
@@ -33248,12 +33408,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "paul_can_2022 -- Can critical policy studies outsmart AI.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/paul_can_2022 -- Can critical policy studies outsmart AI.pdf",
+          "title": "paul2022can_Can critical policy studies outsmart AI.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/paul2022can_Can critical policy studies outsmart AI.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:37Z",
-          "dateModified": "2023-03-17T21:57:39Z",
+          "dateModified": "2023-03-20T17:27:35Z",
           "uri": "http://zotero.org/users/10910988/items/R3GZAFGL",
           "select": "zotero://select/library/items/R3GZAFGL"
         }
@@ -34861,12 +35021,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "richardson_framework_2021 -- A Framework for Fairness.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/richardson_framework_2021 -- A Framework for Fairness.pdf",
+          "title": "richardson2021framework_A Framework for Fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/richardson2021framework_A Framework for Fairness.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:23Z",
-          "dateModified": "2023-03-17T21:58:34Z",
+          "dateModified": "2023-03-20T17:27:33Z",
           "uri": "http://zotero.org/users/10910988/items/JVGLHJ6T",
           "select": "zotero://select/library/items/JVGLHJ6T"
         },
@@ -35015,12 +35175,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Rigolot_2020_Transdisciplinarity as a discipline and a way of being.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Rigolot_2020_Transdisciplinarity as a discipline and a way of being.pdf",
+          "title": "rigolot2020transdisciplinarity_Transdisciplinarity as a discipline and a way of being.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/rigolot2020transdisciplinarity_Transdisciplinarity as a discipline and a way of being.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T20:37:26Z",
-          "dateModified": "2023-02-15T20:37:26Z",
+          "dateModified": "2023-03-20T17:34:17Z",
           "uri": "http://zotero.org/users/10910988/items/KI9VP7RM",
           "select": "zotero://select/library/items/KI9VP7RM"
         }
@@ -35635,14 +35795,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Rosen et al. - 2021 - Racial Discrimination in Housing How Landlords Us.pdf",
+          "title": "rosen2021racial_Racial Discrimination in Housing.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/rosen2021racial_Racial Discrimination in Housing.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-16T18:11:31Z",
-          "dateModified": "2023-02-16T18:11:34Z",
-          "uri": "http://zotero.org/users/10910988/items/SNI9D45X",
-          "path": "/Users/ro/Zotero/storage/SNI9D45X/Rosen et al. - 2021 - Racial Discrimination in Housing How Landlords Us.pdf",
-          "select": "zotero://select/library/items/SNI9D45X"
+          "dateAdded": "2023-03-20T17:34:14Z",
+          "dateModified": "2023-03-20T17:34:14Z",
+          "uri": "http://zotero.org/users/10910988/items/VWTW5PBJ",
+          "select": "zotero://select/library/items/VWTW5PBJ"
         }
       ],
       "notes": [],
@@ -36543,12 +36703,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "sandvig_auditing_2014a -- Auditing Algorithms.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/sandvig_auditing_2014a -- Auditing Algorithms.pdf",
+          "title": "sandvig2014auditing_Auditing Algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/sandvig2014auditing_Auditing Algorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:12:33Z",
-          "dateModified": "2023-03-17T22:02:20Z",
+          "dateModified": "2023-03-20T17:29:20Z",
           "uri": "http://zotero.org/users/10910988/items/NJNFFMLC",
           "select": "zotero://select/library/items/NJNFFMLC"
         },
@@ -36788,14 +36948,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Saxena_Guha_2020_Conducting_Participatory_Design_to_Improve_Algorithms_in_Public_Services.pdf",
+          "title": "saxena2020conducting_Conducting Participatory Design to Improve Algorithms in Public Services.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/saxena2020conducting_Conducting Participatory Design to Improve Algorithms in Public Services.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-14T17:54:49Z",
-          "dateModified": "2023-03-14T17:54:51Z",
-          "uri": "http://zotero.org/users/10910988/items/RJJPAMNF",
-          "path": "/Users/ro/Zotero/storage/RJJPAMNF/Saxena_Guha_2020_Conducting_Participatory_Design_to_Improve_Algorithms_in_Public_Services.pdf",
-          "select": "zotero://select/library/items/RJJPAMNF"
+          "dateAdded": "2023-03-20T17:30:59Z",
+          "dateModified": "2023-03-20T17:31:00Z",
+          "uri": "http://zotero.org/users/10910988/items/TS8VUYDS",
+          "select": "zotero://select/library/items/TS8VUYDS"
         }
       ],
       "notes": [],
@@ -36843,14 +37003,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Sch\u00e4fer and Es, van - 2017 - The Datafied Society. Studying Culture through Dat.pdf",
+          "title": "schafer2017datafied_The Datafied Society.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/schafer2017datafied_The Datafied Society.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-16T18:12:47Z",
-          "dateModified": "2023-02-16T18:12:49Z",
-          "uri": "http://zotero.org/users/10910988/items/KBZKAI32",
-          "path": "/Users/ro/Zotero/storage/KBZKAI32/Sch\u00e4fer and Es, van - 2017 - The Datafied Society. Studying Culture through Dat.pdf",
-          "select": "zotero://select/library/items/KBZKAI32"
+          "dateAdded": "2023-03-20T17:34:12Z",
+          "dateModified": "2023-03-20T17:34:12Z",
+          "uri": "http://zotero.org/users/10910988/items/PSE52HHN",
+          "select": "zotero://select/library/items/PSE52HHN"
         }
       ],
       "notes": [],
@@ -37072,14 +37232,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Schlesinger_et_al_2018_Let's_Talk_About_Race.pdf",
+          "title": "schlesinger2018let_Let's Talk About Race.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/schlesinger2018let_Let's Talk About Race.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-22T03:43:34Z",
-          "dateModified": "2023-02-22T03:43:34Z",
-          "uri": "http://zotero.org/users/10910988/items/M2TWL5K4",
-          "path": "/Users/ro/Zotero/storage/M2TWL5K4/Schlesinger_et_al_2018_Let's_Talk_About_Race.pdf",
-          "select": "zotero://select/library/items/M2TWL5K4"
+          "dateAdded": "2023-03-20T17:33:37Z",
+          "dateModified": "2023-03-20T17:33:37Z",
+          "uri": "http://zotero.org/users/10910988/items/L32H9BQJ",
+          "select": "zotero://select/library/items/L32H9BQJ"
         }
       ],
       "notes": [],
@@ -37150,12 +37310,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "schoenebeck_reimagining_2021 -- Reimagining Social Media Governance.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/schoenebeck_reimagining_2021 -- Reimagining Social Media Governance.pdf",
+          "title": "schoenebeck2021reimagining_Reimagining Social Media Governance.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/schoenebeck2021reimagining_Reimagining Social Media Governance.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:44Z",
-          "dateModified": "2023-03-17T21:57:37Z",
+          "dateModified": "2023-03-20T17:27:35Z",
           "uri": "http://zotero.org/users/10910988/items/943CYGQ4",
           "select": "zotero://select/library/items/943CYGQ4"
         }
@@ -38106,12 +38266,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "selbst_fairness_2019 -- Fairness and Abstraction in Sociotechnical Systems.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/selbst_fairness_2019 -- Fairness and Abstraction in Sociotechnical Systems.pdf",
+          "title": "selbst2019fairness_Fairness and Abstraction in Sociotechnical Systems.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/selbst2019fairness_Fairness and Abstraction in Sociotechnical Systems.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:09:53Z",
-          "dateModified": "2023-03-17T22:03:39Z",
+          "dateModified": "2023-03-20T17:36:19Z",
           "uri": "http://zotero.org/users/10910988/items/FHVJKYBU",
           "select": "zotero://select/library/items/FHVJKYBU"
         }
@@ -38705,12 +38865,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "Shelby et al. - 2023 - Identifying Sociotechnical Harms of Algorithmic Sy.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Shelby et al. - 2023 - Identifying Sociotechnical Harms of Algorithmic Sy.pdf",
+          "title": "shelby2023identifying_Identifying Sociotechnical Harms of Algorithmic Systems.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/shelby2023identifying_Identifying Sociotechnical Harms of Algorithmic Systems.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:04:59Z",
-          "dateModified": "2023-03-17T21:35:41Z",
+          "dateModified": "2023-03-20T17:29:21Z",
           "uri": "http://zotero.org/users/10910988/items/VLU8WJ4Z",
           "select": "zotero://select/library/items/VLU8WJ4Z"
         }
@@ -38823,14 +38983,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Shen_et_al_2021_Everyday_Algorithm_Auditing.pdf",
+          "title": "shen2021everyday_Everyday Algorithm Auditing.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/shen2021everyday_Everyday Algorithm Auditing.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-15T13:39:05Z",
-          "dateModified": "2023-03-15T13:39:18Z",
-          "uri": "http://zotero.org/users/10910988/items/LUDN5U5F",
-          "path": "/Users/ro/Zotero/storage/LUDN5U5F/Shen_et_al_2021_Everyday_Algorithm_Auditing.pdf",
-          "select": "zotero://select/library/items/LUDN5U5F"
+          "dateAdded": "2023-03-20T17:30:32Z",
+          "dateModified": "2023-03-20T17:30:33Z",
+          "uri": "http://zotero.org/users/10910988/items/2ICHUGFG",
+          "select": "zotero://select/library/items/2ICHUGFG"
         }
       ],
       "notes": [],
@@ -38877,12 +39037,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Shroder_1995_Games the States Don't Play.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Shroder_1995_Games the States Don't Play.pdf",
+          "title": "shroder1995games_Games the States Don't Play.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/shroder1995games_Games the States Don't Play.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-16T18:19:13Z",
-          "dateModified": "2023-02-16T18:19:13Z",
+          "dateModified": "2023-03-20T17:33:41Z",
           "uri": "http://zotero.org/users/10910988/items/RS5CF2LW",
           "select": "zotero://select/library/items/RS5CF2LW"
         }
@@ -38963,12 +39123,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "siapera_ai_2022 -- AI Content Moderation, Racism and (de)Coloniality.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/siapera_ai_2022 -- AI Content Moderation, Racism and (de)Coloniality.pdf",
+          "title": "siapera2022ai_AI Content Moderation, Racism and (de)Coloniality.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/siapera2022ai_AI Content Moderation, Racism and (de)Coloniality.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:53Z",
-          "dateModified": "2023-03-17T21:57:33Z",
+          "dateModified": "2023-03-20T17:27:36Z",
           "uri": "http://zotero.org/users/10910988/items/TRS6Y5Z5",
           "select": "zotero://select/library/items/TRS6Y5Z5"
         }
@@ -39178,14 +39338,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Sieg_Yoon_2020_Waiting_for_affordable_housing_in_New_York_City.pdf",
+          "title": "sieg2020waiting_Waiting for affordable housing in New York City.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/sieg2020waiting_Waiting for affordable housing in New York City.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-11T15:41:51Z",
-          "dateModified": "2023-03-11T15:41:52Z",
-          "uri": "http://zotero.org/users/10910988/items/CVXRB8XW",
-          "path": "/Users/ro/Zotero/storage/CVXRB8XW/Sieg_Yoon_2020_Waiting_for_affordable_housing_in_New_York_City.pdf",
-          "select": "zotero://select/library/items/CVXRB8XW"
+          "dateAdded": "2023-03-20T17:32:29Z",
+          "dateModified": "2023-03-20T17:32:30Z",
+          "uri": "http://zotero.org/users/10910988/items/56TZMFM7",
+          "select": "zotero://select/library/items/56TZMFM7"
         },
         {
           "itemType": "attachment",
@@ -39379,12 +39539,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "Simonite - What Really Happened When Google Ousted Timnit Geb.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Simonite - What Really Happened When Google Ousted Timnit Geb.pdf",
+          "title": "simonitewhat_What Really Happened When Google Ousted Timnit Gebru.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/simonitewhat_What Really Happened When Google Ousted Timnit Gebru.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:06:18Z",
-          "dateModified": "2023-02-15T09:06:18Z",
+          "dateModified": "2023-03-20T17:32:09Z",
           "uri": "http://zotero.org/users/10910988/items/IZY9ZBPL",
           "select": "zotero://select/library/items/IZY9ZBPL"
         }
@@ -39496,12 +39656,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Simpson_et_al_2013_Tool_for_evaluating_research_implementation_challenges.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Simpson_et_al_2013_Tool_for_evaluating_research_implementation_challenges.pdf",
+          "title": "simpson2013tool_Tool for evaluating research implementation challenges.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/simpson2013tool_Tool for evaluating research implementation challenges.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:15Z",
-          "dateModified": "2023-03-17T18:27:17Z",
+          "dateModified": "2023-03-20T17:30:14Z",
           "uri": "http://zotero.org/users/10910988/items/LCMIGRAX",
           "select": "zotero://select/library/items/LCMIGRAX"
         }
@@ -39700,14 +39860,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Sloan and Warner - 2020 - Beyond Bias Artificial Intelligence and Social Ju.pdf",
+          "title": "sloan2020bias_Beyond Bias.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/sloan2020bias_Beyond Bias.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-13T17:37:53Z",
-          "dateModified": "2023-03-13T17:38:03Z",
-          "uri": "http://zotero.org/users/10910988/items/IKMLZ5UL",
-          "path": "/Users/ro/Zotero/storage/IKMLZ5UL/Sloan and Warner - 2020 - Beyond Bias Artificial Intelligence and Social Ju.pdf",
-          "select": "zotero://select/library/items/IKMLZ5UL"
+          "dateAdded": "2023-03-20T17:31:13Z",
+          "dateModified": "2023-03-20T17:31:13Z",
+          "uri": "http://zotero.org/users/10910988/items/7V63E23M",
+          "select": "zotero://select/library/items/7V63E23M"
         }
       ],
       "notes": [],
@@ -40020,12 +40180,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "so_fairness_2022 -- Beyond Fairness.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/so_fairness_2022 -- Beyond Fairness.pdf",
+          "title": "so2022fairness_Beyond Fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/so2022fairness_Beyond Fairness.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T06:17:34Z",
-          "dateModified": "2023-03-17T22:04:28Z",
+          "dateModified": "2023-03-20T17:35:35Z",
           "uri": "http://zotero.org/users/10910988/items/KD3NBRV5",
           "select": "zotero://select/library/items/KD3NBRV5"
         }
@@ -40117,14 +40277,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Southerton_et_al_2021_Restricted_modes.pdf",
+          "title": "southerton2021restricted_Restricted modes.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/southerton2021restricted_Restricted modes.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-23T00:30:50Z",
-          "dateModified": "2023-02-23T00:30:50Z",
-          "uri": "http://zotero.org/users/10910988/items/5NWBP8WH",
-          "path": "/Users/ro/Zotero/storage/5NWBP8WH/Southerton_et_al_2021_Restricted_modes.pdf",
-          "select": "zotero://select/library/items/5NWBP8WH"
+          "dateAdded": "2023-03-20T17:33:28Z",
+          "dateModified": "2023-03-20T17:33:28Z",
+          "uri": "http://zotero.org/users/10910988/items/76PU6PD4",
+          "select": "zotero://select/library/items/76PU6PD4"
         }
       ],
       "notes": [],
@@ -40328,8 +40488,8 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Stapleton et al_2022_Imagining new futures beyond predictive systems in child welfare.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Stapleton et al_2022_Imagining new futures beyond predictive systems in child welfare.pdf",
+          "title": "stapleton2022imagining_Imagining new futures beyond predictive systems in child welfare.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/stapleton2022imagining_Imagining new futures beyond predictive systems in child welfare.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
@@ -40337,7 +40497,7 @@
           ],
           "relations": [],
           "dateAdded": "2023-02-16T18:09:47Z",
-          "dateModified": "2023-02-20T03:49:24Z",
+          "dateModified": "2023-03-20T17:34:16Z",
           "uri": "http://zotero.org/users/10910988/items/NRKVZYC3",
           "select": "zotero://select/library/items/NRKVZYC3"
         },
@@ -40773,12 +40933,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Stypinska - Ai Ageism A Critical Roadmap for Studying Age Dis.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Stypinska - Ai Ageism A Critical Roadmap for Studying Age Dis.pdf",
+          "title": "stypinska2022ai_Ai Ageism.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/stypinska2022ai_Ai Ageism.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:40Z",
-          "dateModified": "2023-02-15T09:01:42Z",
+          "dateModified": "2023-03-20T17:28:58Z",
           "uri": "http://zotero.org/users/10910988/items/LFH658YY",
           "select": "zotero://select/library/items/LFH658YY"
         }
@@ -41077,14 +41237,14 @@
         },
         {
           "itemType": "attachment",
-          "title": "Sullivan et al. - 2014 - The eBird enterprise An integrated approach to de.pdf",
+          "title": "sullivan2014ebird_The eBird enterprise.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/sullivan2014ebird_The eBird enterprise.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-17T21:10:18Z",
-          "dateModified": "2023-03-17T21:34:11Z",
-          "uri": "http://zotero.org/users/10910988/items/GR288C3J",
-          "path": "/Users/ro/Zotero/storage/GR288C3J/Sullivan et al. - 2014 - The eBird enterprise An integrated approach to de.pdf",
-          "select": "zotero://select/library/items/GR288C3J"
+          "dateAdded": "2023-03-20T17:29:22Z",
+          "dateModified": "2023-03-20T17:29:23Z",
+          "uri": "http://zotero.org/users/10910988/items/87ZQC6N3",
+          "select": "zotero://select/library/items/87ZQC6N3"
         }
       ],
       "notes": [],
@@ -41679,14 +41839,14 @@
         },
         {
           "itemType": "attachment",
-          "title": "Tattersall_2010_What_is_Community_Based_Auditing_and_how_does_it_work.pdf",
+          "title": "tattersall2010what_What is Community Based Auditing and how does it work.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/tattersall2010what_What is Community Based Auditing and how does it work.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-14T17:59:20Z",
-          "dateModified": "2023-03-14T17:59:20Z",
-          "uri": "http://zotero.org/users/10910988/items/BIVI8PHG",
-          "path": "/Users/ro/Zotero/storage/BIVI8PHG/Tattersall_2010_What_is_Community_Based_Auditing_and_how_does_it_work.pdf",
-          "select": "zotero://select/library/items/BIVI8PHG"
+          "dateAdded": "2023-03-20T17:30:57Z",
+          "dateModified": "2023-03-20T17:30:58Z",
+          "uri": "http://zotero.org/users/10910988/items/ZDIMBXUK",
+          "select": "zotero://select/library/items/ZDIMBXUK"
         }
       ],
       "notes": [],
@@ -41758,12 +41918,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Tavani_2015_Levels_of_Trust_in_the_Context_of_Machine_Ethics.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Tavani_2015_Levels_of_Trust_in_the_Context_of_Machine_Ethics.pdf",
+          "title": "tavani2015levels_Levels of Trust in the Context of Machine Ethics.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/tavani2015levels_Levels of Trust in the Context of Machine Ethics.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:24:34Z",
-          "dateModified": "2023-03-17T21:24:34Z",
+          "dateModified": "2023-03-20T17:29:51Z",
           "uri": "http://zotero.org/users/10910988/items/NR262557",
           "select": "zotero://select/library/items/NR262557"
         }
@@ -41937,14 +42097,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Thieme_et_al_2018_I_can_do_everything_but_see.pdf",
+          "title": "thieme2018can_I can do everything but see.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/thieme2018can_I can do everything but see.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-02-22T03:43:37Z",
-          "dateModified": "2023-02-22T03:43:38Z",
-          "uri": "http://zotero.org/users/10910988/items/7EZ88XV5",
-          "path": "/Users/ro/Zotero/storage/7EZ88XV5/Thieme_et_al_2018_I_can_do_everything_but_see.pdf",
-          "select": "zotero://select/library/items/7EZ88XV5"
+          "dateAdded": "2023-03-20T17:33:35Z",
+          "dateModified": "2023-03-20T17:33:35Z",
+          "uri": "http://zotero.org/users/10910988/items/VHJES524",
+          "select": "zotero://select/library/items/VHJES524"
         }
       ],
       "notes": [],
@@ -42169,12 +42329,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Thomsen_2019_Ethics_for_Artificial_Intelligence,_Ethics_for_All.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Thomsen_2019_Ethics_for_Artificial_Intelligence,_Ethics_for_All.pdf",
+          "title": "thomsen2019ethics_Ethics for Artificial Intelligence, Ethics for All.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/thomsen2019ethics_Ethics for Artificial Intelligence, Ethics for All.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:21Z",
-          "dateModified": "2023-03-17T18:27:21Z",
+          "dateModified": "2023-03-20T17:30:35Z",
           "uri": "http://zotero.org/users/10910988/items/E8ANBBCV",
           "select": "zotero://select/library/items/E8ANBBCV"
         }
@@ -42243,12 +42403,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Tormos - 2017 - Intersectional solidarity.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Tormos - 2017 - Intersectional solidarity.pdf",
+          "title": "tormos2017intersectional_Intersectional solidarity.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/tormos2017intersectional_Intersectional solidarity.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:07Z",
-          "dateModified": "2023-02-15T09:05:08Z",
+          "dateModified": "2023-03-20T17:35:36Z",
           "uri": "http://zotero.org/users/10910988/items/MJXYH9AP",
           "select": "zotero://select/library/items/MJXYH9AP"
         }
@@ -42435,12 +42595,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Tsamados et al. - 2022 - The Ethics of Algorithms Key Problems and Solutio.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Tsamados et al. - 2022 - The Ethics of Algorithms Key Problems and Solutio.pdf",
+          "title": "tsamados2022ethics_The Ethics of Algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/tsamados2022ethics_The Ethics of Algorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T07:15:48Z",
-          "dateModified": "2023-02-15T07:15:48Z",
+          "dateModified": "2023-03-20T17:34:51Z",
           "uri": "http://zotero.org/users/10910988/items/BEEJG3KU",
           "select": "zotero://select/library/items/BEEJG3KU"
         }
@@ -42486,12 +42646,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Tseng - 2022 - Algorithmic empowerment A comparative ethnography.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Tseng - 2022 - Algorithmic empowerment A comparative ethnography.pdf",
+          "title": "tseng2022algorithmic_Algorithmic empowerment.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/tseng2022algorithmic_Algorithmic empowerment.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:19Z",
-          "dateModified": "2023-02-15T09:05:20Z",
+          "dateModified": "2023-03-20T17:36:17Z",
           "uri": "http://zotero.org/users/10910988/items/A3G28LZM",
           "select": "zotero://select/library/items/A3G28LZM"
         }
@@ -42542,12 +42702,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Tuck_Yang_2014_Unbecoming Claims.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Tuck_Yang_2014_Unbecoming Claims.pdf",
+          "title": "tuck2014unbecoming_Unbecoming Claims.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/tuck2014unbecoming_Unbecoming Claims.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T20:21:42Z",
-          "dateModified": "2023-02-15T20:21:42Z",
+          "dateModified": "2023-03-20T17:34:17Z",
           "uri": "http://zotero.org/users/10910988/items/QUVNQ8V4",
           "select": "zotero://select/library/items/QUVNQ8V4"
         }
@@ -42772,12 +42932,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "ugwudike_digital_2020 -- Digital prediction technologies in the justice system.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/ugwudike_digital_2020 -- Digital prediction technologies in the justice system.pdf",
+          "title": "ugwudike2020digital_Digital prediction technologies in the justice system.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/ugwudike2020digital_Digital prediction technologies in the justice system.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:22Z",
-          "dateModified": "2023-03-17T21:58:35Z",
+          "dateModified": "2023-03-20T17:27:33Z",
           "uri": "http://zotero.org/users/10910988/items/3TME5UD9",
           "select": "zotero://select/library/items/3TME5UD9"
         }
@@ -43061,12 +43221,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "van_Berkel_et_al_2023_The_methodology_of_studying_fairness_perceptions_in_Artificial_Intelligence.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/van_Berkel_et_al_2023_The_methodology_of_studying_fairness_perceptions_in_Artificial_Intelligence.pdf",
+          "title": "vanberkel2023methodology_The methodology of studying fairness perceptions in Artificial Intelligence.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/vanberkel2023methodology_The methodology of studying fairness perceptions in Artificial Intelligence.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:41:28Z",
-          "dateModified": "2023-03-17T18:41:28Z",
+          "dateModified": "2023-03-20T17:29:53Z",
           "uri": "http://zotero.org/users/10910988/items/7VCPSL6T",
           "select": "zotero://select/library/items/7VCPSL6T"
         }
@@ -43312,14 +43472,14 @@
         },
         {
           "itemType": "attachment",
-          "title": "van_Giffen_et_al_2022_Overcoming_the_pitfalls_and_perils_of_algorithms.pdf",
+          "title": "vangiffen2022overcoming_Overcoming the pitfalls and perils of algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/vangiffen2022overcoming_Overcoming the pitfalls and perils of algorithms.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-13T16:23:49Z",
-          "dateModified": "2023-03-13T16:24:21Z",
-          "uri": "http://zotero.org/users/10910988/items/KF7AYAL6",
-          "path": "/Users/ro/Zotero/storage/KF7AYAL6/van_Giffen_et_al_2022_Overcoming_the_pitfalls_and_perils_of_algorithms.pdf",
-          "select": "zotero://select/library/items/KF7AYAL6"
+          "dateAdded": "2023-03-20T17:31:46Z",
+          "dateModified": "2023-03-20T17:31:47Z",
+          "uri": "http://zotero.org/users/10910988/items/JHTKKLVZ",
+          "select": "zotero://select/library/items/JHTKKLVZ"
         }
       ],
       "notes": [],
@@ -43500,12 +43660,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "vannuenen_intersectional_2022 -- Intersectional Experiences of Unfair Treatment Caused by Automated.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/vannuenen_intersectional_2022 -- Intersectional Experiences of Unfair Treatment Caused by Automated.pdf",
+          "title": "vannuenen2022intersectional_Intersectional Experiences of Unfair Treatment Caused by Automated.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/vannuenen2022intersectional_Intersectional Experiences of Unfair Treatment Caused by Automated.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:12Z",
-          "dateModified": "2023-03-17T21:58:37Z",
+          "dateModified": "2023-03-20T17:29:21Z",
           "uri": "http://zotero.org/users/10910988/items/N8VNSKKT",
           "select": "zotero://select/library/items/N8VNSKKT"
         }
@@ -43756,14 +43916,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Veale_et_al_2018_Fairness_and_Accountability_Design_Needs_for_Algorithmic_Support_in_High-Stakes.pdf",
+          "title": "veale2018fairness_Fairness and Accountability Design Needs for Algorithmic Support in High-Stakes.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/veale2018fairness_Fairness and Accountability Design Needs for Algorithmic Support in High-Stakes.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-14T20:01:23Z",
-          "dateModified": "2023-03-14T20:01:24Z",
-          "uri": "http://zotero.org/users/10910988/items/I8HR9C7M",
-          "path": "/Users/ro/Zotero/storage/I8HR9C7M/Veale_et_al_2018_Fairness_and_Accountability_Design_Needs_for_Algorithmic_Support_in_High-Stakes.pdf",
-          "select": "zotero://select/library/items/I8HR9C7M"
+          "dateAdded": "2023-03-20T17:30:36Z",
+          "dateModified": "2023-03-20T17:30:37Z",
+          "uri": "http://zotero.org/users/10910988/items/H7VXKUU2",
+          "select": "zotero://select/library/items/H7VXKUU2"
         }
       ],
       "notes": [],
@@ -43820,14 +43980,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Vecchione_et_al_2021_Algorithmic_Auditing_and_Social_Justice.pdf",
+          "title": "vecchione2021algorithmic_Algorithmic Auditing and Social Justice.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/vecchione2021algorithmic_Algorithmic Auditing and Social Justice.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-14T18:02:59Z",
-          "dateModified": "2023-03-14T18:03:00Z",
-          "uri": "http://zotero.org/users/10910988/items/GEX3LFMW",
-          "path": "/Users/ro/Zotero/storage/GEX3LFMW/Vecchione_et_al_2021_Algorithmic_Auditing_and_Social_Justice.pdf",
-          "select": "zotero://select/library/items/GEX3LFMW"
+          "dateAdded": "2023-03-20T17:30:52Z",
+          "dateModified": "2023-03-20T17:30:54Z",
+          "uri": "http://zotero.org/users/10910988/items/32DXD2DX",
+          "select": "zotero://select/library/items/32DXD2DX"
         }
       ],
       "notes": [],
@@ -43985,12 +44145,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "verdegem_ai_2021 -- AI for Everyone.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/verdegem_ai_2021 -- AI for Everyone.pdf",
+          "title": "verdegem2021ai_AI for Everyone.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/verdegem2021ai_AI for Everyone.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:34Z",
-          "dateModified": "2023-03-17T21:58:31Z",
+          "dateModified": "2023-03-20T17:27:35Z",
           "uri": "http://zotero.org/users/10910988/items/G48UNPPU",
           "select": "zotero://select/library/items/G48UNPPU"
         }
@@ -44123,12 +44283,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Viseu - 2015 - Integration of social science into research is cru.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Viseu - 2015 - Integration of social science into research is cru.pdf",
+          "title": "viseu2015integration_Integration of social science into research is crucial.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/viseu2015integration_Integration of social science into research is crucial.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:51Z",
-          "dateModified": "2023-02-15T09:01:52Z",
+          "dateModified": "2023-03-20T17:34:53Z",
           "uri": "http://zotero.org/users/10910988/items/2AWMP99S",
           "select": "zotero://select/library/items/2AWMP99S"
         }
@@ -44207,12 +44367,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Waelen and Micha\u0142Wieczorek - 2022 - The Struggle for Ais Recognition Understanding t.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Waelen and Micha\u0142Wieczorek - 2022 - The Struggle for Ais Recognition Understanding t.pdf",
+          "title": "waelen2022struggle_The Struggle for Ai.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/waelen2022struggle_The Struggle for Ai.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:43Z",
-          "dateModified": "2023-02-15T09:01:43Z",
+          "dateModified": "2023-03-20T17:34:49Z",
           "uri": "http://zotero.org/users/10910988/items/BLJEVF8H",
           "select": "zotero://select/library/items/BLJEVF8H"
         }
@@ -44252,12 +44412,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Waelen - 2022 - Why Ai Ethics is a Critical Theory.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Waelen - 2022 - Why Ai Ethics is a Critical Theory.pdf",
+          "title": "waelen2022why_Why Ai Ethics is a Critical Theory.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/waelen2022why_Why Ai Ethics is a Critical Theory.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:47Z",
-          "dateModified": "2023-02-15T09:01:48Z",
+          "dateModified": "2023-03-20T17:34:52Z",
           "uri": "http://zotero.org/users/10910988/items/HVNCBJBT",
           "select": "zotero://select/library/items/HVNCBJBT"
         }
@@ -44634,12 +44794,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "Wark and Phan - 2021 - Racial Formations as Data Formations.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Wark and Phan - 2021 - Racial Formations as Data Formations.pdf",
+          "title": "wark2021racial_Racial Formations as Data Formations.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/wark2021racial_Racial Formations as Data Formations.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:01:39Z",
-          "dateModified": "2023-02-15T09:01:40Z",
+          "dateModified": "2023-03-20T17:34:49Z",
           "uri": "http://zotero.org/users/10910988/items/WGY4IM24",
           "select": "zotero://select/library/items/WGY4IM24"
         }
@@ -45407,12 +45567,12 @@
         },
         {
           "itemType": "attachment",
-          "title": "wilson_building_2021 -- Building and Auditing Fair Algorithms.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/wilson_building_2021 -- Building and Auditing Fair Algorithms.pdf",
+          "title": "wilson2021building_Building and Auditing Fair Algorithms.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/wilson2021building_Building and Auditing Fair Algorithms.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:16:04Z",
-          "dateModified": "2023-03-17T21:57:30Z",
+          "dateModified": "2023-03-20T17:26:56Z",
           "uri": "http://zotero.org/users/10910988/items/TC9TFGGU",
           "select": "zotero://select/library/items/TC9TFGGU"
         }
@@ -45771,6 +45931,37 @@
       "publicationTitle": "Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing"
     },
     {
+      "key": "IYACQ93K",
+      "version": 5081,
+      "itemType": "bookSection",
+      "title": "Algorithmic Justice",
+      "abstractNote": "Algorithmic Justice - 1",
+      "date": "1993",
+      "extra": "Num Pages: 26",
+      "publisher": "Routledge",
+      "ISBN": "978-1-315-53974-4",
+      "creators": [
+        {
+          "firstName": "Alan",
+          "lastName": "Wolfe",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-20T17:14:44Z",
+      "dateModified": "2023-03-20T17:14:48Z",
+      "uri": "http://zotero.org/users/10910988/items/IYACQ93K",
+      "itemID": 4292,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "wolfe1993algorithmic",
+      "itemKey": "IYACQ93K",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IYACQ93K",
+      "publicationTitle": "Deconstruction and the Possibility of Justice"
+    },
+    {
       "key": "8ZVLMZP4",
       "version": 4366,
       "itemType": "conferencePaper",
@@ -45849,8 +46040,8 @@
         },
         {
           "itemType": "attachment",
-          "title": "Woodruff et al. - 2018 - A Qualitative Exploration of Perceptions of Algori.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Woodruff et al. - 2018 - A Qualitative Exploration of Perceptions of Algori.pdf",
+          "title": "woodruff2018qualitative_A Qualitative Exploration of Perceptions of Algorithmic Fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/woodruff2018qualitative_A Qualitative Exploration of Perceptions of Algorithmic Fairness.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
@@ -45858,24 +46049,24 @@
           ],
           "relations": [],
           "dateAdded": "2023-02-15T09:06:23Z",
-          "dateModified": "2023-03-17T22:04:29Z",
+          "dateModified": "2023-03-20T17:32:06Z",
           "uri": "http://zotero.org/users/10910988/items/4W5WA3M2",
           "select": "zotero://select/library/items/4W5WA3M2"
         },
         {
           "itemType": "attachment",
-          "title": "Woodruff_et_al_2018_A_Qualitative_Exploration_of_Perceptions_of_Algorithmic_Fairness.pdf",
+          "title": "woodruff2018qualitative_A Qualitative Exploration of Perceptions of Algorithmic Fairness.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/woodruff2018qualitative_A Qualitative Exploration of Perceptions of Algorithmic Fairness2.pdf",
           "tags": [
             {
               "tag": "#multiple_attachments_of_same_type"
             }
           ],
           "relations": [],
-          "dateAdded": "2023-03-12T16:07:09Z",
-          "dateModified": "2023-03-17T22:04:34Z",
-          "uri": "http://zotero.org/users/10910988/items/DCDY4AYB",
-          "path": "/Users/ro/Zotero/storage/DCDY4AYB/Woodruff_et_al_2018_A_Qualitative_Exploration_of_Perceptions_of_Algorithmic_Fairness.pdf",
-          "select": "zotero://select/library/items/DCDY4AYB"
+          "dateAdded": "2023-03-20T17:32:06Z",
+          "dateModified": "2023-03-20T17:32:08Z",
+          "uri": "http://zotero.org/users/10910988/items/NBUL8HQV",
+          "select": "zotero://select/library/items/NBUL8HQV"
         }
       ],
       "notes": [],
@@ -45985,12 +46176,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Wykstra_Eubanks_2018_Let Them Eat Efficiency.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Wykstra_Eubanks_2018_Let Them Eat Efficiency.pdf",
+          "title": "wykstra2018let_Let Them Eat Efficiency.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/wykstra2018let_Let Them Eat Efficiency.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-16T18:11:48Z",
-          "dateModified": "2023-02-16T18:11:48Z",
+          "dateModified": "2023-03-20T17:34:16Z",
           "uri": "http://zotero.org/users/10910988/items/99LG5PKA",
           "select": "zotero://select/library/items/99LG5PKA"
         }
@@ -46427,14 +46618,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Yee et al. - 2021 - Image Cropping on Twitter Fairness Metrics, their.pdf",
+          "title": "yee2021image_Image Cropping on Twitter.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/yee2021image_Image Cropping on Twitter.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-03-11T15:24:06Z",
-          "dateModified": "2023-03-11T15:24:11Z",
-          "uri": "http://zotero.org/users/10910988/items/K9PA3B3H",
-          "path": "/Users/ro/Zotero/storage/K9PA3B3H/Yee et al. - 2021 - Image Cropping on Twitter Fairness Metrics, their.pdf",
-          "select": "zotero://select/library/items/K9PA3B3H"
+          "dateAdded": "2023-03-20T17:32:46Z",
+          "dateModified": "2023-03-20T17:32:47Z",
+          "uri": "http://zotero.org/users/10910988/items/4XDTP8QS",
+          "select": "zotero://select/library/items/4XDTP8QS"
         }
       ],
       "notes": [
@@ -46625,23 +46816,23 @@
         },
         {
           "itemType": "attachment",
-          "title": "young_confronting_2022 -- Confronting Power and Corporate Capture at the FAccT Conference.docx",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/young_confronting_2022 -- Confronting Power and Corporate Capture at the FAccT Conference.docx",
+          "title": "young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.docx",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.docx",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:57:30Z",
-          "dateModified": "2023-03-17T21:57:30Z",
+          "dateModified": "2023-03-20T17:27:16Z",
           "uri": "http://zotero.org/users/10910988/items/BKM433M4",
           "select": "zotero://select/library/items/BKM433M4"
         },
         {
           "itemType": "attachment",
-          "title": "young_confronting_2022 -- Confronting Power and Corporate Capture at the FAccT Conference.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/young_confronting_2022 -- Confronting Power and Corporate Capture at the FAccT Conference.pdf",
+          "title": "young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:15:57Z",
-          "dateModified": "2023-03-17T22:04:32Z",
+          "dateModified": "2023-03-20T17:27:17Z",
           "uri": "http://zotero.org/users/10910988/items/C2JX8JRD",
           "select": "zotero://select/library/items/C2JX8JRD"
         }
@@ -47149,12 +47340,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "\u017dliobait\u0117_Custers_2016_Using_sensitive_personal_data_may_be_necessary_for_avoiding_discrimination_in.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/\u017dliobait\u0117_Custers_2016_Using_sensitive_personal_data_may_be_necessary_for_avoiding_discrimination_in.pdf",
+          "title": "zliobaite2016using_Using sensitive personal data may be necessary for avoiding discrimination in.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/zliobaite2016using_Using sensitive personal data may be necessary for avoiding discrimination in.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:29Z",
-          "dateModified": "2023-03-17T18:27:30Z",
+          "dateModified": "2023-03-20T17:30:36Z",
           "uri": "http://zotero.org/users/10910988/items/FKKSTFEM",
           "select": "zotero://select/library/items/FKKSTFEM"
         }
