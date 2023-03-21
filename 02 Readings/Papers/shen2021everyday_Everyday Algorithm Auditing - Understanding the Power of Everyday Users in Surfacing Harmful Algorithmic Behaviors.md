@@ -49,4 +49,3 @@ title: Tags and Collections
 ### <mark style='background:#4b6584'>Notes</mark> 
 
 %% Import Date: 2023-03-21T15:24:14.574-04:00 %%
-![[shen2021everyday_Everyday Algorithm Auditing]]
