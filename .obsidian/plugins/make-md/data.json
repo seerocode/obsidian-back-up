@@ -43,17 +43,18 @@
       "02 Readings/Readwise/Books",
       "02 Readings",
       "Templates/03 Notes",
-      "03 Notes",
       "Templates",
       "01 Projects",
       "02 Readings/Papers"
-    ]
+    ],
+    "02 Readings": []
   },
   "expandedSpaces": [
     null,
     "2. Papers",
     "/",
-    null
+    null,
+    "02 Readings"
   ],
   "folderRank": {
     "node": "root",

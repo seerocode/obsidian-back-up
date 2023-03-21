@@ -9,8 +9,6 @@
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
-  "booksIDsMap": {
-    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md": "24841399"
-  },
+  "booksIDsMap": {},
   "reimportShowConfirmation": true
 }
