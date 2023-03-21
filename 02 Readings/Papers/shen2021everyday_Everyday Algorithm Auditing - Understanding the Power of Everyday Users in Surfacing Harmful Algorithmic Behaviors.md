@@ -40,4 +40,3 @@ title: Tags and Collections
 ### Notes
 
 
-![[shen2021everyday_Everyday Algorithm Auditing]]
