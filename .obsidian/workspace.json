@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e85f7bd4424524f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Literature Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Literature Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Literature Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,15 +208,15 @@
       "omnisearch:Omnisearch": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "vantage-obsidian:Vantage - Advanced search builder": false,
       "apple-books-highlights:Apple Books Sync Highlights": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "14b5ba1ef2c5e7c0",
+  "active": "3e85f7bd4424524f",
   "lastOpenFiles": [
+    "Templates/Literature Note.md",
     "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
     "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
     "02 Readings/Untitled.md",
@@ -236,7 +243,6 @@
     "02 Readings/Books/Big Magic.md",
     "02 Readings/Books/The Four Agreements.md",
     "02 Readings/Books/Fearing the Black Body.md",
-    "02 Readings/Books/Pocket Guide to the Edible Garden.md",
     "02 Readings/Books",
     "Templates/context.mdb",
     "02 Readings/context.mdb",

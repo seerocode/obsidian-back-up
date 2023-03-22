@@ -53,8 +53,8 @@
     null,
     "2. Papers",
     "/",
-    null,
-    "02 Readings"
+    "02 Readings",
+    null
   ],
   "folderRank": {
     "node": "root",
@@ -80,7 +80,7 @@
     "rank",
     true
   ],
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "inlineBacklinks": true,
   "inlineContext": true,
   "inlineBacklinksExpanded": true,
