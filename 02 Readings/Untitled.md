@@ -12,3 +12,9 @@ sort: alphabetical | alphabeticalReverse | byModifiedTime | byModifiedTimeRevers
 ```query
 file:(shen)  (important)
 ```
+
+
+```dataview
+TABLE Interesting , Questions
+Where (Interesting or Questions)
+```
