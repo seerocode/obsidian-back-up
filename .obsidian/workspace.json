@@ -11,8 +11,13 @@
             "id": "14b5ba1ef2c5e7c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md"
+              }
             }
           },
           {
