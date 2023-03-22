@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f66f87a381b3848",
+        "id": "72179b6c595c60e5",
         "type": "tabs",
         "children": [
           {
-            "id": "c4135af3a48e85dc",
+            "id": "14b5ba1ef2c5e7c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,53 +194,53 @@
       "obsidian42-brat:BRAT": false,
       "periodic-notes:Open today": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "vantage-obsidian:Vantage - Advanced search builder": false
+      "vantage-obsidian:Vantage - Advanced search builder": false,
+      "apple-books-highlights:Apple Books Sync Highlights": false
     }
   },
-  "active": "c4135af3a48e85dc",
+  "active": "14b5ba1ef2c5e7c0",
   "lastOpenFiles": [
+    "02 Readings/Books/Race After Technology.md",
+    "02 Readings/Books/Caste.md",
+    "02 Readings/Books/context.mdb",
+    "02 Readings/Books/The Body Keeps the Score.md",
+    "02 Readings/Books/The Home Owner's Manual.md",
+    "02 Readings/Books/Fair Play.md",
+    "02 Readings/Books/How Not to Die  Discover the Foods Scientifically Proven to Prevent and Reverse Disease.md",
+    "02 Readings/Books/The Woman in Cabin 10.md",
+    "02 Readings/Books/Atomic Habits  Tiny Changes, Remarkable Results.md",
+    "02 Readings/Books/Buy Yourself the F*cking Lilies.md",
+    "02 Readings/Books/A Certain Hunger.md",
+    "02 Readings/Books/Design the Home You Love.md",
+    "02 Readings/Books/Driven to Distraction.md",
+    "02 Readings/Books/How to Talk So Kids Will Listen and Listen So Kids Will Talk.md",
+    "02 Readings/Books/Evicted.md",
+    "02 Readings/Books/The Simple Path to Wealth  Your road map to financial independence and a rich, free life.md",
+    "02 Readings/Books/Dialectical Behavior Therapy Skills Workbook.md",
+    "02 Readings/Books/Design a Healthy Home.md",
+    "02 Readings/Books/How to Keep House While Drowning.md",
+    "02 Readings/Books/Big Magic.md",
+    "02 Readings/Books/The Four Agreements.md",
+    "02 Readings/Books/Fearing the Black Body.md",
+    "02 Readings/Books/Pocket Guide to the Edible Garden.md",
+    "02 Readings/Books/The Demon-Haunted World  Science as a Candle in the Dark.md",
+    "02 Readings/Books/New Science and Essential Strategies for Thriving with Distraction--from Childhood through Adulthood.md",
+    "02 Readings/Books/Four-Season Food Gardening.md",
+    "02 Readings/Books",
     "Templates/context.mdb",
-    "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
-    "Templates/Untitled.md",
-    "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
-    "02 Readings/Untitled.md",
     "02 Readings/context.mdb",
-    "02 Readings/Papers/Papers.md",
     "02 Readings/Papers/context.mdb",
     "02 Readings/Papers/Untitled.canvas",
     "shen2021everyday/image-11-x50-y444.jpg",
     "shen2021everyday/image-11-x269-y270.jpg",
     "shen2021everyday",
-    "Templates/Literature Note 1.md",
-    "02 Readings/Papers/ajana2015augmented_Augmented borders - Big Data and the ethics of immigration control.md",
-    "01 Projects/Ideas Tracker.md",
-    "@shen2021everyday.md",
-    "02 Readings/Papers/ajana2015augmented_Augmented borders Big Data and the ethics of immigration control.md",
     "02 Readings/Papers/shen2021everyday/image-11-x50-y444.jpg",
     "02 Readings/Papers/shen2021everyday/image-11-x269-y270.jpg",
     "02 Readings/Papers/shen2021everyday",
-    "Templates/Literature Note.md",
-    "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md",
-    "Templates/.md",
-    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin; Highlights.md",
-    "davis2021algorithmic_Algorithmic reparation.md",
     "ZoteroHighlights.css",
-    "02 Readings/Papers/birhane2022values_The Values Encoded in Machine Learning Research.md",
-    "02 Readings/Papers/young2022confronting_Confronting Power and Corporate Capture at the FAccT Conference.md",
     "callout-styling.css",
     "zoterolibrary.json",
-    "zoterolibrary/zoterolibrary.json",
-    "zoterolibrary/files/3863/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb.html",
-    "zoterolibrary/files/3863",
-    "Ruha Benjamin;.md",
-    "Templates/Daily Notes.md",
-    "Templates/Post-Mortem.md",
-    "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin Highlights.md",
-    "2023-02-28.md",
-    "202302281138.md",
-    "purple.md",
     "Untitled 1.canvas",
-    "202302281137.md",
     "Untitled.canvas"
   ]
 }
