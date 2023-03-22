@@ -16,5 +16,5 @@ file:(shen)  (important)
 
 ```dataview
 TABLE Interesting , Questions
-Where (Interesting or Questions)
+FROM "02 Readings/Papers" Where (Interesting or Questions)
 ```
