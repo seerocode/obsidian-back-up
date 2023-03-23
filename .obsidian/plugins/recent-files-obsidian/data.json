@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "davis2021algorithmic",
-      "path": "02 Readings/Papers/davis2021algorithmic.md"
+      "basename": "Literature Note 2",
+      "path": "Templates/Literature Note 2.md"
+    },
+    {
+      "basename": "Literature Note 1",
+      "path": "Templates/Literature Note 1.md"
+    },
+    {
+      "basename": "shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors",
+      "path": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md"
     },
     {
       "basename": "shen2021everyday_Everyday Algorithm Auditing",
@@ -11,10 +19,6 @@
     {
       "basename": "Literature Note",
       "path": "Templates/Literature Note.md"
-    },
-    {
-      "basename": "shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors",
-      "path": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md"
     },
     {
       "basename": "Untitled",
@@ -33,20 +37,12 @@
       "path": "02 Readings/Books/Caste.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Templates/Untitled.md"
-    },
-    {
       "basename": "Papers",
       "path": "02 Readings/Papers/Papers.md"
     },
     {
       "basename": "Ideas Tracker",
       "path": "01 Projects/Ideas Tracker.md"
-    },
-    {
-      "basename": "Literature Note 1",
-      "path": "Templates/Literature Note 1.md"
     },
     {
       "basename": "Daily Notes",

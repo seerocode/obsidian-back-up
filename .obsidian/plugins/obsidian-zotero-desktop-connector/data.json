@@ -18,7 +18,7 @@
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "cslStyle": "association-for-computing-machinery",
-      "templatePath": "Templates/Literature Note 1.md"
+      "templatePath": "Templates/Literature Note 2.md"
     },
     {
       "name": "Import #1",
@@ -32,5 +32,6 @@
   "shouldShowCiteSuggest": false,
   "openNoteAfterImport": true,
   "shouldConcat": true,
-  "exeVersion": "1.0.15"
+  "exeVersion": "1.0.15",
+  "whichNotesToOpenAfterImport": "last-imported-note"
 }
