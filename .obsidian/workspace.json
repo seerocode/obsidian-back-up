@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Literature Note.md",
-                "mode": "source",
+                "file": "02 Readings/Papers/davis2021algorithmic.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Literature Note.md",
+                "file": "02 Readings/Papers/davis2021algorithmic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Literature Note.md",
+                "file": "02 Readings/Papers/davis2021algorithmic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Literature Note.md"
+                "file": "02 Readings/Papers/davis2021algorithmic.md"
               }
             }
           },
@@ -170,13 +170,23 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "7670158b1ed247fc",
+            "type": "leaf",
+            "state": {
+              "type": "zotero-annotation-view",
+              "state": {
+                "file": "02 Readings/Papers/davis2021algorithmic.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,13 +220,14 @@
   },
   "active": "14b5ba1ef2c5e7c0",
   "lastOpenFiles": [
+    "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
+    "02 Readings/Papers/davis2021algorithmic.md",
+    "Templates/Literature Note.md",
     "02 Readings/Readwise/Readwise Syncs.md",
     "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin;--Highlights.md",
     "02 Readings/Readwise/Books",
     "02 Readings/Readwise",
-    "Templates/Literature Note.md",
     "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
-    "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
     "02 Readings/Untitled.md",
     "02 Readings/Untitled 1.md",
     "02 Readings/Books/Race After Technology.md",
@@ -238,7 +249,6 @@
     "02 Readings/Books/Dialectical Behavior Therapy Skills Workbook.md",
     "02 Readings/Books/Design a Healthy Home.md",
     "02 Readings/Books/How to Keep House While Drowning.md",
-    "02 Readings/Books/Big Magic.md",
     "02 Readings/Books",
     "Templates/context.mdb",
     "02 Readings/context.mdb",

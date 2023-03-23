@@ -1,0 +1,22 @@
+{
+  "zoteroDataDir": "/Users/ro/Zotero",
+  "literatureNoteFolder": "02 Readings/Papers",
+  "template": {
+    "ejected": false,
+    "folder": "ZtTemplates",
+    "templates": {
+      "altCitation": "@<%= it.citekey %>",
+      "citation": "[@<%= it.citekey %>]",
+      "filename": "<%= it.citekey ?? it.DOI ?? it.title ?? it.key ?? it.citekey %>.md"
+    }
+  },
+  "logLevel": "INFO",
+  "citationLibrary": 1,
+  "citationEditorSuggester": true,
+  "showCitekeyInSuggester": true,
+  "autoRefresh": true,
+  "autoPairEta": true,
+  "mutoolPath": null,
+  "symlinkImgExcerpt": false,
+  "imgExcerptPath": "ZtImgExcerpt"
+}
