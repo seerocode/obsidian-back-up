@@ -108,7 +108,8 @@
         4480,
         4483,
         4486,
-        4491
+        4491,
+        4629
       ]
     },
     "N7I3KUI3": {
@@ -740,7 +741,16 @@
         4293,
         4296,
         4297,
-        4298
+        4298,
+        4631,
+        4633,
+        4635,
+        4636,
+        4640,
+        4643,
+        4647,
+        4649,
+        4651
       ]
     }
   },
@@ -2921,7 +2931,20 @@
           "select": "zotero://select/library/items/7G47485E"
         }
       ],
-      "notes": [],
+      "notes": [
+        {
+          "key": "5I9AWEHV",
+          "version": 5405,
+          "itemType": "note",
+          "parentItem": "WR2UDC2I",
+          "note": "<div data-schema-version=\"8\"><p>The reason this was introduced was because the prisons couldn\u2019t house more people.</p>\n</div>",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-22T17:03:22Z",
+          "dateModified": "2023-03-22T17:03:30Z",
+          "uri": "http://zotero.org/users/10910988/items/5I9AWEHV"
+        }
+      ],
       "citationKey": "angwin2016machine",
       "itemKey": "WR2UDC2I",
       "libraryID": 1,
@@ -4096,6 +4119,32 @@
       "itemKey": "Y4C8EM2A",
       "libraryID": 1,
       "select": "zotero://select/library/items/Y4C8EM2A"
+    },
+    {
+      "key": "3S9YUMC2",
+      "version": 5422,
+      "itemType": "attachment",
+      "title": "Fedorova, Ekaterina Undergraduate Senior Thesis.pdf",
+      "url": "https://www.econ.berkeley.edu/sites/default/files/Fedorova%2C%20Ekaterina%20Undergraduate%20Senior%20Thesis.pdf",
+      "accessDate": "2023-03-23T00:04:50Z",
+      "linkMode": "imported_url",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Fedorova, Ekaterina Undergraduate Senior Thesis.pdf",
+      "tags": [],
+      "collections": [
+        "UPZHV72L"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-23T00:04:50Z",
+      "dateModified": "2023-03-23T00:04:50Z",
+      "uri": "http://zotero.org/users/10910988/items/3S9YUMC2",
+      "itemID": 4629,
+      "localPath": "/Users/ro/Zotero/storage/3S9YUMC2/Fedorova, Ekaterina Undergraduate Senior Thesis.pdf",
+      "defaultPath": "files/4629/Fedorova, Ekaterina Undergraduate Senior Thesis.pdf",
+      "itemKey": "3S9YUMC2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/3S9YUMC2"
     },
     {
       "key": "77JWXMGU",
@@ -9669,6 +9718,101 @@
       "publicationTitle": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems"
     },
     {
+      "key": "JY7SQZFW",
+      "version": 5436,
+      "itemType": "conferencePaper",
+      "title": "How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions",
+      "abstractNote": "Machine learning tools have been deployed in various contexts to support human decision-making, in the hope that human-algorithm collaboration can improve decision quality. However, the question of whether such collaborations reduce or exacerbate biases in decision-making remains underexplored. In this work, we conducted a mixed-methods study, analyzing child welfare call screen workers\u2019 decision-making over a span of four years, and interviewing them on how they incorporate algorithmic predictions into their decision-making process. Our data analysis shows that, compared to the algorithm alone, workers reduced the disparity in screen-in rate between Black and white children from 20% to 9%. Our qualitative data show that workers achieved this by making holistic risk assessments and adjusting for the algorithm\u2019s limitations. Our analyses also show more nuanced results about how human-algorithm collaboration afects prediction accuracy, and how to measure these efects. These results shed light on potential mechanisms for improving human-algorithm collaboration in high-risk decision-making contexts.",
+      "date": "2022-04-27",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "https://dl.acm.org/doi/10.1145/3491102.3501831",
+      "accessDate": "2023-03-23T17:08:59Z",
+      "place": "New Orleans LA USA",
+      "publisher": "ACM",
+      "ISBN": "978-1-4503-9157-3",
+      "pages": "1-22",
+      "conferenceName": "CHI '22: CHI Conference on Human Factors in Computing Systems",
+      "DOI": "10.1145/3491102.3501831",
+      "creators": [
+        {
+          "firstName": "Hao-Fei",
+          "lastName": "Cheng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Logan",
+          "lastName": "Stapleton",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anna",
+          "lastName": "Kawakami",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Venkatesh",
+          "lastName": "Sivaraman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yanghuidi",
+          "lastName": "Cheng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Diana",
+          "lastName": "Qing",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Adam",
+          "lastName": "Perer",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kenneth",
+          "lastName": "Holstein",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhiwei Steven",
+          "lastName": "Wu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Haiyi",
+          "lastName": "Zhu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-23T17:08:59Z",
+      "dateModified": "2023-03-23T17:09:01Z",
+      "uri": "http://zotero.org/users/10910988/items/JY7SQZFW",
+      "itemID": 4633,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Cheng et al. - 2022 - How Child Welfare Workers Reduce Racial Disparitie.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-23T17:08:56Z",
+          "dateModified": "2023-03-23T17:09:03Z",
+          "uri": "http://zotero.org/users/10910988/items/G8Q4UD3W",
+          "path": "/Users/ro/Zotero/storage/G8Q4UD3W/Cheng et al. - 2022 - How Child Welfare Workers Reduce Racial Disparitie.pdf",
+          "select": "zotero://select/library/items/G8Q4UD3W"
+        }
+      ],
+      "notes": [],
+      "citationKey": "cheng2022howa",
+      "itemKey": "JY7SQZFW",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JY7SQZFW",
+      "publicationTitle": "CHI Conference on Human Factors in Computing Systems"
+    },
+    {
       "key": "9EKIAN5Q",
       "version": 4434,
       "itemType": "journalArticle",
@@ -11620,6 +11764,56 @@
       "publicationTitle": "2022 ACM Conference on Fairness, Accountability, and Transparency"
     },
     {
+      "key": "KNMKWPPL",
+      "version": 5435,
+      "itemType": "journalArticle",
+      "title": "A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms",
+      "abstractNote": "Recent research increasingly brings to question the appropriateness of using predictive tools in complex, real-world tasks. While a growing body of work has explored ways to improve value alignment in these tools, comparatively less work has centered concerns around the fundamental justifiability of using these tools. This work seeks to center validity considerations in deliberations around whether and how to build data-driven algorithms in high-stakes domains. Toward this end, we translate key concepts from validity theory to predictive algorithms. We apply the lens of validity to re-examine common challenges in problem formulation and data issues that jeopardize the justifiability of using predictive algorithms and connect these challenges to the social science discourse around validity. Our interdisciplinary exposition clarifies how these concepts apply to algorithmic decision making contexts. We demonstrate how these validity considerations could distill into a series of highlevel questions intended to promote and document reflections on the legitimacy of the predictive task and the suitability of the data.",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "creators": [
+        {
+          "firstName": "Amanda",
+          "lastName": "Coston",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anna",
+          "lastName": "Kawakami",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Haiyi",
+          "lastName": "Zhu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-23T17:08:33Z",
+      "dateModified": "2023-03-23T17:08:33Z",
+      "uri": "http://zotero.org/users/10910988/items/KNMKWPPL",
+      "itemID": 4631,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Coston et al. - A Validity Perspective on Evaluating the Justified.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-23T17:08:28Z",
+          "dateModified": "2023-03-23T17:08:35Z",
+          "uri": "http://zotero.org/users/10910988/items/5H2KHW3K",
+          "path": "/Users/ro/Zotero/storage/5H2KHW3K/Coston et al. - A Validity Perspective on Evaluating the Justified.pdf",
+          "select": "zotero://select/library/items/5H2KHW3K"
+        }
+      ],
+      "notes": [],
+      "citationKey": "costonvalidity",
+      "itemKey": "KNMKWPPL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KNMKWPPL"
+    },
+    {
       "key": "CJ7AM9AS",
       "version": 2774,
       "itemType": "journalArticle",
@@ -13232,6 +13426,85 @@
       "libraryID": 1,
       "select": "zotero://select/library/items/JPF5NLM8",
       "publicationTitle": "The Intercept"
+    },
+    {
+      "key": "4R4G7A3F",
+      "version": 5450,
+      "itemType": "conferencePaper",
+      "title": "Exploring How Machine Learning Practitioners (Try To) Use Fairness Toolkits",
+      "abstractNote": "Recent years have seen the development of many open-source ML fairness toolkits aimed at helping ML practitioners assess and address unfairness in their systems. However, there has been little research investigating how ML practitioners actually use these toolkits in practice. In this paper, we conducted the first in-depth empirical exploration of how industry practitioners (try to) work with existing fairness toolkits. In particular, we conducted think-aloud interviews to understand how participants learn about and use fairness toolkits, and explored the generality of our findings through an anonymous online survey. We identified several opportunities for fairness toolkits to better address practitioner needs and scaffold them in using toolkits effectively and responsibly. Based on these findings, we highlight implications for the design of future open-source fairness toolkits that can support practitioners in better contextualizing, communicating, and collaborating around ML fairness efforts.",
+      "date": "June 20, 2022",
+      "libraryCatalog": "ACM Digital Library",
+      "url": "https://dl.acm.org/doi/10.1145/3531146.3533113",
+      "accessDate": "2023-03-23",
+      "place": "New York, NY, USA",
+      "publisher": "Association for Computing Machinery",
+      "ISBN": "978-1-4503-9352-2",
+      "pages": "473\u2013484",
+      "series": "FAccT '22",
+      "DOI": "10.1145/3531146.3533113",
+      "creators": [
+        {
+          "firstName": "Wesley Hanwen",
+          "lastName": "Deng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Manish",
+          "lastName": "Nagireddy",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michelle Seng Ah",
+          "lastName": "Lee",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jatinder",
+          "lastName": "Singh",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhiwei Steven",
+          "lastName": "Wu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kenneth",
+          "lastName": "Holstein",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Haiyi",
+          "lastName": "Zhu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-23T17:12:59Z",
+      "dateModified": "2023-03-23T17:12:59Z",
+      "uri": "http://zotero.org/users/10910988/items/4R4G7A3F",
+      "itemID": 4651,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "deng2022exploring_Exploring How Machine Learning Practitioners (Try To) Use Fairness Toolkits.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/deng2022exploring_Exploring How Machine Learning Practitioners (Try To) Use Fairness Toolkits.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-23T17:13:06Z",
+          "dateModified": "2023-03-23T17:13:06Z",
+          "uri": "http://zotero.org/users/10910988/items/4SXH9FBR",
+          "select": "zotero://select/library/items/4SXH9FBR"
+        }
+      ],
+      "notes": [],
+      "citationKey": "deng2022exploring",
+      "itemKey": "4R4G7A3F",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4R4G7A3F",
+      "publicationTitle": "2022 ACM Conference on Fairness, Accountability, and Transparency"
     },
     {
       "key": "8B2TLUK7",
@@ -19374,6 +19647,92 @@
       "select": "zotero://select/library/items/YWHLEY3C"
     },
     {
+      "key": "HWB8EXZY",
+      "version": 5441,
+      "itemType": "preprint",
+      "title": "Ground(less) Truth: A Causal Framework for Proxy Labels in Human-Algorithm Decision-Making",
+      "abstractNote": "A growing literature on human-AI decision-making investigates strategies for combining human judgment with statistical models to improve decision-making. Research in this area often evaluates proposed improvements to models, interfaces, or workflows by demonstrating improved predictive performance on \"ground truth\" labels. However, this practice overlooks a key difference between human judgments and model predictions. Whereas humans reason about broader phenomena of interest in a decision -- including latent constructs that are not directly observable, such as disease status, the \"toxicity\" of online comments, or future \"job performance\" -- predictive models target proxy labels that are readily available in existing datasets. Predictive models' reliance on simplistic proxies makes them vulnerable to various sources of statistical bias. In this paper, we identify five sources of target variable bias that can impact the validity of proxy labels in human-AI decision-making tasks. We develop a causal framework to disentangle the relationship between each bias and clarify which are of concern in specific human-AI decision-making tasks. We demonstrate how our framework can be used to articulate implicit assumptions made in prior modeling work, and we recommend evaluation strategies for verifying whether these assumptions hold in practice. We then leverage our framework to re-examine the designs of prior human subjects experiments that investigate human-AI decision-making, finding that only a small fraction of studies examine factors related to target variable bias. We conclude by discussing opportunities to better address target variable bias in future research.",
+      "date": "2023-02-21",
+      "shortTitle": "Ground(less) Truth",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2302.06503",
+      "accessDate": "2023-03-23T17:10:05Z",
+      "extra": "arXiv:2302.06503 [cs]",
+      "DOI": "10.48550/arXiv.2302.06503",
+      "creators": [
+        {
+          "firstName": "Luke",
+          "lastName": "Guerdan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Amanda",
+          "lastName": "Coston",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhiwei Steven",
+          "lastName": "Wu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kenneth",
+          "lastName": "Holstein",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Computers and Society",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Human-Computer Interaction",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-23T17:10:05Z",
+      "dateModified": "2023-03-23T17:10:05Z",
+      "uri": "http://zotero.org/users/10910988/items/HWB8EXZY",
+      "itemID": 4636,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "arXiv.org Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-23T17:10:16Z",
+          "dateModified": "2023-03-23T17:10:16Z",
+          "uri": "http://zotero.org/users/10910988/items/P585XLDC",
+          "path": "/Users/ro/Zotero/storage/P585XLDC/2302.html",
+          "select": "zotero://select/library/items/P585XLDC"
+        },
+        {
+          "itemType": "attachment",
+          "title": "guerdan2023ground_Ground(less) Truth.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/guerdan2023ground_Ground(less) Truth.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-23T17:10:11Z",
+          "dateModified": "2023-03-23T17:10:11Z",
+          "uri": "http://zotero.org/users/10910988/items/BXB2PI2H",
+          "select": "zotero://select/library/items/BXB2PI2H"
+        }
+      ],
+      "notes": [],
+      "citationKey": "guerdan2023ground",
+      "itemKey": "HWB8EXZY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HWB8EXZY",
+      "number": "arXiv:2302.06503",
+      "publisher": "arXiv"
+    },
+    {
       "key": "CPA7Y9KI",
       "version": 502,
       "itemType": "journalArticle",
@@ -21623,6 +21982,104 @@
       "itemKey": "WPESUDHP",
       "libraryID": 1,
       "select": "zotero://select/library/items/WPESUDHP"
+    },
+    {
+      "key": "Y3PRWN2M",
+      "version": 5449,
+      "itemType": "conferencePaper",
+      "title": "Improving fairness in machine learning systems: What do industry practitioners need?",
+      "abstractNote": "The potential for machine learning (ML) systems to amplify social inequities and unfairness is receiving increasing popular and academic attention. A surge of recent work has focused on the development of algorithmic tools to assess and mitigate such unfairness. If these tools are to have a positive impact on industry practice, however, it is crucial that their design be informed by an understanding of realworld needs. Through 35 semi-structured interviews and an anonymous survey of 267 ML practitioners, we conduct the first systematic investigation of commercial product teams\u2019 challenges and needs for support in developing fairer ML systems. We identify areas of alignment and disconnect between the challenges faced by teams in practice and the solutions proposed in the fair ML research literature. Based on these findings, we highlight directions for future ML and HCI research that will better address practitioners\u2019 needs.",
+      "date": "2019-05-02",
+      "language": "en",
+      "shortTitle": "Improving fairness in machine learning systems",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/1812.05239",
+      "accessDate": "2023-03-23T17:12:52Z",
+      "extra": "arXiv:1812.05239 [cs]",
+      "pages": "1-16",
+      "DOI": "10.1145/3290605.3300830",
+      "creators": [
+        {
+          "firstName": "Kenneth",
+          "lastName": "Holstein",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jennifer Wortman",
+          "lastName": "Vaughan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hal",
+          "lastName": "Daum\u00e9 III",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Miro",
+          "lastName": "Dud\u00edk",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hanna",
+          "lastName": "Wallach",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computers and Society",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Human-Computer Interaction",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Software Engineering",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-23T17:12:52Z",
+      "dateModified": "2023-03-23T17:12:52Z",
+      "uri": "http://zotero.org/users/10910988/items/Y3PRWN2M",
+      "itemID": 4649,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Holstein et al. - 2019 - Improving fairness in machine learning systems Wh.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-23T17:12:46Z",
+          "dateModified": "2023-03-23T17:12:55Z",
+          "uri": "http://zotero.org/users/10910988/items/LBHSWTGG",
+          "path": "/Users/ro/Zotero/storage/LBHSWTGG/Holstein et al. - 2019 - Improving fairness in machine learning systems Wh.pdf",
+          "select": "zotero://select/library/items/LBHSWTGG"
+        }
+      ],
+      "notes": [
+        {
+          "key": "DXQVGMJQ",
+          "version": 5449,
+          "itemType": "note",
+          "parentItem": "Y3PRWN2M",
+          "note": "Comment: To appear in the 2019 ACM CHI Conference on Human Factors in Computing Systems (CHI 2019)",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-23T17:12:52Z",
+          "dateModified": "2023-03-23T17:12:52Z",
+          "uri": "http://zotero.org/users/10910988/items/DXQVGMJQ"
+        }
+      ],
+      "citationKey": "holstein2019improving",
+      "itemKey": "Y3PRWN2M",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Y3PRWN2M",
+      "publicationTitle": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems"
     },
     {
       "key": "MCVLJFZZ",
@@ -24185,6 +24642,112 @@
       "publicationTitle": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems"
     },
     {
+      "key": "VYTIJFUC",
+      "version": 5441,
+      "itemType": "conferencePaper",
+      "title": "\u201cWhy Do I Care What\u2019s Similar?\u201d Probing Challenges in AI-Assisted Child Welfare Decision-Making through Worker-AI Interface Design Concepts",
+      "abstractNote": "Data-driven AI systems are increasingly used to augment human decision-making in complex, social contexts, such as social work or legal practice. Yet, most existing design knowledge regarding how to best support AI-augmented decision-making comes from studies in comparatively well-defined settings. In this paper, we present findings from design interviews with 12 social workers who use an algorithmic decision support tool (ADS) to assist their day-to-day child maltreatment screening decisions. We generated a range of design concepts, each envisioning different ways of redesigning or augmenting the ADS interface. Overall, workers desired ways to understand the risk score and incorporate contextual knowledge, which move beyond existing notions of AI interpretability. Conversations around our design concepts also surfaced more fundamental concerns around the assumptions underlying statistical prediction, such as inference based on similar historical cases and statistical notions of uncertainty. Based on our findings, we discuss how ADS may be better designed to support the roles of human decision-makers in social decision-making contexts.",
+      "date": "June 13, 2022",
+      "shortTitle": "\u201cWhy Do I Care What\u2019s Similar?",
+      "libraryCatalog": "ACM Digital Library",
+      "url": "https://dl.acm.org/doi/10.1145/3532106.3533556",
+      "accessDate": "2023-03-23",
+      "place": "New York, NY, USA",
+      "publisher": "Association for Computing Machinery",
+      "ISBN": "978-1-4503-9358-4",
+      "pages": "454\u2013470",
+      "series": "DIS '22",
+      "DOI": "10.1145/3532106.3533556",
+      "creators": [
+        {
+          "firstName": "Anna",
+          "lastName": "Kawakami",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Venkatesh",
+          "lastName": "Sivaraman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Logan",
+          "lastName": "Stapleton",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hao-Fei",
+          "lastName": "Cheng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Adam",
+          "lastName": "Perer",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhiwei Steven",
+          "lastName": "Wu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Haiyi",
+          "lastName": "Zhu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kenneth",
+          "lastName": "Holstein",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "AI-assisted decision-making",
+          "type": 1
+        },
+        {
+          "tag": "algorithmic decision support",
+          "type": 1
+        },
+        {
+          "tag": "child welfare",
+          "type": 1
+        },
+        {
+          "tag": "design",
+          "type": 1
+        },
+        {
+          "tag": "social work",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-23T17:10:18Z",
+      "dateModified": "2023-03-23T17:10:18Z",
+      "uri": "http://zotero.org/users/10910988/items/VYTIJFUC",
+      "itemID": 4640,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "kawakami2022why_\u201cWhy Do I Care What\u2019s Similar.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/kawakami2022why_\u201cWhy Do I Care What\u2019s Similar.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-23T17:10:24Z",
+          "dateModified": "2023-03-23T17:10:24Z",
+          "uri": "http://zotero.org/users/10910988/items/89UGC2VF",
+          "select": "zotero://select/library/items/89UGC2VF"
+        }
+      ],
+      "notes": [],
+      "citationKey": "kawakami2022why",
+      "itemKey": "VYTIJFUC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VYTIJFUC",
+      "publicationTitle": "Designing Interactive Systems Conference"
+    },
+    {
       "key": "J3ZXIDQG",
       "version": 5082,
       "itemType": "journalArticle",
@@ -26394,6 +26957,90 @@
       "itemKey": "C6BHMXE8",
       "libraryID": 1,
       "select": "zotero://select/library/items/C6BHMXE8"
+    },
+    {
+      "key": "57WHL5LL",
+      "version": 5439,
+      "itemType": "preprint",
+      "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services",
+      "abstractNote": "Recent years have seen growing adoption of AI-based decisionsupport systems (ADS) in homeless services, yet we know little about stakeholder desires and concerns surrounding their use. In this work, we aim to understand impacted stakeholders\u2019 perspectives on a deployed ADS that prioritizes scarce housing resources.",
+      "date": "2023-03-16",
+      "language": "en",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2303.09743",
+      "accessDate": "2023-03-23T17:09:35Z",
+      "extra": "arXiv:2303.09743 [cs]",
+      "DOI": "10.1145/3544548.3580882",
+      "creators": [
+        {
+          "firstName": "Tzu-Sheng",
+          "lastName": "Kuo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hong",
+          "lastName": "Shen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jisoo",
+          "lastName": "Geum",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Nev",
+          "lastName": "Jones",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jason I.",
+          "lastName": "Hong",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Haiyi",
+          "lastName": "Zhu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kenneth",
+          "lastName": "Holstein",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Human-Computer Interaction",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-23T17:09:35Z",
+      "dateModified": "2023-03-23T17:09:36Z",
+      "uri": "http://zotero.org/users/10910988/items/57WHL5LL",
+      "itemID": 4635,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Kuo et al. - 2023 - Understanding Frontline Workers' and Unhoused Indi.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-23T17:09:27Z",
+          "dateModified": "2023-03-23T17:09:38Z",
+          "uri": "http://zotero.org/users/10910988/items/H6DBXS3I",
+          "path": "/Users/ro/Zotero/storage/H6DBXS3I/Kuo et al. - 2023 - Understanding Frontline Workers' and Unhoused Indi.pdf",
+          "select": "zotero://select/library/items/H6DBXS3I"
+        }
+      ],
+      "notes": [],
+      "citationKey": "kuo2023understanding",
+      "itemKey": "57WHL5LL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/57WHL5LL"
     },
     {
       "key": "WZP32TGZ",
@@ -33129,6 +33776,74 @@
       "select": "zotero://select/library/items/V3YHY6DA"
     },
     {
+      "key": "S5HY6BN6",
+      "version": 5448,
+      "itemType": "journalArticle",
+      "title": "Power Dynamics and Value Conflicts in Designing and Maintaining Socio-Technical Algorithmic Processes",
+      "abstractNote": "How do power dynamics and value conflicts affect our ability to design and maintain socio-technical algorithmic processes? In this paper, we study the SIGCHI student volunteer (SV) selection process that uses a weighted semi-randomized algorithm to recruit a desired pool of volunteers. Our interviews with the community members showed that the process is complex and socio-technical; the algorithm's outputs are interpreted and adjusted by the conference organizers to reflect the community values while ensuring the selection of effective volunteers to help with organizing the conference. This provides a stage in which the power dynamics and value conflicts among the stakeholders play salient roles in determining how the process was perceived and envisioned. For instance, non-organizers of the conference found the algorithm used in the selection process to be a power-balancer that places a check on the organizers who oversee the process. However, even with a participatory process to elicit the algorithm's weights, the power dynamics and value conflicts between the participants made it difficult to reach a consensus on what the SV selection process should consider and prioritize. Our findings highlight the importance of value transparency -- the type of transparency that focuses on explaining why a decision was made rather than how it was made -- as a mechanism for resolving such conflicts. Based on our findings, we lay out design recommendations that can guide communities to better design and maintain algorithmic socio-technical processes over time in the face of power dynamics and value conflicts.",
+      "date": "April 7, 2022",
+      "libraryCatalog": "ACM Digital Library",
+      "url": "https://doi.org/10.1145/3512957",
+      "accessDate": "2023-03-23T17:12:38Z",
+      "volume": "6",
+      "pages": "110:1\u2013110:21",
+      "publicationTitle": "Proceedings of the ACM on Human-Computer Interaction",
+      "DOI": "10.1145/3512957",
+      "issue": "CSCW1",
+      "journalAbbreviation": "Proc. ACM Hum.-Comput. Interact.",
+      "creators": [
+        {
+          "firstName": "Joon Sung",
+          "lastName": "Park",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Karrie",
+          "lastName": "Karahalios",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Niloufar",
+          "lastName": "Salehi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Motahhare",
+          "lastName": "Eslami",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "algorithmic governance",
+          "type": 1
+        },
+        {
+          "tag": "collective participation",
+          "type": 1
+        },
+        {
+          "tag": "fairness",
+          "type": 1
+        },
+        {
+          "tag": "participatory algorithm design",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-23T17:12:39Z",
+      "dateModified": "2023-03-23T17:12:39Z",
+      "uri": "http://zotero.org/users/10910988/items/S5HY6BN6",
+      "itemID": 4647,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "park2022power",
+      "itemKey": "S5HY6BN6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/S5HY6BN6"
+    },
+    {
       "key": "9PII876R",
       "version": 85,
       "itemType": "journalArticle",
@@ -35358,12 +36073,12 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "richardson2021racial_Racial Segregation and the Data-Driven Society.pdf",
-          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/richardson2021racial_Racial Segregation and the Data-Driven Society.pdf",
+          "title": "Richardson - 2021 - Racial Segregation and the Data-Driven Society Ho.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Richardson - 2021 - Racial Segregation and the Data-Driven Society Ho.pdf",
           "tags": [],
           "relations": [],
           "dateAdded": "2023-03-21T18:41:37Z",
-          "dateModified": "2023-03-21T18:41:37Z",
+          "dateModified": "2023-03-22T19:13:46Z",
           "uri": "http://zotero.org/users/10910988/items/QZKBLZ59",
           "select": "zotero://select/library/items/QZKBLZ59"
         }
@@ -40703,6 +41418,113 @@
       "itemKey": "UXYT4C9M",
       "libraryID": 1,
       "select": "zotero://select/library/items/UXYT4C9M"
+    },
+    {
+      "key": "7GLJPDQS",
+      "version": 5443,
+      "itemType": "preprint",
+      "title": "Extended Analysis of \"How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions\"",
+      "abstractNote": "This is an extended analysis of our paper \"How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions,\" which looks at racial disparities in the Allegheny Family Screening Tool, an algorithm used to help child welfare workers decide which families the Allegheny County child welfare agency (CYF) should investigate. On April 27, 2022, Allegheny County CYF sent us an updated dataset and pre-processing steps. In this extended analysis of our paper, we show the results from re-running all quantitative analyses in our paper with this new data and pre-processing. We find that our main findings in our paper were robust to changes in data and pre-processing. Particularly, the Allegheny Family Screening Tool on its own would have made more racially disparate decisions than workers, and workers used the tool to decrease those algorithmic disparities. Some minor results changed, including a slight increase in the screen-in rate from before to after the implementation of the AFST reported our paper.",
+      "date": "2022-04-29",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2204.13872",
+      "accessDate": "2023-03-23T17:10:36Z",
+      "extra": "arXiv:2204.13872 [cs]",
+      "DOI": "10.48550/arXiv.2204.13872",
+      "creators": [
+        {
+          "firstName": "Logan",
+          "lastName": "Stapleton",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hao-Fei",
+          "lastName": "Cheng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anna",
+          "lastName": "Kawakami",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Venkatesh",
+          "lastName": "Sivaraman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yanghuidi",
+          "lastName": "Cheng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Diana",
+          "lastName": "Qing",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Adam",
+          "lastName": "Perer",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kenneth",
+          "lastName": "Holstein",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhiwei Steven",
+          "lastName": "Wu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Haiyi",
+          "lastName": "Zhu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Human-Computer Interaction",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-23T17:10:36Z",
+      "dateModified": "2023-03-23T17:10:36Z",
+      "uri": "http://zotero.org/users/10910988/items/7GLJPDQS",
+      "itemID": 4643,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "arXiv.org Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-23T17:10:53Z",
+          "dateModified": "2023-03-23T17:10:53Z",
+          "uri": "http://zotero.org/users/10910988/items/CRKIPPF2",
+          "path": "/Users/ro/Zotero/storage/CRKIPPF2/2204.html",
+          "select": "zotero://select/library/items/CRKIPPF2"
+        },
+        {
+          "itemType": "attachment",
+          "title": "stapleton2022extended_Extended Analysis of How Child Welfare Workers Reduce Racial Disparities in.pdf",
+          "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/stapleton2022extended_Extended Analysis of How Child Welfare Workers Reduce Racial Disparities in.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-23T17:10:46Z",
+          "dateModified": "2023-03-23T17:10:49Z",
+          "uri": "http://zotero.org/users/10910988/items/X5VW7FJH",
+          "select": "zotero://select/library/items/X5VW7FJH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "stapleton2022extended",
+      "itemKey": "7GLJPDQS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7GLJPDQS",
+      "number": "arXiv:2204.13872",
+      "publisher": "arXiv"
     },
     {
       "key": "LDNT7BBU",
