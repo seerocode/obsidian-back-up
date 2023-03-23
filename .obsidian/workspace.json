@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "72179b6c595c60e5",
+        "id": "90c87c310f9f621c",
         "type": "tabs",
         "children": [
           {
-            "id": "14b5ba1ef2c5e7c0",
+            "id": "308e566789f3888d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3972372deaa0338d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Literature Note 2.md",
-                "mode": "source",
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Literature Note 2.md",
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Literature Note 2.md",
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Literature Note 2.md"
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md"
               }
             }
           },
@@ -177,7 +186,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "Templates/Literature Note 2.md"
+                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md"
               }
             }
           }
@@ -218,13 +227,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "14b5ba1ef2c5e7c0",
+  "active": "3972372deaa0338d",
   "lastOpenFiles": [
-    "Templates/Literature Note 2.md",
-    "Templates/Literature Note 1.md",
     "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
-    "02 Readings/Papers/davis2021algorithmic.md",
+    "Templates/Literature Note 2.md",
+    "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md",
     "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
+    "shen2021everyday/image-11-x50-y444.jpg",
+    "shen2021everyday/image-11-x269-y270.jpg",
+    "shen2021everyday",
+    "Templates/Literature Note 1.md",
+    "02 Readings/Papers/davis2021algorithmic.md",
     "Templates/Literature Note.md",
     "02 Readings/Readwise/Readwise Syncs.md",
     "02 Readings/Readwise/Books/Race After Technology by Ruha Benjamin;--Highlights.md",
@@ -248,15 +261,11 @@
     "02 Readings/Books/How to Talk So Kids Will Listen and Listen So Kids Will Talk.md",
     "02 Readings/Books/Evicted.md",
     "02 Readings/Books/The Simple Path to Wealth  Your road map to financial independence and a rich, free life.md",
-    "02 Readings/Books/Dialectical Behavior Therapy Skills Workbook.md",
     "02 Readings/Books",
     "Templates/context.mdb",
     "02 Readings/context.mdb",
     "02 Readings/Papers/context.mdb",
     "02 Readings/Papers/Untitled.canvas",
-    "shen2021everyday/image-11-x50-y444.jpg",
-    "shen2021everyday/image-11-x269-y270.jpg",
-    "shen2021everyday",
     "02 Readings/Papers/shen2021everyday/image-11-x50-y444.jpg",
     "02 Readings/Papers/shen2021everyday/image-11-x269-y270.jpg",
     "02 Readings/Papers/shen2021everyday",
