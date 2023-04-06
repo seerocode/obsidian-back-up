@@ -14,22 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3972372deaa0338d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "zotero-annotation-view",
-              "state": {
-                "file": "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -223,12 +203,15 @@
       "vantage-obsidian:Vantage - Advanced search builder": false,
       "apple-books-highlights:Apple Books Sync Highlights": false,
       "obsidian-projects:Open projects": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3972372deaa0338d",
+  "active": "308e566789f3888d",
   "lastOpenFiles": [
+    "02 Readings/Papers/Untitled.md",
     "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing - Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors.md",
+    "02 Readings/Untitled 1.md",
     "Templates/Literature Note 2.md",
     "02 Readings/Papers/davis2021algorithmic_Algorithmic reparation.md",
     "02 Readings/Papers/shen2021everyday_Everyday Algorithm Auditing.md",
@@ -243,7 +226,6 @@
     "02 Readings/Readwise/Books",
     "02 Readings/Readwise",
     "02 Readings/Untitled.md",
-    "02 Readings/Untitled 1.md",
     "02 Readings/Books/Race After Technology.md",
     "02 Readings/Books/Caste.md",
     "02 Readings/Books/context.mdb",
@@ -259,7 +241,6 @@
     "02 Readings/Books/Driven to Distraction.md",
     "02 Readings/Books/How to Talk So Kids Will Listen and Listen So Kids Will Talk.md",
     "02 Readings/Books/Evicted.md",
-    "02 Readings/Books/The Simple Path to Wealth  Your road map to financial independence and a rich, free life.md",
     "02 Readings/Books",
     "Templates/context.mdb",
     "02 Readings/context.mdb",
