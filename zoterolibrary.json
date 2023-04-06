@@ -9,7 +9,7 @@
       "autoAbbrev": false,
       "autoAbbrevStyle": "",
       "autoExport": "immediate",
-      "autoExportDelay": 53,
+      "autoExportDelay": 70,
       "autoExportIdleWait": 10,
       "autoExportPathReplaceDiacritics": false,
       "autoExportPathReplaceDirSep": "-",
@@ -1040,7 +1040,7 @@
     },
     {
       "key": "DDFK2SWV",
-      "version": 4959,
+      "version": 6151,
       "itemType": "blogPost",
       "title": "Afro-Pessimism and the End of Redemption",
       "abstractNote": "This essay addresses the tenets of Afro-Pessimism in relation to the condition of slavery, Blackness, and Black nonexistence.",
@@ -1132,7 +1132,7 @@
     },
     {
       "key": "PW2DXQWI",
-      "version": 4964,
+      "version": 6152,
       "itemType": "newspaperArticle",
       "title": "America\u2019s Cities Were Designed to Oppress",
       "abstractNote": "Architects and planners have an obligation to protect health, safety and welfare through the spaces we design. As the George Floyd protests reveal, we\u2019ve failed.",
@@ -1207,7 +1207,7 @@
     },
     {
       "key": "JRJEVI6G",
-      "version": 4964,
+      "version": 6152,
       "itemType": "webpage",
       "title": "Nine ideas for making our city's public space more race equitable",
       "abstractNote": "Protests against racism after the killing of George Floyd demonstrate inequities in public space too often designed for white people. How to change that.",
@@ -2206,7 +2206,7 @@
     },
     {
       "key": "2NZBREXD",
-      "version": 5053,
+      "version": 6153,
       "itemType": "forumPost",
       "title": "Before being diagnosed with ADHD, I was constantly asked the impossible-to-answer \u201cwhy?!\u201d about how I thought and acted. But people couldn\u2019t accept that I didn\u2019t know either, so I gave random answers to see what was acceptable enough. You lie to survive, but don\u2019t know why.",
       "date": "2023-02-17T06:00Z",
@@ -2284,14 +2284,7 @@
           "itemType": "attachment",
           "title": "adorno2002culture_The Culture Industry.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/adorno2002culture_The Culture Industry.pdf",
-          "tags": [
-            {
-              "tag": "#nosource"
-            },
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T08:58:49Z",
           "dateModified": "2023-03-18T00:48:21Z",
@@ -2387,11 +2380,7 @@
           "itemType": "attachment",
           "title": "agan2023automating_Automating Automaticity.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/agan2023automating_Automating Automaticity2.pdf",
-          "tags": [
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-03-18T00:48:22Z",
           "dateModified": "2023-03-18T00:48:24Z",
@@ -2565,11 +2554,7 @@
           "itemType": "attachment",
           "title": "ajana2015augmented_Augmented borders.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/ajana2015augmented_Augmented borders.pdf",
-          "tags": [
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T18:27:07Z",
           "dateModified": "2023-03-18T00:48:27Z",
@@ -2945,7 +2930,7 @@
     },
     {
       "key": "LFV8I8BJ",
-      "version": 1741,
+      "version": 6109,
       "itemType": "conferencePaper",
       "title": "Measuring and Mitigating Bias and Harm in Personalized Advertising",
       "abstractNote": "Online personalized advertising is often very effective in identifying relevant audiences for each piece of content, which has led to its widespread adoption. In today\u2019s internet, however, these advertising systems are used not only to market products, but also consequential life opportunities such as employment or housing, as well as socially important political messaging. This has led to increasing concerns about the presence of algorithmic bias and possible discrimination in these important domains \u2014 with results showing problematic biases along gender, race, and political affiliation, even when the advertiser might have targeted broadly. A growing body of work focuses on measuring and characterizing these biases, as well as finding ways to mitigate these effects and building responsible systems. However, these results often emerge from different scientific communities and are often disconnected in the literature. In this paper, I attempt at bridging the gap between isolated efforts to either measure these biases, or to mitigate them. I discuss how the need to measure bias in advertising, and the efforts to mitigate it, despite being distant in the literature, are complementary problems that need to center their methodolgy around user studies. This paper presents a research agenda that focuses on the need for user-centric measurements of bias, by collecting real ads from users, and using surveys to understand user perceptions for these ads. My approach also calls for incorporating user sentiments into the mitigation efforts, by constraining optimization on user values that emerge from surveys. Finally, I also emphasize the need for involving users in the evaluation of responsible advertising systems; efforts to mitigate bias eventually need to be contextualized in terms of benefits to users instead of simple performance tradeoffs. My focus on the users is motivated by the fact that they are stakeholders in personalized advertising, vulnerable at the hand of algorithmic bias and harm, and therefore crucial in both efforts to measure and mitigate these effects.",
@@ -3476,7 +3461,7 @@
     },
     {
       "key": "UAVPPVVK",
-      "version": 4964,
+      "version": 6152,
       "itemType": "webpage",
       "title": "Analysis | America is more diverse than ever \u2014 but still segregated",
       "abstractNote": "The United States is on track to be a majority-minority nation by 2044. But census data show most of our neighbors are the same race.",
@@ -4012,7 +3997,7 @@
     },
     {
       "key": "CMFZRMRV",
-      "version": 4964,
+      "version": 6152,
       "itemType": "webpage",
       "title": "Anti-Racist Manifesto - WAI Think Tank",
       "abstractNote": "UN-MAKING ARCHITECTURE\nAn Anti-Racist Architecture Manifesto\n\n\n\nBUILDINGS \nBuildings are never just buildings. Buildings respond to the political foundations of the institutions that fund, envision, and desire them. Buildings are physical...",
@@ -4207,7 +4192,7 @@
     },
     {
       "key": "DNAILF34",
-      "version": 4936,
+      "version": 6134,
       "itemType": "book",
       "title": "Against Reduction: Designing a Human Future with Machines",
       "abstractNote": "Provocative, hopeful essays imagine a future that is not reduced to algorithms.What is human flourishing in an age of machine intelligence, when many claim that",
@@ -4673,7 +4658,7 @@
     },
     {
       "key": "9UQK6N9V",
-      "version": 953,
+      "version": 6106,
       "itemType": "blogPost",
       "title": "Experts Doubt Ethical AI Design Will Be Broadly Adopted as the Norm Within the Next Decade",
       "abstractNote": "A majority worries that the evolution of artificial intelligence by 2030 will continue to be primarily focused on optimizing profits and social control. Still, a portion celebrate coming AI breakthroughs that will improve life.",
@@ -4883,7 +4868,7 @@
     },
     {
       "key": "4PGYG7ZD",
-      "version": 4894,
+      "version": 6106,
       "itemType": "attachment",
       "title": "1680925d73.pdf",
       "url": "https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73",
@@ -4907,7 +4892,7 @@
     },
     {
       "key": "VLAWNIBU",
-      "version": 4894,
+      "version": 6106,
       "itemType": "attachment",
       "title": "Society_for_Values_in_Higher_Education_Shires_Paper_Final-libre.pdf",
       "url": "https://d1wqtxts1xzle7.cloudfront.net/56955125/Society_for_Values_in_Higher_Education_Shires_Paper_Final-libre.pdf?1531093655=&response-content-disposition=inline%3B+filename%3DCan_Personal_Identity_Survive_Personaliz.pdf&Expires=1674160673&Signature=a4t6Nr4XpamvTWr8TBjz2LPRzNMp007KDlGhdu9a3TyuLSxYo-sidhmhf4aNtXQPdB9moXAMuVivrDZAMn6sMnEJJFCsrOOnOGxFRBPB7Rl0OaFCfN6zUbOq~VO3NDpk9N7WQfwuMYTwGlDO4-d2I1eLXOUTBtb0eA8O1iGwYN1JHWWGYBeQCvaV3NkvuCY2vSQ81T67XP-oesoanPcbYfVZ7zFhnF2~aL6CTDmq6CzjjOs6qwkpfKmhFsFmfAWBKy7rW8Q93UIZRIiOxettZJDTmrIZ4zVL8X79QVZlJ~wqrCV~qhYmeG9xMV6o3aa6FKGraha4K-qb5CyV2e5ajw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
@@ -4933,7 +4918,7 @@
     },
     {
       "key": "ECBDTQ6P",
-      "version": 4899,
+      "version": 6111,
       "itemType": "attachment",
       "title": "Accepted Version",
       "url": "https://eprints.bbk.ac.uk/id/eprint/26399/3/26399.pdf",
@@ -4957,7 +4942,7 @@
     },
     {
       "key": "62VERWHR",
-      "version": 4932,
+      "version": 6133,
       "itemType": "attachment",
       "title": "DandS_Algorithmic_Accountability.pdf",
       "url": "https://datasociety.net/wp-content/uploads/2019/09/DandS_Algorithmic_Accountability.pdf",
@@ -9513,7 +9498,7 @@
     },
     {
       "key": "A7LECLAE",
-      "version": 4901,
+      "version": 6114,
       "itemType": "book",
       "title": "Distributed Blackness: African American Cybercultures",
       "abstractNote": "Winner, 2021 Harry Shaw and Katrina Hazzard-Donald Award for Outstanding Work in African-American Popular Culture Studies, given by the Popular Culture AssociationWinner, 2021 Nancy Baym Annual Book Award, given by the Association of Internet ResearchersAn explanation of the digital practices of the black Internet From BlackPlanet to #BlackGirlMagic, Distributed Blackness places blackness at the very center of internet culture. Andr\u00e9 Brock Jr. claims issues of race and ethnicity as inextricable from and formative of contemporary digital culture in the United States. Distributed Blackness analyzes a host of platforms and practices (from Black Twitter to Instagram, YouTube, and app development) to trace how digital media have reconfigured the meanings and performances of African American identity. Brock moves beyond widely circulated deficit models of respectability, bringing together discourse analysis with a close reading of technological interfaces to develop nuanced arguments about how \u201cblackness\u201d gets worked out in various technological domains.             As Brock demonstrates, there\u2019s nothing niche or subcultural about expressions of blackness on social media: internet use and practice now set the terms for what constitutes normative participation. Drawing on critical race theory, linguistics, rhetoric, information studies, and science and technology studies, Brock tabs between black-dominated technologies, websites, and social media to build a set of black beliefs about technology. In explaining black relationships with and alongside technology, Brock centers the unique joy and sense of community in being black online now.",
@@ -9871,7 +9856,7 @@
     },
     {
       "key": "VZK4ZNEJ",
-      "version": 2262,
+      "version": 6106,
       "itemType": "book",
       "title": "Dark Matters: On the Surveillance of Blackness",
       "abstractNote": "In Dark Matters Simone Browne locates the conditions of blackness as a key site through which surveillance is practiced, narrated, and resisted. She shows how contemporary surveillance technologies and practices are informed by the long history of racial formation and by the methods of policing black life under slavery, such as branding, runaway slave notices, and lantern laws. Placing surveillance studies into conversation with the archive of transatlantic slavery and its afterlife, Browne draws from black feminist theory, sociology, and cultural studies to analyze texts as diverse as the methods of surveilling blackness she discusses: from the design of the eighteenth-century slave ship Brooks, Jeremy Bentham's Panopticon, and The Book of Negroes, to contemporary art, literature, biometrics, and post-9/11 airport security practices. Surveillance, Browne asserts, is both a discursive and material practice that reifies boundaries, borders, and bodies around racial lines, so much so that the surveillance of blackness has long been, and continues to be, a social and political norm.",
@@ -10548,7 +10533,7 @@
     },
     {
       "key": "CZYLKXG3",
-      "version": 2773,
+      "version": 6115,
       "itemType": "journalArticle",
       "title": "How the machine \u2018thinks\u2019: Understanding opacity in machine learning algorithms",
       "abstractNote": "This article considers the issue of opacity as a problem for socially consequential mechanisms of classification and ranking, such as spam filters, credit card fraud detection, search engines, news trends, market segmentation and advertising, insurance or loan qualification, and credit scoring. These mechanisms of classification all frequently rely on computational algorithms, and in many cases on machine learning algorithms to do this work. In this article, I draw a distinction between three forms of opacity: (1) opacity as intentional corporate or state secrecy, (2) opacity as technical illiteracy, and (3) an opacity that arises from the characteristics of machine learning algorithms and the scale required to apply them usefully. The analysis in this article gets inside the algorithms themselves. I cite existing literatures in computer science, known industry practices (as they are publicly presented), and do some testing and manipulation of code as a form of lightweight code audit. I argue that recognizing the distinct forms of opacity that may be coming into play in a given application is a key to determining which of a variety of technical and non-technical solutions could help to prevent harm.",
@@ -11082,7 +11067,7 @@
     },
     {
       "key": "RR8V72SL",
-      "version": 4901,
+      "version": 6115,
       "itemType": "bookSection",
       "title": "The History of the Future with JOHN J. QUIRK",
       "abstractNote": "In The Image of the Future (1961) F. L. Polak has traced the human preoccupation\nwith the future to its ancient roots in Delphic oracles and astrological priesthoods. However, the modern history of the future originates with the rise of\nscience and onset of the age of exploration. Armed with the techniques of\nmodern science, especially the new measuring devices of precise clocks and\ntelescopes, a secular priesthood seized hold of the idea of a perfect future, a\nzone of experience beyond ordinary history and geography, a new region of\ntime blessed with a perfect landscape and a perfection of man and society.\nNevertheless, there exists a continuity from the ancient astrologers of the\ntemple, tribe, and city to modern scientists, for both are elevated castes who\nprofess special knowledge of the future-indeed, establish a claim of eminent\ndomain over the next stages of human history.",
@@ -11578,7 +11563,7 @@
     },
     {
       "key": "KA47WCDY",
-      "version": 956,
+      "version": 6106,
       "itemType": "journalArticle",
       "title": "A New Algorithmic Identity: Soft Biopolitics and the Modulation of Control",
       "abstractNote": "Marketing and web analytic companies have implemented sophisticated algorithms to observe, analyze, and identify users through large surveillance networks online. These computer algorithms have the capacity to infer categories of identity upon users based largely on their web-surfing habits. In this article I will first discuss the conceptual and theoretical work around code, outlining its use in an analysis of online categorization practices. The article will then approach the function of code at the level of the category, arguing that an analysis of coded computer algorithms enables a supplement to Foucauldian thinking around biopolitics and biopower, of what I call soft biopower and soft biopolitics. These new conceptual devices allow us to better understand the workings of biopower at the level of the category, of using computer code, statistics and surveillance to construct categories within populations according to users? surveilled internet history. Finally, the article will think through the nuanced ways that algorithmic inference works as a mode of control, of processes of identification that structure and regulate our lives online within the context of online marketing and algorithmic categorization.",
@@ -11830,11 +11815,7 @@
           "itemType": "attachment",
           "title": "cheng2022how_How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/cheng2022how_How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions.pdf",
-          "tags": [
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-02-16T18:09:39Z",
           "dateModified": "2023-03-20T17:33:21Z",
@@ -13159,7 +13140,7 @@
     },
     {
       "key": "LCTEBSTT",
-      "version": 4930,
+      "version": 6133,
       "itemType": "book",
       "title": "Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment",
       "abstractNote": "In spite of the double burden of racial and gender discrimination, African-American women have developed a rich intellectual tradition that is not widely known. In Black Feminist Thought, Patricia Hill Collins explores the words and ideas of Black feminist intellectuals as well as those African-American women outside academe. She provides an interpretive framework for the work of such prominent Black feminist thinkers as Angela Davis, bell hooks, Alice Walker, and Audre Lorde. The result is a superbly crafted book that provides the first synthetic overview of Black feminist thought.",
@@ -13880,7 +13861,7 @@
     },
     {
       "key": "VUKWI82T",
-      "version": 972,
+      "version": 6108,
       "itemType": "conferencePaper",
       "title": "Is seeing believing? how recommender system interfaces affect users' opinions",
       "abstractNote": "Recommender systems use people's opinions about items in an information domain to help people choose other items. These systems have succeeded in domains as diverse as movies, news articles, Web pages, and wines. The psychological literature on conformity suggests that in the course of helping people make choices, these systems probably affect users' opinions of the items. If opinions are influenced by recommendations, they might be less valuable for making recommendations for other users. Further, manipulators who seek to make the system generate artificially high or low recommendations might benefit if their efforts influence users to change the opinions they contribute to the recommender. We study two aspects of recommender system interfaces that may affect users' opinions: the rating scale and the display of predictions at the time users rate items. We find that users rate fairly consistently across rating scales. Users can be manipulated, though, tending to rate toward the prediction the system shows, whether the prediction is accurate or not. However, users can detect systems that manipulate predictions. We discuss how designers of recommender systems might react to these findings.",
@@ -13924,9 +13905,6 @@
       ],
       "tags": [
         {
-          "tag": "notion"
-        },
-        {
           "tag": "collaborative filtering",
           "type": 1
         },
@@ -13937,6 +13915,9 @@
         {
           "tag": "e-commerce",
           "type": 1
+        },
+        {
+          "tag": "notion"
         },
         {
           "tag": "persuasive computing",
@@ -14655,7 +14636,7 @@
     },
     {
       "key": "8J6NRSC9",
-      "version": 1463,
+      "version": 6108,
       "itemType": "book",
       "title": "Anatomy of an AI System",
       "abstractNote": "Anatomy of an AI System - The Amazon Echo as an anatomical map of human labor, data and planetary resources. By Kate Crawford and Vladan Joler (2018)",
@@ -15610,7 +15591,7 @@
     },
     {
       "key": "36IM3RG6",
-      "version": 4930,
+      "version": 6133,
       "itemType": "journalArticle",
       "title": "Black Feminist Thought: Knowledge, Consciousness and the Politics of Empowerment",
       "date": "1993/11/01",
@@ -15699,7 +15680,7 @@
     },
     {
       "key": "396Y5WNM",
-      "version": 4937,
+      "version": 6134,
       "itemType": "book",
       "title": "How artifacts afford: the power and politics of everyday things",
       "abstractNote": "\"The term \"affordances,\" at least in the design literature, was popularized in Don Norman's The Design of Everyday Things. He brought affordances to design studies to address human-machine interactions. In recent years, the concept has picked up considerable steam as the study of computer mediated communication (CMC) and information communication technologies (ICTs) have become firmly entrenched in the academic canon. How ArtIfacts Afford is about the social dynamics of technology. It is about the ways that ethics, values, and interests are built into technological objects and how these objects take shape through interaction with human subjects. More specifically, this book is about technological affordances. Formally, affordances are defined as \"the 'multifaceted relational structure' between an object/technology and the use that enables or constrains potential behavioral outcomes in a particular context\". That is, affordances mediate between the features of a technology and the outcomes of engagement with that technology. Technologies don't make people do things, but instead, push, pull, enable, and constrain. Affordances are how objects shape behavior for socially situated subjects\"-- Provided by publisher",
@@ -15723,10 +15704,6 @@
         }
       ],
       "tags": [
-        {
-          "tag": "Social aspects",
-          "type": 1
-        },
         {
           "tag": "COMPUTERS Human-Computer Interaction (HCI)",
           "type": 1
@@ -15757,6 +15734,10 @@
         },
         {
           "tag": "Psychological aspects",
+          "type": 1
+        },
+        {
+          "tag": "Social aspects",
           "type": 1
         }
       ],
@@ -17075,7 +17056,7 @@
     },
     {
       "key": "L5XELC6N",
-      "version": 976,
+      "version": 6108,
       "itemType": "conferencePaper",
       "title": "How People Form Folk Theories of Social Media Feeds and What it Means for How We Study Self-Presentation",
       "abstractNote": "Self-presentation is a process that is significantly complicated by the rise of algorithmic social media feeds, which obscure information about one's audience and environment. User understandings of these systems, and therefore user ability to adapt to them, are limited, and have recently been explored through the lens of folk theories. To date, little is understood of how these theories are formed, and how they tie to the self-presentation process in social media. This paper presents an exploratory look at the folk theory formation process and the interplay between folk theories and self-presentation via a 28-participant interview study. Results suggest that people draw from diverse sources of information when forming folk theories, and that folk theories are more complex, multifaceted and malleable than previously assumed. This highlights the need to integrate folk theories into both social media systems and theories of self-presentation.",
@@ -17118,22 +17099,15 @@
       ],
       "tags": [
         {
-          "tag": "notion"
-        },
-        {
-          "tag": "social media",
-          "type": 1
-        },
-        {
-          "tag": "algorithms",
-          "type": 1
-        },
-        {
           "tag": "algorithm awareness",
           "type": 1
         },
         {
           "tag": "algorithmic curation",
+          "type": 1
+        },
+        {
+          "tag": "algorithms",
           "type": 1
         },
         {
@@ -17145,7 +17119,14 @@
           "type": 1
         },
         {
+          "tag": "notion"
+        },
+        {
           "tag": "social feeds",
+          "type": 1
+        },
+        {
+          "tag": "social media",
           "type": 1
         },
         {
@@ -17353,11 +17334,7 @@
           "itemType": "attachment",
           "title": "devos2022userdriven_Toward User-Driven Algorithm Auditing.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/devos2022userdriven_Toward User-Driven Algorithm Auditing.pdf",
-          "tags": [
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-02-21T17:19:27Z",
           "dateModified": "2023-03-20T17:32:10Z",
@@ -17368,11 +17345,7 @@
           "itemType": "attachment",
           "title": "devos2022userdriven_Toward User-Driven Algorithm Auditing.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/devos2022userdriven_Toward User-Driven Algorithm Auditing2.pdf",
-          "tags": [
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-03-20T17:32:10Z",
           "dateModified": "2023-03-20T17:32:12Z",
@@ -17604,7 +17577,7 @@
     },
     {
       "key": "QPPQ33JN",
-      "version": 1582,
+      "version": 6106,
       "itemType": "blogPost",
       "title": "A history of AI bias: achieving algorithmic justice for the LGBTQ community",
       "abstractNote": "While data itself is neither good nor evil, how it is used can exacerbate systemic inequalities.",
@@ -17657,7 +17630,7 @@
     },
     {
       "key": "C4Y3DCBN",
-      "version": 958,
+      "version": 6107,
       "itemType": "webpage",
       "title": "Rage Against the Algorithms",
       "abstractNote": "How can we know the biases of a piece of software? By reverse engineering it, of course.",
@@ -17712,7 +17685,7 @@
     },
     {
       "key": "X733XVTR",
-      "version": 1703,
+      "version": 6107,
       "itemType": "blogPost",
       "title": "Sex, Violence, and Autocomplete Algorithms",
       "abstractNote": "What words do Bing and Google censor from their suggestions?",
@@ -18213,7 +18186,7 @@
     },
     {
       "key": "R9ZT2VZP",
-      "version": 4901,
+      "version": 6114,
       "itemType": "blogPost",
       "title": "Haunting, Blackness, and Algorithmic Thought - Journal #123 December 2021 - e-flux",
       "abstractNote": "Ezekiel Dixon-Rom\u00e1n and Ramon Amaro discuss deepfakes, haunted algorithms, and Black techno-conjuring.",
@@ -18749,11 +18722,7 @@
           "itemType": "attachment",
           "title": "duguay2020queer_Queer women\u2019s experiences of patchwork platform governance on Tinder,.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/duguay2020queer_Queer women\u2019s experiences of patchwork platform governance on Tinder,2.pdf",
-          "tags": [
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-03-17T21:57:34Z",
           "dateModified": "2023-03-20T17:33:24Z",
@@ -20231,7 +20200,7 @@
     },
     {
       "key": "UJYFMBTM",
-      "version": 975,
+      "version": 6108,
       "itemType": "book",
       "title": "The Rise of Big Data Policing: Surveillance, Race, and the Future of Law Enforcement",
       "abstractNote": "<i>Winner, 2018 Law & Legal Studies PROSE Award</i>   The consequences of big data and algorithm-driven policing and its impact on law enforcement  In a high-tech command center in downtown Los Angeles, a digital map lights up with 911 calls, television monitors track breaking news stories, surveillance cameras sweep the streets, and rows of networked computers link analysts and police officers to a wealth of law enforcement intelligence.  This is just a glimpse into a future where software predicts future crimes, algorithms generate virtual \"most-wanted\" lists, and databanks collect personal and biometric information. <i>The Rise of Big Data Policing</i> introduces the cutting-edge technology that is changing how the police do their jobs and shows why it is more important than ever that citizens understand the far-reaching consequences of big data surveillance as a law enforcement tool.  Andrew Guthrie Ferguson reveals how these new technologies -viewed as race-neutral and objective-have been eagerly adopted by police departments hoping to distance themselves from claims of racial bias and unconstitutional practices. After a series of high-profile police shootings and federal investigations into systemic police misconduct, and in an era of law enforcement budget cutbacks, data-driven policing has been billed as a way to \"turn the page\" on racial bias.  But behind the data are real people, and difficult questions remain about racial discrimination and the potential to distort constitutional protections.  In this first book on big data policing, Ferguson offers an examination of how new technologies will alter the who, where, when and how we police. These new technologies also offer data-driven methods to improve police accountability and to remedy the underlying socio-economic risk factors that encourage crime.   <i>The Rise of Big Data Policing</i> is a must read for anyone concerned with how technology will revolutionize law enforcement and its potential threat to the security, privacy, and constitutional rights of citizens.  Read an excerpt and interview with Andrew Guthrie Ferguson in <i>The Economist</i> .",
@@ -20288,7 +20257,7 @@
     },
     {
       "key": "DJK5WS8Z",
-      "version": 4935,
+      "version": 6134,
       "itemType": "journalArticle",
       "title": "Intersectionality as Theory and Practice",
       "date": "2018-03-01",
@@ -20328,7 +20297,7 @@
     },
     {
       "key": "GY9NGLTL",
-      "version": 971,
+      "version": 6107,
       "itemType": "book",
       "title": "What Algorithms Want: Imagination in the Age of Computing",
       "abstractNote": "We depend on\u2014we believe in\u2014algorithms to help us get a ride, choose which book to buy, execute a mathematical proof. It\u2019s as if we think of code as a magic spell, an incantation to reveal what we need to know and even what we want. Humans have always believed that certain invocations\u2014the marriage vow, the shaman\u2019s curse\u2014do not merely describe the world but make it. Computation casts a cultural shadow that is shaped by this long tradition of magical thinking. In this book, Ed Finn considers how the algorithm\u2014in practical terms, \u201ca method for solving a problem\u201d\u2014has its roots not only in mathematical logic but also in cybernetics, philosophy, and magical thinking. Finn argues that the algorithm deploys concepts from the idealized space of computation in a messy reality, with unpredictable and sometimes fascinating results. Drawing on sources that range from Neal Stephenson\u2019s Snow Crash to Diderot\u2019s Encyclop\u00e9die, from Adam Smith to the Star Trek computer, Finn explores the gap between theoretical ideas and pragmatic instructions. He examines the development of intelligent assistants like Siri, the rise of algorithmic aesthetics at Netflix, Ian Bogost\u2019s satiric Facebook game Cow Clicker, and the revolutionary economics of Bitcoin. He describes Google\u2019s goal of anticipating our questions, Uber\u2019s cartoon maps and black box accounting, and what Facebook tells us about programmable value, among other things.If we want to understand the gap between abstraction and messy reality, Finn argues, we need to build a model of \u201calgorithmic reading\u201d and scholarship that attends to process, spearheading a new experimental humanities.",
@@ -20495,11 +20464,7 @@
           "itemType": "attachment",
           "title": "floridi2004morality_On the Morality of Artificial Agents.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/floridi2004morality_On the Morality of Artificial Agents.pdf",
-          "tags": [
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:09:44Z",
           "dateModified": "2023-04-06T03:31:12Z",
@@ -20830,7 +20795,7 @@
     },
     {
       "key": "VKN42RA7",
-      "version": 977,
+      "version": 6109,
       "itemType": "journalArticle",
       "title": "Identity interplay: The importance and challenges of consumer research on multiple identities",
       "abstractNote": "Although it is well accepted that the self-concept includes numerous identities, the preponderance of past consumer identity research has explored one identity at a time and this focus has limited new insights into the interplay between identities. We integrate across research streams to propose a Multiple-Identity Network as a unifying framework to help inform and direct future research on multiple identities. This framework identifies three important areas of opportunity for research on multiple identities: (a) Identity Structure, (b) Identity Management, and (c) Identity Change processes that drive both structure and management.",
@@ -20866,17 +20831,6 @@
       ],
       "tags": [
         {
-          "tag": "notion"
-        },
-        {
-          "tag": "intersectionality",
-          "type": 1
-        },
-        {
-          "tag": "identity",
-          "type": 1
-        },
-        {
           "tag": "acculturation",
           "type": 1
         },
@@ -20887,6 +20841,17 @@
         {
           "tag": "dissociation",
           "type": 1
+        },
+        {
+          "tag": "identity",
+          "type": 1
+        },
+        {
+          "tag": "intersectionality",
+          "type": 1
+        },
+        {
+          "tag": "notion"
         },
         {
           "tag": "reference groups",
@@ -21098,7 +21063,7 @@
     },
     {
       "key": "ME5UYKJS",
-      "version": 4931,
+      "version": 6133,
       "itemType": "webpage",
       "title": "Full article: To be or not to be algorithm aware: a question of a new digital divide?",
       "url": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2020.1736124",
@@ -21910,7 +21875,7 @@
     },
     {
       "key": "UQ6MTLNB",
-      "version": 2793,
+      "version": 6113,
       "itemType": "preprint",
       "title": "Poverty Lawgorithms: A Poverty Lawyer\u2019s Guide to Fighting Automated Decision-Making Harms on Low-Income Communities",
       "abstractNote": "We live in a \u201cdatafied\u201d society in which our personal data is constantly harvested, analyzed, and sold by governments and businesses. Algorithms analyze this data, sort people into categories, and serve as gatekeepers to life\u2019s necessities. Yet people remain largely in the dark about these big data systems, creating an informational asymmetry whose harmful consequences fall most harshly on low-income people. Data-centric technologies add scope, scale, and speed to negative inferences about poor people. Based on their digital profiles, they can find themselves excluded from mainstream opportunities, such as jobs, education, and housing; targeted for predatory services and products; and surveilled by systems in their neighborhoods, workplaces, and schools. The technological systems impacting low-income communities raise profound issues of civil rights, human rights, and economic justice.As a result, civil legal services (or poverty) lawyers increasingly represent clients whose legal challenges are intertwined with automated decision-making systems, digital profiling, predictive analytics, and various artificial intelligence tools. Competent legal representation requires an ability to issue-spot the ways in which data-centric technologies intersect with legal claims and defenses and to understand governing legal frameworks. At the same time, lawyers do not need the technical expertise of computer scientists to effectively interrogate these systems. Rather, understanding where and how data-centric technologies operate puts lawyers in a powerful position to advocate alongside their clients.This report is designed to help poverty lawyers and their clients resist the adverse impacts of data-centric technologies and to engage as stakeholders in the adoption and implementation of algorithmic systems. The report is organized by major practice area and includes links to helpful resources for deeper dives into specific issues that may arise in legal services representation and policy advocacy. The practice areas covered are consumer, family law, housing, public benefits, schools and education, and workers\u2019 rights, as well as a final section on how immigration surveillance intersects with these practice areas.",
@@ -21930,15 +21895,15 @@
       ],
       "tags": [
         {
-          "tag": "SSRN",
-          "type": 1
-        },
-        {
           "tag": "Michele E. Gilman",
           "type": 1
         },
         {
           "tag": "Poverty Lawgorithms: A Poverty Lawyer\u2019s Guide to Fighting Automated Decision-Making Harms on Low-Income Communities",
+          "type": 1
+        },
+        {
+          "tag": "SSRN",
           "type": 1
         }
       ],
@@ -22122,7 +22087,7 @@
     },
     {
       "key": "Y7W2LZQB",
-      "version": 0,
+      "version": 6040,
       "itemType": "preprint",
       "title": "Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations",
       "abstractNote": "Generative language models have improved drastically, and can now produce realistic text outputs that are difficult to distinguish from human-written content. For malicious actors, these language models bring the promise of automating the creation of convincing and misleading text for use in influence operations. This report assesses how language models might change influence operations in the future, and what steps can be taken to mitigate this threat. We lay out possible changes to the actors, behaviors, and content of online influence operations, and provide a framework for stages of the language model-to-influence operations pipeline that mitigations could target (model construction, model access, content dissemination, and belief formation). While no reasonable mitigation can be expected to fully prevent the threat of AI-enabled influence operations, a combination of multiple mitigations may make an important difference.",
@@ -22202,7 +22167,7 @@
       "notes": [
         {
           "key": "TN85EYGB",
-          "version": 0,
+          "version": 6040,
           "itemType": "note",
           "parentItem": "Y7W2LZQB",
           "note": "Comment: 82 pages, 26 figures",
@@ -22282,7 +22247,7 @@
     },
     {
       "key": "KTLSRJQC",
-      "version": 4961,
+      "version": 6151,
       "itemType": "journalArticle",
       "title": "Delivering Summer Electronic Benefit Transfers for Children through the Supplemental Nutrition Assistance Program or the Special Supplemental Nutrition Program for Women, Infants, and Children: Benefit Use and Impacts on Food Security and Foods Consumed",
       "abstractNote": "Background\nThe Summer Electronic Benefit Transfers for Children (SEBTC) demonstration piloted summer food assistance through electronic benefit transfers (EBTs), providing benefits either through the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) or the Supplemental Nutrition Assistance Program (SNAP) EBT.\nObjective\nTo inform food assistance policy and describe how demonstrations using WIC and SNAP models differed in benefit take-up and impacts on food security and children\u2019s food consumption.\nDesign\nSites chose to deliver SEBTC using the SNAP or WIC EBT system. Within each site, in 2012, households were randomly assigned to a benefit group or a no-benefit control group.\nParticipants\nGrantees (eight states and two Indian Tribal Organizations) selected school districts serving many low-income children. Schoolchildren were eligible in cases where they had been certified for free or reduced-price meals during the school year. Before the demonstration, households in the demonstration sample had lower incomes and lower food security, on average, than households with eligible children nationally.\nIntervention\nGrantees provided selected households with benefits worth $60 per child per summer month using SNAP or WIC EBT systems. SNAP-model benefits covered most foods. WIC-model benefits could only be used for a specific package of foods.\nOutcome measures\nKey outcomes were children\u2019s food security (assessed using the US Department of Agriculture food security scale) and food consumption (assessed using food frequency questions).\nStatistical analyses\nDifferences in mean outcomes between the benefit and control groups measured impact, after adjusting for household characteristics.\nResults\nIn WIC sites, benefit-group households redeemed a lower percentage of SEBTC benefits than in SNAP sites. Nonetheless, the benefit groups in both sets of sites had similar large reductions in very low food security among children, relative to no-benefit controls. Children receiving benefits consumed more healthful foods, and these impacts were larger in WIC sites.\nConclusions\nResults suggest the WIC SEBTC model deserves strong consideration.",
@@ -22631,7 +22596,7 @@
     },
     {
       "key": "W3KMJH66",
-      "version": 1606,
+      "version": 6107,
       "itemType": "blogPost",
       "title": "Investigating the algorithms that govern our lives",
       "abstractNote": "<p>On March 15, Instagram posted a note on its blog that sent the internet into a frenzy: \u201cTo improve your experience, your feed will soon be ordered to show the moments we believe you will care about the most.\u201d Panicked Instagram users protested, afraid their posts would get lost in the revised stream, and began [\u2026]</p>",
@@ -22984,7 +22949,7 @@
     },
     {
       "key": "LYLNHHKK",
-      "version": 972,
+      "version": 6108,
       "itemType": "blogPost",
       "title": "Algorithmic culture. \u201cCulture now has two audiences: people and machines\u201d",
       "abstractNote": "A conversation with Ted Striphas",
@@ -24695,7 +24660,7 @@
     },
     {
       "key": "HNCEZJ37",
-      "version": 4964,
+      "version": 6153,
       "itemType": "webpage",
       "title": "The Latent Racism of the Better Homes in America Program",
       "abstractNote": "How Better Homes in America\u2014a collaboration between Herbert Hoover and the editor of a conservative women\u2019s magazine\u2014promoted idealized whiteness.",
@@ -25133,11 +25098,7 @@
           "itemType": "attachment",
           "title": "Hampton - 2021 - Techno Racial Capitalism.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Hampton - 2021 - Techno Racial Capitalism.pdf",
-          "tags": [
-            {
-              "tag": "#nosource"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:52Z",
           "dateModified": "2023-02-15T09:05:53Z",
@@ -25261,7 +25222,7 @@
     },
     {
       "key": "KPNRSBGN",
-      "version": 958,
+      "version": 6107,
       "itemType": "journalArticle",
       "title": "If the People Like It, It Must Be Good: Criticism, Democracy and the Culture of Consensus",
       "abstractNote": "What is the role, if any, of professional music criticism in the age of the internet, and what are the potential consequences of its likely demise? How do we evaluate the claim that the erosion of traditional forms of cultural authority, including professional criticism, is inherently democratic? To address these questions, this paper compares professional music criticism with the technologically-mediated forms of cultural judgment that have increasingly replaced it, analyzing the shift from aesthetics to consensus as the basis for cultural judgment. Rather than signaling the end of cultural authority, the recent transformations of the music world are marked by the emergence of authority of a different kind.",
@@ -26241,7 +26202,7 @@
     },
     {
       "key": "WERHSPL6",
-      "version": 4935,
+      "version": 6134,
       "itemType": "book",
       "title": "Intersectionality",
       "abstractNote": "\"In this fully revised and expanded second edition of their popular text, Hill Collins and Bilge provide a much-needed introduction to the field of intersectional knowledge and praxis for students new to the field\"",
@@ -26270,10 +26231,6 @@
         }
       ],
       "tags": [
-        {
-          "tag": "sociology",
-          "type": 1
-        },
         {
           "tag": "critical theories (dialectical critiques)",
           "type": 1
@@ -26304,6 +26261,10 @@
         },
         {
           "tag": "Sociologie",
+          "type": 1
+        },
+        {
+          "tag": "sociology",
           "type": 1
         },
         {
@@ -26417,7 +26378,7 @@
     },
     {
       "key": "AYPACVK6",
-      "version": 4897,
+      "version": 6108,
       "itemType": "conferencePaper",
       "title": "Do We Care About Diversity in Human Computer Interaction: A Comprehensive Content Analysis on Diversity Dimensions in Research",
       "abstractNote": "In Human-Computer Interaction (HCI) research, awareness for the relevance of diversity of users is increasing. In this work, we analyze whether the articulated need for more diversity-sensitive research led indeed to a higher consideration of diversity in HCI research. Based on a comprehensive collection of diversity dimensions, we present results of a quantitative content analysis of articles accepted in the Proceedings of the Conference on Human Factors in Computing Systems 2006, 2011, and 2016. Results demonstrate how many and how intensively diversity dimensions were considered, and moreover highlight those dimensions that have so far received less attention. Uncovering continuous and discontinuous trends across time and differences between subfields of research, we identify research gaps and aim at contributing to a comprehensive understanding of diversity supporting diversity-sensitive research in HCI.",
@@ -26975,7 +26936,7 @@
     },
     {
       "key": "MCVLJFZZ",
-      "version": 4933,
+      "version": 6134,
       "itemType": "book",
       "title": "Feminist Theory: From Margin to Center",
       "abstractNote": "When Feminist Theory: From Margin to Center was first published in 1984, it was welcomed and praised by feminist thinkers who wanted a new vision. Even so, individual readers frequently found the theory \"unsettling\" or \"provocative.\" Today, the blueprint for feminist movement presented in the book remains as provocative and relevant as ever. Written in hooks's characteristic direct style, Feminist Theory embodies the hope that feminists can find a common language to spread the word and create a mass, global feminist movement.",
@@ -27741,7 +27702,7 @@
     },
     {
       "key": "WWV2NDLY",
-      "version": 5000,
+      "version": 6180,
       "itemType": "journalArticle",
       "title": "Decolonizing Global Ethics: Thinking with the Pluriverse",
       "abstractNote": "This essay examines the idea of the pluriverse as one response to recent calls for the decolonization of international and global ethics. It argues that taking pluriversality seriously challenges prevailing understandings of global ethics as the acquisition and application of moral expertise. Instead of aiming to know the meaning of global justice and then apply it to particular contexts, a pluriversal ethics addresses the question of how to cultivate a practical ethic of coexistence and collaboration with others in an ontologically plural and radically hierarchical world.",
@@ -27767,15 +27728,11 @@
       ],
       "tags": [
         {
-          "tag": "ethics",
-          "type": 1
-        },
-        {
-          "tag": "pluriverse",
-          "type": 1
-        },
-        {
           "tag": "decolonial",
+          "type": 1
+        },
+        {
+          "tag": "ethics",
           "type": 1
         },
         {
@@ -27784,6 +27741,10 @@
         },
         {
           "tag": "international theory",
+          "type": 1
+        },
+        {
+          "tag": "pluriverse",
           "type": 1
         },
         {
@@ -27883,7 +27844,7 @@
     },
     {
       "key": "QG4IATHK",
-      "version": 4901,
+      "version": 6114,
       "itemType": "book",
       "title": "Affinity Online: How Connection and Shared Interest Fuel Learning",
       "abstractNote": "Boyband One Direction fanfiction writers, gamers who solve math problems together, Harry Potter fans who knit for a cause. Across subcultures and geographies, young fans have found each other and formed community online, learning from one another along the way. From these and other in-depth case studies of online affinity networks, Affinity Online considers how young people have found new opportunities for expanded learning in the digital age. These cases reveal the shared characteristics and unique cultures and practices of different online affinity networks, and how they support \u201cconnected learning\u201d\u2014learning that brings together youth interests, social activity, and accomplishment in civic, academic, and career relevant arenas. Although involvement in online communities is an established fixture of growing up in the networked age, participation in these spaces show how young people are actively taking up new media for their own engaged learning and social development.\n\n\n\nWhile providing a wealth of positive examples for how the online world provides new opportunities for learning, the book also examines the ways in which these communities still reproduce inequalities based on gender, race, and socioeconomic status. The book concludes with a set of concrete suggestions for how the positive learning opportunities offered by online communities could be made available to more young people, at school and at home. Affinity Online explores how online practices and networks bridge the divide between in-school and out-of-school learning, finding that online affinity networks are creating new spaces of opportunity for realizing the ideals of connected learning.",
@@ -28118,7 +28079,7 @@
       ],
       "tags": [
         {
-          "tag": "accountability",
+          "tag": "big data",
           "type": 1
         },
         {
@@ -28126,7 +28087,11 @@
           "type": 1
         },
         {
-          "tag": "big data",
+          "tag": "transparency",
+          "type": 1
+        },
+        {
+          "tag": "accountability",
           "type": 1
         },
         {
@@ -28155,10 +28120,6 @@
         },
         {
           "tag": "technocratic governance",
-          "type": 1
-        },
-        {
-          "tag": "transparency",
           "type": 1
         }
       ],
@@ -28457,7 +28418,7 @@
     },
     {
       "key": "M79XCVTV",
-      "version": 4902,
+      "version": 6115,
       "itemType": "journalArticle",
       "title": "Targeting without alienating",
       "abstractNote": "The growing diversity of different nations\u2019 populations has encouraged advertisers to adopt their strategy by taking into consideration groups of consumers that were not traditionally targeted, such as cultural and sexual minorities. However, while such targeting has been favourably received among the targeted minorities, it has also engendered unfavourable reactions among majority members. This paper examines a way for advertisers to target a specific minority group within the mainstream media while maintaining resonance among the broader audience. An experiment is conducted to examine viewers\u2019 responses to multicultural advertising in France. Results demonstrate the fundamental role of viewers\u2019 congruence judgements and felt targetedness on the effectiveness of multicultural targeting attempts, and extend our understanding of consumer responses to multicultural advertising.",
@@ -28583,22 +28544,22 @@
       ],
       "tags": [
         {
-          "tag": "algorithms",
-          "type": 1
-        },
-        {
-          "tag": "artificial intelligence",
-          "type": 1
-        },
-        {
-          "tag": "government",
+          "tag": "machine learning",
           "type": 1
         },
         {
           "tag": "housing"
         },
         {
-          "tag": "machine learning",
+          "tag": "artificial intelligence",
+          "type": 1
+        },
+        {
+          "tag": "algorithms",
+          "type": 1
+        },
+        {
+          "tag": "government",
           "type": 1
         },
         {
@@ -28673,7 +28634,7 @@
     },
     {
       "key": "BSNVCYMK",
-      "version": 4960,
+      "version": 6151,
       "itemType": "webpage",
       "title": "Jonathan Osler | White Accomplices",
       "abstractNote": "WhiteAccomplices, Curated by Jonathan Osler: \"Opportunities for White People in the Fight for Racial Justice: Moving from Actor to Ally to Accomplice.\"",
@@ -28921,7 +28882,7 @@
     },
     {
       "key": "PA3T8WAW",
-      "version": 3042,
+      "version": 6107,
       "itemType": "journalArticle",
       "title": "Governance by algorithms: reality construction by algorithmic selection on the Internet",
       "abstractNote": "This paper explores the governance by algorithms in information societies. Theoretically, it builds on (co-)evolutionary innovation studies in order to adequately grasp the interplay of technological and societal change, and combines these with institutional approaches to incorporate governance by technology or rather software as institutions. Methodologically it draws from an empirical survey of Internet-based services that rely on automated algorithmic selection, a functional typology derived from it, and an analysis of associated potential social risks. It shows how algorithmic selection has become a growing source of social order, of a shared social reality in information societies. It argues that \u2013 similar to the construction of realities by traditional mass media \u2013 automated algorithmic selection applications shape daily lives and realities, affect the perception of the world, and influence behavior. However, the co-evolutionary perspective on algorithms as institutions, ideologies, intermediaries and actors highlights differences that are to be found first in the growing personalization of constructed realities, and second in the constellation of involved actors. Altogether, compared to reality construction by traditional mass media, algorithmic reality construction tends to increase individualization, commercialization, inequalities and deterritorialization, and to decrease transparency, controllability and predictability.",
@@ -28952,9 +28913,6 @@
       ],
       "tags": [
         {
-          "tag": "notion"
-        },
-        {
           "tag": "algorithms",
           "type": 1
         },
@@ -28969,6 +28927,9 @@
         {
           "tag": "Internet",
           "type": 1
+        },
+        {
+          "tag": "notion"
         },
         {
           "tag": "reality construction",
@@ -30398,7 +30359,7 @@
     },
     {
       "key": "2AK8ZGH4",
-      "version": 1757,
+      "version": 6114,
       "itemType": "book",
       "title": "Planning and Managing Scientific Research: A guide for the beginning researcher",
       "abstractNote": "Although there are many books on project management, few address the issues associated with scientific research. This work is based on extensive scientific research and management experiences and is designed to provide an introduction to planning and managing scientific research for the beginning researcher. The aim is to build an understanding of the nature of scientific research, and the way in which research projects can be developed, planned and managed to a successful outcome. The book is designed to help the transition from being a member of a research team to developing a project and making them work, and to provide a framework for future work. The emphasis of the book is on broadly applicable principles that can be of value irrespective of discipline. It should be of value to researchers in the later stages of Ph.D. work and Postdoctoral workers, and also for independent researchers.",
@@ -31030,7 +30991,7 @@
     },
     {
       "key": "Q3P3TMF8",
-      "version": 4897,
+      "version": 6109,
       "itemType": "journalArticle",
       "title": "Calculators for Women: When Identity-Based Appeals Alienate Consumers",
       "abstractNote": "From \u201cChick Beer\u201d to \u201cDryer Sheets for Men\u201d to shampoo for \u201cAfrican Americans,\u201d identity-based labeling is frequently deployed by marketers to appeal to specific target markets. Yet such identity appeals can backfire, alienating the very consumers that they aim to attract. We theorize and empirically demonstrate that identity appeals lead to consumer avoidance when they evoke a stereotype about a marginalized identity: females in studies 1\u20133a and racial minorities in studies 3b\u20135. We identify categorization threat\u2014the feeling of being unwillingly categorized as (and reduced to) a single identity\u2014as a critical driver underlying consumer reactions to identity appeals. The negative impact of identity appeals is mitigated in situations in which categorization threat is less likely to be activated: (a) when multiple identities are evoked, preventing consumers from feeling reduced to a single identity, and (b) when targeting by identity is seen as necessary for differentiating product offerings.",
@@ -32315,7 +32276,7 @@
     },
     {
       "key": "MGWSX3L5",
-      "version": 4960,
+      "version": 6151,
       "itemType": "blogPost",
       "title": "Why Most Gun Laws Aren\u2019t Backed Up By Evidence",
       "abstractNote": "In the first month of 2023, 25 people lost their lives in four mass shootings in California over just eight days. It\u2019s a grim statistic, made all the more distr\u2026",
@@ -33433,7 +33394,7 @@
     },
     {
       "key": "AHEAUNYX",
-      "version": 4937,
+      "version": 6134,
       "itemType": "journalArticle",
       "title": "Decolonization of Ai: A Crucial Blind Spot",
       "date": "2022",
@@ -35880,7 +35841,7 @@
     },
     {
       "key": "P3XT87D2",
-      "version": 4897,
+      "version": 6108,
       "itemType": "journalArticle",
       "title": "HCI as heterodoxy: Technologies of identity and the queering of interaction with computers\u2729",
       "abstractNote": "As digital technologies are woven more closely into identity formation, society needs ways to keep tools flexible to many versions of self-presentation and avoid perpetuating the political status quo through conservative and apolitical designing. This paper explores one route, drawing on Queer Theory to look at resistance to computer formalisation of identity through queering. Several case studies explore how we might apply the oblique route to design of a range of technologies that help users define themselves. In particular, forgetting, obscuring, cheating and eluding are activities held up to counter computer strengths and offer a more flexible vision of interaction design for the future.",
@@ -36099,7 +36060,7 @@
     },
     {
       "key": "IXEKQBAQ",
-      "version": 4897,
+      "version": 6109,
       "itemType": "journalArticle",
       "title": "Key Concepts in Advertising: Disability",
       "abstractNote": "Key Concepts in Advertising articles provide short lectures on an important concept to help understand advertising's place in society, culture, history, and the economy. This article focuses on disability and its evolving place in advertising and society. A series of short videos provide background information about disability in society; define key concepts including disability, accessibility, and other terminology; and encourage viewers to apply the learnings in their own creation and analysis of advertisements. Viewers learn that disability in advertising has evolved from othering and ableism toward representations of inclusion and welcoming. Additionally, viewers understand the value and role of accessible advertising to build equitable connections with disabled audiences. A recommended reading list provides other sources to learn more about advertising and disability and its associated topics.",
@@ -36458,7 +36419,7 @@
     },
     {
       "key": "SR5D9Y7T",
-      "version": 4804,
+      "version": 6182,
       "itemType": "journalArticle",
       "title": "Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions",
       "abstractNote": "As the use of algorithmic systems in high-stakes decision-making increases, the ability to contest algorithmic decisions is being recognised as an important safeguard for individuals. Yet, there is little guidance on what 'contestability'--the ability to contest decisions--in relation to algorithmic decision-making requires. Recent research presents different conceptualisations of contestability in algorithmic decision-making. We contribute to this growing body of work by describing and analysing the perspectives of people and organisations who made submissions in response to Australia's proposed 'AI Ethics Framework', the first framework of its kind to include 'contestability' as a core ethical principle. Our findings reveal that while the nature of contestability is disputed, it is seen as a way to protect individuals, and it resembles contestability in relation to human decision-making. We reflect on and discuss the implications of these findings.",
@@ -36492,11 +36453,11 @@
       ],
       "tags": [
         {
-          "tag": "artificial intelligence",
+          "tag": "algorithmic decision-making",
           "type": 1
         },
         {
-          "tag": "algorithmic decision-making",
+          "tag": "artificial intelligence",
           "type": 1
         },
         {
@@ -36535,7 +36496,7 @@
     },
     {
       "key": "WT6HG2TA",
-      "version": 975,
+      "version": 6108,
       "itemType": "journalArticle",
       "title": "The production of prediction: What does machine learning want?",
       "abstractNote": "Retail, media, finance, science, industry, security and government increasingly depend on predictions produced through techniques such as machine learning. How is it that machine learning can promise to predict with great specificity what differences matter or what people want in many different settings? We need, I suggest, an account of its generalization if we are to understand the contemporary production of prediction. This article maps the principal forms of material action, narrative and problematization that run across algorithmic modelling techniques such as logistic regression, decision trees and Naive Bayes classifiers. It highlights several interlinked modes of generalization that engender increasingly vast data infrastructures and platforms, and intensified mathematical and statistical treatments of differences. Such an account also points to some key sites of instability or problematization inherent to the process of generalization. If movement through data is becoming a principal intersection of power relations, economic value and valid knowledge, an account of the production of prediction might also help us begin to ask how its generalization potentially gives rise to new forms of agency, experience or individuations.",
@@ -38670,7 +38631,7 @@
     },
     {
       "key": "YRFNHMVJ",
-      "version": 4930,
+      "version": 6133,
       "itemType": "journalArticle",
       "title": "Methods of intersectional research",
       "abstractNote": "Intersectionality is a powerful concept within sociology, urging scholars to consider how an array of socially constructed dimensions of difference intersect to shape each person\u2019s experiences and actions. This paper provides a number of different blueprints for designing intersectional research, which can be adapted for different purposes. The key methodological tenets of intersectional research are oppression, relationality, complexity, context, comparison, and deconstruction. This paper defines these tenets, addresses misunderstandings of their implications, and applies these tenets to existing intersectional research. Multiple qualitative, comparative, and quantitative strategies can be used to carry out intersectional research; there is not just one way to do intersectional empirical research. While intersectional methods require thought in designing the research, they are doable. What is more, they provide much more nuanced understandings of social relations and inequality. If race, class, gender and other socially constructed dimensions of difference are understood not as static but as dynamic, researchers can employ a wide variety of methodological tools to analyze power relations via their intersections.",
@@ -39907,11 +39868,7 @@
           "itemType": "attachment",
           "title": "Narayanan - 2022 - The Limits Of The Quantitative Approach To Discrim.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Narayanan - 2022 - The Limits Of The Quantitative Approach To Discrim.pdf",
-          "tags": [
-            {
-              "tag": "#nosource"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:41Z",
           "dateModified": "2023-02-15T09:05:42Z",
@@ -40770,7 +40727,7 @@
     },
     {
       "key": "GQTW2YJE",
-      "version": 4964,
+      "version": 6152,
       "itemType": "blogPost",
       "title": "Urban Density: Confronting the Distance Between Desire and Disparity",
       "abstractNote": "Placemaker and author Jay Pitter argues for an equity-based understanding of urban density during the COVID-19 crisis and beyond.",
@@ -41015,7 +40972,7 @@
     },
     {
       "key": "BYPMZPY6",
-      "version": 5885,
+      "version": 6134,
       "itemType": "conferencePaper",
       "title": "Critical Race Theory for HCI",
       "abstractNote": "The human-computer interaction community has made some efforts toward racial diversity, but the outcomes remain meager. We introduce critical race theory and adapt it for HCI to lay a theoretical basis for race-conscious efforts, both in research and within our community. Building on the theory's original tenets, we argue that racism is pervasive in everyday socio-technical systems; that the HCI community is prone to \"interest convergence\", where concessions to inclusion require benefits to those in power; and that the neoliberal underpinnings of the technology industry itself propagate racism. Critical race theory uses storytelling as a means to upend deep-seated assumptions, and we relate several personal stories to highlight ongoing problems of race in HCI. The implications: all HCI research must be attuned to issues of race; participation of underrepresented minorities must be sought in all of our activities; and as a community, we cannot become comfortable while racial disparities exist.",
@@ -41055,15 +41012,11 @@
       ],
       "tags": [
         {
-          "tag": "theory",
+          "tag": "critical race theory",
           "type": 1
         },
         {
           "tag": "race",
-          "type": 1
-        },
-        {
-          "tag": "critical race theory",
           "type": 1
         },
         {
@@ -41072,6 +41025,10 @@
         },
         {
           "tag": "storytelling",
+          "type": 1
+        },
+        {
+          "tag": "theory",
           "type": 1
         }
       ],
@@ -41261,7 +41218,7 @@
     },
     {
       "key": "YU7EH4MB",
-      "version": 960,
+      "version": 6107,
       "itemType": "book",
       "title": "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy",
       "abstractNote": "A former Wall Street quant sounds an alarm on the mathematical models that pervade modern life and threaten to rip apart our social fabricWe live in the age of the algorithm. Increasingly, the decisions that affect our liveswhere we go to school, whether we get a car loan, how much we pay for health insuranceare being made not by humans, but by mathematical models. In theory, this should lead to greater fairness: Everyone is judged according to the same rules, and bias is eliminated. But as Cathy ONeil reveals in this urgent and necessary book, the opposite is true. The models being used today are opaque, unregulated, and uncontestable, even when theyre wrong. Most troubling, they reinforce discrimination: If a poor student cant get a loan because a lending model deems him too risky (by virtue of his zip code), hes then cut off from the kind of education that could pull him out of poverty, and a vicious spiral ensues. Models are propping up the lucky and punishing the downtrodden, creating a toxic cocktail for democracy. Welcome to the dark side of Big Data. Tracing the arc of a persons life, ONeil exposes the black box models that shape our future, both as individuals and as a society. These weapons of math destruction score teachers and students, sort rsums, grant (or deny) loans, evaluate workers, target voters, set parole, and monitor our health. ONeil calls on modelers to take more responsibility for their algorithms and on policy makers to regulate their use. But in the end, its up to us to become more savvy about the models that govern our lives. This important book empowers us to ask the tough questions, uncover the truth, and demand change.",
@@ -41516,7 +41473,7 @@
     },
     {
       "key": "NBNU7ZNM",
-      "version": 959,
+      "version": 6107,
       "itemType": "book",
       "title": "The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think",
       "abstractNote": "In December 2009, Google began customizing its search results for all users, and we entered a new era of personalization. With little notice or fanfare, our online experience is changing, as the websites we visit are increasingly tailoring themselves to us. In this engaging and visionary book, MoveOn.org board president Eli Pariser lays bare the personalization that is already taking place on every major website, from Facebook to AOL to ABC News. As Pariser reveals, this new trend is nothing short of an invisible revolution in how we consume information, one that will shape how we learn, what we know, and even how our democracy works.The race to collect as much personal data about us as possible, and to tailor our online experience accordingly, is now the defining battle for todays internet giants like Google, Facebook, Apple and Microsoft. Behind the scenes, a burgeoning industry of data companies is tracking our personal information to sell to advertisers, from our political leanings to the hiking boots we just browsed on Zappos.As a result, we will increasingly each live in our own, unique information universewhat Pariser calls the filter bubble. We will receive mainly news that is pleasant, familiar and confirms our beliefsand since these filters are invisible, we wont know what is being hidden from us. Our past interests will determine what we are exposed to in the future, leaving less room for the unexpected encounters that spark creativity, innovation and the democratic exchange of ideas.Drawing on interviews with both cyber-skeptics and cyber-optimists, from the co-founder of OK Cupid, an algorithmically-driven dating website, to one of the chief visionaries of U.S. information warfare, THE FILTER BUBBLE tells the story of how the Internet, a medium built around the open flow ofideas, is closing in on itself under the pressure of commerce and monetization. It peeks behind the curtain at the server farms, algorithms, and geeky entrepreneurs that have given us this new reality, and investigates the consequences of corporate power in the digital age.THE FILTER BUBBLE reveals how personalization could undermine the internets original purpose as an open platform for the spread of ideas, and leave us all in an isolated, echoing world. But it is not too late to change course. Pariser lays out a new vision for the web, one that embraces the benefits of technology without turning a blind eye to its negative consequences, and will ensure that the Internet lives up to its transformative promise.",
@@ -41751,7 +41708,7 @@
     },
     {
       "key": "CGNDFXU9",
-      "version": 4942,
+      "version": 6140,
       "itemType": "journalArticle",
       "title": "Sociotechnical Systems: A North American Reflection on Empirical Studies of the Seventies",
       "abstractNote": "This paper reviews the development of sociotechnical systems theory and research over the past 30 years, paying particular attention to the evolution of the paradigm in North America during the past decade. Elements of sociotechnical systems theory discussed here include the conceptualization of social systems, technical systems, and open systems, joint optimization, organizational choice, variance control, boundary location, support congruence, quality of work life, and continuous learning. A review of 134 experiments is then summarized, indicating which features of sociotechnical systems design are used most frequently, and which in turn are associated with reported success on a number of critical outcome dimensions such as productivity, costs, quality, and satisfaction. An unexpected finding of this review was that while sociotechnical system experiments have been extremely successful overall, the number of experiments involving technological innovation or change is relatively small; moreover, from the results achieved in these experiments, it is obvious that we still have much to learn regarding the design of technical systems for joint optimization. Methodological issues and areas in need of further research are explored.",
@@ -41805,7 +41762,7 @@
     },
     {
       "key": "KRVHXVI7",
-      "version": 2399,
+      "version": 6107,
       "itemType": "book",
       "title": "The Black Box Society: The Secret Algorithms That Control Money and Information",
       "abstractNote": "Every day, corporations are connecting the dots about our personal behavior\u2014silently scrutinizing clues left behind by our work habits and Internet use. But who connects the dots about what firms are doing with all this information? Frank Pasquale exposes how powerful interests abuse secrecy for profit and explains ways to rein them in.",
@@ -42604,11 +42561,7 @@
           "itemType": "attachment",
           "title": "Peters - 2016 - Digital keywords a vocabulary of information soci.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Peters - 2016 - Digital keywords a vocabulary of information soci.pdf",
-          "tags": [
-            {
-              "tag": "#nosource"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:51Z",
           "dateModified": "2023-02-15T09:05:52Z",
@@ -42859,7 +42812,7 @@
     },
     {
       "key": "UWP6FMJY",
-      "version": 4897,
+      "version": 6109,
       "itemType": "journalArticle",
       "title": "A Multiple Stakeholder Perspective on Responsibility in Advertising",
       "abstractNote": "Responsibility in advertising requires that all stakeholders honor their obligations to one another. Advertisingrelated activities that violate accepted standards will be deemed irresponsible by one or more stakeholders. These activities may affect advertisers and consumers negatively; advertisers may incur damaging publicity that threatens their long-term viability, and consumers may incur physical, financial, or emotional injury. To mitigate such harms, regulators are charged with protecting society's interests. Responsibility in advertising is introduced and the interconnections between these major stakeholders are briefly discussed. The papers that comprise this special issue are then introduced and manuscript reviewers are acknowledged.",
@@ -43227,7 +43180,7 @@
     },
     {
       "key": "BFJ3EJJR",
-      "version": 4933,
+      "version": 6134,
       "itemType": "journalArticle",
       "title": "Queer as Intersectionality: Theorizing Gay Muslim Identities",
       "abstractNote": "I begin by identifying characterizations of Muslim identities as antithetical to a wide range of western values, including democracy, secularization, gender equality and sexual diversity. I argue that issues of gender and sexuality represent a problematic around modernity and its values but one that is more complex than the putative clash of civilizations discourse. I suggest that gay Muslims represent an intersectional location that productively illuminates this problematic, because their existence challenges the positioning of western and eastern cultures as mutually exclusive and oppositional. I then theorize this intersectionality using queer theory, arguing that there is an affinity between the queer emphasis on deferred ontology and intersectional emphasis on standpoint, suggesting an understanding of intersectionality as productively queer, and queer as necessarily intersectional. In conclusion I sketch out the implications of such theorizing for research on gay Muslim identities.",
@@ -43873,7 +43826,7 @@
     },
     {
       "key": "FG6FIUQL",
-      "version": 4964,
+      "version": 6152,
       "itemType": "magazineArticle",
       "title": "America\u2019s Unfair Rules of the Road",
       "abstractNote": "How our transportation system discriminates against the most vulnerable.",
@@ -45865,7 +45818,7 @@
     },
     {
       "key": "JIJNUQH6",
-      "version": 4962,
+      "version": 6151,
       "itemType": "webpage",
       "title": "How the Trust Trap Perpetuates Inequality",
       "abstractNote": "Corruption, distrust and inequality reinforce one another in a destructive loop",
@@ -45971,7 +45924,7 @@
     },
     {
       "key": "HFU37RYD",
-      "version": 6109,
+      "version": 6183,
       "itemType": "journalArticle",
       "title": "The effect of traditionally marginalized groups in advertising on consumer response",
       "abstractNote": "Increasingly, national brands have cast people from marginalized groups in advertising. It is important to understand the elements that influence consumers\u2019 responses to advertisements featuring groups who have been traditionally excluded from advertising campaigns. Although consumers may wish to buy brands that support their own views on human rights and equality, we propose that consumers in the target market may be uncomfortable if the group portrayal contradicts their beliefs about the topic, concept, or social groups in the ad. Across two studies, we show that when an ad creates this type of internal contradiction within consumers, it may elicit a more negative response than an ad portraying a more traditional model. However, we also find preliminary evidence that using models from marginalized groups can be more effective than using more traditional models\u2014as long as such portrayals do not violate certain target consumers\u2019 schemas. The implications of these results will be discussed.",
@@ -46010,11 +45963,11 @@
           "type": 1
         },
         {
-          "tag": "Identity",
-          "type": 1
+          "tag": "diversity"
         },
         {
-          "tag": "diversity"
+          "tag": "Identity",
+          "type": 1
         },
         {
           "tag": "Schemas",
@@ -46245,7 +46198,7 @@
     },
     {
       "key": "N8ETYPUE",
-      "version": 5002,
+      "version": 6182,
       "itemType": "conferencePaper",
       "title": "&#x201c;Everyone wants to do the model work, not the data work&#x201d;: Data Cascades in High-Stakes AI",
       "abstractNote": "AI models are increasingly applied in high-stakes domains like health and conservation. Data quality carries an elevated significance in high-stakes AI due to its heightened downstream impact, impacting predictions like cancer detection, wildlife poaching, and loan allocations. Paradoxically, data is the most under-valued and de-glamorised aspect of AI. In this paper, we report on data practices in high-stakes AI, from interviews with 53 AI practitioners in India, East and West African countries, and USA. We define, identify, and present empirical evidence on Data Cascades\u2014compounding events causing negative, downstream effects from data issues\u2014triggered by conventional AI/ML practices that undervalue data quality. Data cascades are pervasive (92% prevalence), invisible, delayed, but often avoidable. We discuss HCI opportunities in designing and incentivizing data excellence as a first-class citizen of AI, resulting in safer and more robust systems for all.",
@@ -50298,11 +50251,7 @@
           "itemType": "attachment",
           "title": "Slaughter et al. - 2021 - Algorithms and Economic Justice A Taxonomy of Har.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/Slaughter et al. - 2021 - Algorithms and Economic Justice A Taxonomy of Har.pdf",
-          "tags": [
-            {
-              "tag": "#nosource"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-02-15T09:05:48Z",
           "dateModified": "2023-02-15T09:05:49Z",
@@ -50774,7 +50723,7 @@
     },
     {
       "key": "6Q8KUWUA",
-      "version": 4931,
+      "version": 6133,
       "itemType": "webpage",
       "title": "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change - Kelly Joyce, Laurel Smith-Doerr, Sharla Alegria, Susan Bell, Taylor Cruz, Steve G. Hoffman, Safiya Umoja Noble, Benjamin Shestakofsky, 2021",
       "url": "https://journals.sagepub.com/doi/full/10.1177/2378023121999581",
@@ -51383,11 +51332,7 @@
           "itemType": "attachment",
           "title": "stapleton2022imagining_Imagining new futures beyond predictive systems in child welfare.pdf",
           "path": "/Users/ro/Library/CloudStorage/GoogleDrive-rone@seas.upenn.edu/My Drive/Zotero/stapleton2022imagining_Imagining new futures beyond predictive systems in child welfare.pdf",
-          "tags": [
-            {
-              "tag": "#multiple_attachments_of_same_type"
-            }
-          ],
+          "tags": [],
           "relations": [],
           "dateAdded": "2023-02-16T18:09:47Z",
           "dateModified": "2023-04-06T03:30:35Z",
@@ -52632,7 +52577,7 @@
     },
     {
       "key": "4B5HF566",
-      "version": 4962,
+      "version": 6152,
       "itemType": "webpage",
       "title": "Income Inequality&rsquo;s Most Disturbing Side Effect: Homicide",
       "abstractNote": "Where financial disparities are greatest, the murder rate tends to be high",
@@ -52908,7 +52853,7 @@
     },
     {
       "key": "6X2IMRYX",
-      "version": 4790,
+      "version": 6182,
       "itemType": "journalArticle",
       "title": "Levels of Trust in the Context of Machine Ethics",
       "abstractNote": "Are trust relationships involving humans and artificial agents (AAs) possible? This controversial question has become a hotly debated topic in the emerging field of machine ethics. Employing a model of trust advanced by Buechner and Tavani (Ethics and Information Technology 13(1):39 -- 51, 2011), I argue that the \"short answer\" to this question is yes. However, I also argue that a more complete and nuanced answer will require us to articulate the various levels of trust that are also possible in environments comprising both human agents (HAs) and AAs. In defending this view, I show how James Moor's model for distinguishing four levels of ethical agents in the context of machine ethics (Moor, IEEE Intelligent Systems 21(4):18 -- 21, 2006) can help us to develop a framework that differentiates four (loosely corresponding) levels of trust. Via a series of hypothetical scenarios, I illustrate each level of trust involved in HA -- AA relationships. Finally, I argue that these levels of trust reflect three key factors or variables: (i) the level of autonomy of the individual AAs involved, (ii) the degree of risk/vulnerability on the part of the HAs who place their trust in the AAs, and (iii) the kind of interactions (direct vs. indirect) that occur between the HAs and AAs in the trust environments.",
@@ -53583,7 +53528,7 @@
     },
     {
       "key": "KBXJJGZI",
-      "version": 959,
+      "version": 6107,
       "itemType": "journalArticle",
       "title": "The Concept of Algorithm as an Interpretative Key of Modern Rationality",
       "abstractNote": "According to Ernst Cassirer, the transition from the concept of substance to that of mathematical function as a guide of knowledge coincided with the end of ancient and the beginning of modern theoretical thought. In the first part of this article we argue that a similar transition has also taken place in the practical sphere, where mathematical function occurs in one of its specific forms, which is that of the algorithm concept. In the second part we argue that with the rise of modernity the idea of substance and the related concepts of category and classification, which are deeply embedded in western culture, have not been totally supplanted by that of function. The intertwining of the concepts of substance and function has generated contradictory hybrids. These hybrids are used as a key for the understanding of the different repercussions of algorithmic logic on society in terms of social integration.",
@@ -54036,7 +53981,7 @@
     },
     {
       "key": "RSZ8UMP7",
-      "version": 4961,
+      "version": 6151,
       "itemType": "journalArticle",
       "title": "The Difference Engine: Perpetuating Poverty through Algorithms",
       "date": "2018",
@@ -55715,7 +55660,7 @@
     },
     {
       "key": "JQQ5WJQ8",
-      "version": 4963,
+      "version": 6152,
       "itemType": "blogPost",
       "title": "The longer and more often people use Facebook, the more ad preferences the site lists about them",
       "abstractNote": "How many ad preferences Facebook lists for its U.S. users \u2013 and how accurate they are \u2013 depends on how often, and for how long, they've used the platform.",
@@ -56052,7 +55997,7 @@
     },
     {
       "key": "VLW8B3F4",
-      "version": 4962,
+      "version": 6152,
       "itemType": "magazineArticle",
       "title": "Algorithms Are Making Economic Inequality Worse",
       "abstractNote": "There is a code ceiling that prevents career advancement \u2014 irrespective of gender or race \u2014 because, in an AI-powered organization, junior employees and freelancers rarely interact with other human co-workers. Instead, they are managed by algorithms. As a result, a global, low-paid, algorithmic workforce is emerging. You will increasingly find a gap between top executives and an outer fringe of transient workers, even within organizations. Whether in retail or financial services, logistics or manufacturing, AI-powered organizations are being run by a small cohort of highly paid employees, supported by sophisticated automation and potentially millions of algorithmically managed, low-paid freelancers at the periphery. Job polarization is only part of the problem. What we should really fear is the algorithmic inequality trap that results from these algorithmic feedback loops.",
@@ -56335,7 +56280,7 @@
     },
     {
       "key": "8US9QNXI",
-      "version": 4935,
+      "version": 6134,
       "itemType": "book",
       "title": "The Oxford Handbook of Gender and Politics",
       "abstractNote": "As a field of scholarship, gender and politics has exploded over the last fifty years and is now global, institutionalized, and ever expanding. The Oxford Handbook of Gender and Politics brings to political science an accessible and comprehensive overview of the key contributions of gender scholars to the study of politics and shows how these contributions produce a richer understanding of polities and societies. Like the field it represents, the handbook has a broad understanding of what counts as political and is based on a notion of gender that highlights masculinities as well as femininities, thereby moving feminist debates in politics beyond the focus on women. It engages with some of the key aspects of political science as well as important themes in gender and feminist research (such as sexuality and body politics), thereby forging a dialogue between gender studies in politics and mainstream political science. The handbook is organized in sections that look at sexuality and body politics; political economy; civil society; participation, representation and policymaking; institutions, states and governance as well as nation, citizenship and identity. The Oxford Handbook of Gender and Politics contains and reflects the best scholarship in its field. \n            ,  \n             As a field of scholarship, gender and politics has exploded over the last fifty years and is now global, institutionalized, and ever expanding. The Oxford Handbook of Gender and Politics brings to political science an accessible and comprehensive overview of the key contributions of gender scholars to the study of politics and shows how these contributions produce a richer understanding of polities and societies. Like the field it represents, the handbook has a broad understanding of what counts as political and is based on a notion of gender that highlights masculinities as well as femininities, thereby moving feminist debates in politics beyond the focus on women. It engages with some of the key aspects of political science as well as important themes in gender and feminist research (such as sexuality and body politics), thereby forging a dialogue between gender studies in politics and mainstream political science. The handbook is organized in sections that look at sexuality and body politics; political economy; civil society; participation, representation and policymaking; institutions, states and governance as well as nation, citizenship and identity. The Oxford Handbook of Gender and Politics contains and reflects the best scholarship in its field.",
@@ -56897,7 +56842,7 @@
     },
     {
       "key": "F48ETWVM",
-      "version": 948,
+      "version": 6106,
       "itemType": "journalArticle",
       "title": "The Exploited Labor Behind Artificial Intelligence",
       "abstractNote": "Supporting transnational worker organizing should be at the center of the fight for \u201cethical AI.\u201d",
@@ -57401,7 +57346,7 @@
     },
     {
       "key": "GAQTJLJJ",
-      "version": 956,
+      "version": 6106,
       "itemType": "conferencePaper",
       "title": "Mapping the \"How\" of Collaborative Action: Research Methods for Studying Contemporary Sociotechnical Processes",
       "abstractNote": "Process has been a concern since the beginning of CSCW. Developments in sociotechnical landscapes raise new challenges for studying processes (e.g., massive online communities bringing together vast crowds; Big Data technologies connecting many through the flow of data). This re-opens questions about how we study, document, conceptualize, and design to support processes in complex, contemporary sociotechnical systems. This one-day workshop will bring together researchers to discuss the CSCW community's unique focus and methodological toolkit for studying process and workflow; provide a collaborative space for the improvement and extension of research projects within this space; and catalyze a network of scholars with expertise and interest in addressing challenging methodological questions around studying process in contemporary, sociotechnical systems.",
@@ -57450,11 +57395,11 @@
       ],
       "tags": [
         {
-          "tag": "notion"
-        },
-        {
           "tag": "methods",
           "type": 1
+        },
+        {
+          "tag": "notion"
         },
         {
           "tag": "process diagrams",
@@ -58047,7 +57992,7 @@
     },
     {
       "key": "UNHVIEQ9",
-      "version": 4964,
+      "version": 6152,
       "itemType": "webpage",
       "title": "Whose Streets? Black Streets",
       "abstractNote": "Planners and urbanists, it\u2019s time to reckon with the racism rampant in city building. Here are four actions to take.",
@@ -58904,7 +58849,7 @@
     },
     {
       "key": "8JB5E3YX",
-      "version": 4964,
+      "version": 6153,
       "itemType": "webpage",
       "title": "The Victims Left Behind by Genetic Genealogy",
       "abstractNote": "An Atlantic analysis of more than 100 cases using this powerful new policing tool found only four involving a homicide with a Black victim.",
